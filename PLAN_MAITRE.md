@@ -80,3 +80,4 @@ d) BR : version PDF PT + audio PT + bump non préparée ; configurer le programm
 - Reste à rattraper dans l'ordre : LinkedIn PT + FR (J2), Reel extra 8h manqué, Stories J1, affiliés J1, destaques/épinglés, sprint accélération, Hotmart (checkout/bumps).
 - Astuce technique : l'éditeur de description TikTok Studio mélange la saisie clavier ; coller via presse-papiers (cmd+v) après computer_write_clipboard.
 - RÈGLE prix : posts LinkedIn/IG PT sans prix R$ tant que non vérifiés (voir §10) ; FR : 49,99 € / 69,99 € vérifiés.
+- LinkedIn AREIA IA : post PT (sans prix) et post FR (49,99 € / 69,99 €) publiés ~15h40 BRT. Reste : Reel extra 8h manqué, Stories J1, affiliés J1, destaques/épinglés, sprint accélération.
