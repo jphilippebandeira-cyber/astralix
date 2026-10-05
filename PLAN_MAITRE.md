@@ -60,3 +60,17 @@ Reste à surveiller : prix dans les vidéos (seulement si vérifié), comptes pr
 - Aucun nouveau Reel créé (pas de donnée de performance ; p2/p4/p5 déjà prêts à publier).
 - growth/publicacoes.csv créé dans ce dépôt (le dossier growth/ du Mac n'est pas accessible d'ici) : p1 IG/TikTok, p3 LinkedIn, 2 TikTok planifiés loggés (tâche 6.1 faite).
 - Aucun avertissement plateforme constaté ; aucune publication effectuée.
+
+## 10. HOTMART — RÉSULTATS VÉRIFICATION (5 oct 2026, 18h UTC, Chrome connecté)
+Vérifié dans le back-office :
+- FR 8655898 : prix de base 49,99 € (offre xmxof6tc) ; Pack Guide + Mentalité Inébranlable 69,99 € (offre vf0noke7). Lien de paiement : https://pay.hotmart.com/O107884458A (hotlink go.hotmart.com/O107884458A ; page par défaut checkoutMode=10, modèle « Em Branco »).
+- Bump 60 prompts (produit 8659404, eBook) : prix de base 14,90 € vérifié, code d'offre h6m6hb9l (le plan indiquait ...9t : erreur de frappe probable).
+- ÉCART IMPORTANT : la page Hotmart « Order Bump » du compte est VIDE (écran d'accueil « Configurar novo Order Bump ») et le checkout réel ne montre AUCUN bump (aperçu navigateur BR : produit seul, converti R$306,97). Le bump 60 prompts n'est donc PAS actif sur le checkout FR. Ne pas dire dans le contenu public qu'un bump existe.
+- Desktop/mobile : seul le desktop a été vu (pas de bump). Le mobile n'a pas été testé (pas de redimensionnement fiable).
+- BR 8655836 (eBook) : Hotmart n'affiche qu'une offre de base 47,00 € (code 6n40c766). Les combos R$199,99/R$299,99 (PIX 149,99/249,99) du §1 ne sont PAS retrouvés dans les offres du produit : prix NON vérifiés → ne pas les utiliser dans le contenu public tant qu'ils ne sont pas confirmés sur la page de vente.
+- Affiliés BR 8655836 : programme NON configuré (écran « Configurar programa »). Club BR : non vérifié. FR : lien de recrutement affiliés existe (affiliate.hotmart.com/affiliate-recruiting/view/0093a107884479).
+BLOQUÉ / À FAIRE :
+a) Dossier ~/Downloads/ARE-IA-instagram : accès demandé, en attente d'approbation sur le Mac (audio_p1..p4 non lus).
+b) Créer le bump 60 prompts via le constructeur de checkout (custom-checkout.hotmart.com/8655898) puis re-vérifier desktop+mobile.
+c) Bump audio (cours en ligne 19,90 €, voix IA mentionnée) : non créé ; audio_p3/p4 à générer (Runway generate_speech) après accès au dossier.
+d) BR : version PDF PT + audio PT + bump non préparée ; configurer le programme d'affiliés BR (commission à décider par l'utilisateur).
