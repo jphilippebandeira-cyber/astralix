@@ -82,3 +82,10 @@ d) BR : version PDF PT + audio PT + bump non préparée ; configurer le programm
 - RÈGLE prix : posts LinkedIn/IG PT sans prix R$ tant que non vérifiés (voir §10) ; FR : 49,99 € / 69,99 € vérifiés.
 - LinkedIn AREIA IA : post PT (sans prix) et post FR (49,99 € / 69,99 €) publiés ~15h40 BRT. Reste : Reel extra 8h manqué, Stories J1, affiliés J1, destaques/épinglés, sprint accélération.
 - Extra 15h (trig Extra 5/10 15h A2) : pack3/r10_voz publié Instagram + TikTok ~16h BRT. Engagement (follows/commentaires) du jour NON fait.
+
+## 12. RATTRAPAGE 5 oct — BILAN (fin d'après-midi)
+- FAIT : Reel extra blitz/b22_musica (pilier D) IG+TikTok ; r9_voz et r10_voz IG+TikTok ; LinkedIn PT+FR.
+- Affiliés FR : 65 % de commission, dernier clic, cookie éternel, max 40,66 € par vente, vérifiés sur la page de recrutement Hotmart. 6 créateurs FR vérifiés dans growth/afiliados.csv + messages dans growth/afiliados_J1_FR_mensagens.md (ENVOI MANUEL ; donner l'accès gratuit via Hotmart avant). BR BLOQUÉ : programme d'affiliés BR non configuré, commission à décider.
+- Sprint : page « Diagnostic IA en 3 minutes » FR/PT publiée en artifact privé (aucune collecte d'e-mail ; pas de prix R$). À lier dans la bio/LinkedIn Sélection quand le dono valide. Bumps Hotmart et 3 Reels démo espace membres NON faits (création du bump via le constructeur de checkout ; démo = captures d'écran de l'espace membres).
+- BLOQUÉ (app mobile requise) : Stories J1, destaques, posts épinglés (Instagram web/desktop n'a ni Story, ni destaque, ni « Fixer au profil »). Meta Business Suite demande un login que l'assistant ne saisit pas.
+- Engagement du jour (follows/commentaires) non fait.
