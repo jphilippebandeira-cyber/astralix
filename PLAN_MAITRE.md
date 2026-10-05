@@ -95,3 +95,10 @@ d) BR : version PDF PT + audio PT + bump non préparée ; configurer le programm
 - BUMP 60 PROMPTS (checkout FR) : déjà présent dans le brouillon du builder (page « Em Branco », 14,90 €). La publication « Salvar e atualizar » a été REFUSÉE par le garde-fou (déploiement en production) -> à cliquer par le dono : custom-checkout.hotmart.com/8655898 -> Em Branco -> Editar aparência -> Salvar alterações -> Salvar e atualizar. Puis re-vérifier le checkout. Bump audio : non créé.
 - 3 vidéos démo espace membres FR (modules, formule du prompt, bibliothèque ; contenu réel du Club ; 49,99 € vérifié) : ~/Downloads/ARE-IA-instagram/pack5_demos/. Publication non faite (comptes IG/TikTok en PT-BR ; upload LinkedIn impossible par l'outil).
 - Engagement : 2 follows (dicasdawine, maestroprompts), pas de commentaire (posts trouvés à promesses de croissance, non alignés). L'interface Instagram bureau est instable (fenêtre/clics) ; limite prudente 10 follows/jour.
+
+### Reels démo (espace membres) — programmés
+Pas publiés le 5 oct : IG et TikTok sont déjà à la limite de 5 Reels/jour.
+- demo1_modules : 6 oct 08:30 BRT (trig_016KMZ2k3V2hQxjd5UbfKv6H)
+- demo2_formule : 7 oct 08:30 BRT (trig_01CMH4se87EexkdbZeTCurvE)
+- demo3_bibliotheque : 8 oct 08:30 BRT (trig_011kREF8s4KxPGwpkgJ4B95a)
+Légendes FR avec 49,99 € et garantie de 7 jours. Chaque tâche vérifie la limite de 5 Reels/jour.
