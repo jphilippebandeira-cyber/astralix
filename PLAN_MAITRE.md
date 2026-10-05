@@ -43,3 +43,13 @@ Créneaux 12h/17h/21h BRT · Reels 9:16 uniquement · 3–5 Reels/jour max · ~3
 
 ## 7. BOUCLE D'AMÉLIORATION CONTINUE (tâche quotidienne)
 Chaque jour : (a) métriques de chaque post et comparaison à l'historique ; (b) tendances IG/TikTok/LinkedIn (formats, sons, hooks) et concurrents (odanilogato, paulo.ia, thaismartan, ia.bubows, diegoalmeida.ia) ; (c) revue des erreurs (légendes, liens, doublons, créneaux, avertissements) ; (d) création de nouveaux Reels PT-BR/FR depuis ce qui performe ; (e) MAJ de ce fichier + rapport court.
+
+## 8. AUDIT DES OUBLIS (4 oct 2026, 23h55 BRT)
+Limite : l'historique avant la compaction n'est plus lisible mot à mot ; l'audit s'appuie sur le résumé, le dépôt, le Mac et la liste des tâches planifiées.
+Trous trouvés et comblés par de nouvelles tâches planifiées :
+- Hotmart (vérif. checkout + bump audio + version BR + affiliés) : tâche 5 oct 10h BRT.
+- Republication p2/p4/p5 sur les vrais comptes : tâche 5 oct 14h30 BRT.
+- Mesure p1/p3 + statut TikTok + TikTok Studio : tâche 6 oct 11h BRT.
+- Plan s'arrêtant au 20 oct : tâche 19 oct 17h BRT pour planifier 21 oct → 3 nov.
+- Revue quotidienne d'amélioration continue : tous les jours 7h47 BRT.
+Reste à surveiller : prix dans les vidéos (seulement si vérifié), comptes principaux non connectés à Metricool, doublons de créneaux entre tâches 12h/17h/21h (max 5 Reels/jour).
