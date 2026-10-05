@@ -102,3 +102,6 @@ Pas publiés le 5 oct : IG et TikTok sont déjà à la limite de 5 Reels/jour.
 - demo2_formule : 7 oct 08:30 BRT (trig_01CMH4se87EexkdbZeTCurvE)
 - demo3_bibliotheque : 8 oct 08:30 BRT (trig_011kREF8s4KxPGwpkgJ4B95a)
 Légendes FR avec 49,99 € et garantie de 7 jours. Chaque tâche vérifie la limite de 5 Reels/jour.
+
+### Règle follows (5 oct, ordre de l'utilisateur)
+Minimum 30 follows/jour par plateforme (remplace la limite prudente de 10). Instagram : 30 faits le 5 oct sans avertissement. TikTok : ~10 faits (la recherche « ia » renvoie surtout des comptes fan ; cibler les créateurs). Tâche quotidienne trig_01YWuSqLt4KxrRzjXF4futAq (10h07 BRT). Arrêt 24 h sur la plateforme au premier avertissement.
