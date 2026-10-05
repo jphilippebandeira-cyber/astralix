@@ -74,3 +74,9 @@ a) Dossier ~/Downloads/ARE-IA-instagram : accès demandé, en attente d'approbat
 b) Créer le bump 60 prompts via le constructeur de checkout (custom-checkout.hotmart.com/8655898) puis re-vérifier desktop+mobile.
 c) Bump audio (cours en ligne 19,90 €, voix IA mentionnée) : non créé ; audio_p3/p4 à générer (Runway generate_speech) après accès au dossier.
 d) BR : version PDF PT + audio PT + bump non préparée ; configurer le programme d'affiliés BR (commission à décider par l'utilisateur).
+## 11. RATTRAPAGE 5 oct 2026 (panne du pont Mac ~08h-15h BRT)
+- Toutes les tâches planifiées nécessitant le Mac/Chrome entre ~08h et ~14h50 BRT ont échoué (panne de connexion).
+- Reel pack3/r9_voz publié : Instagram @areiacurso (~14h54) et TikTok are-iacurso (~15h25, en examen). Loggé dans growth/publicacoes.csv.
+- Reste à rattraper dans l'ordre : LinkedIn PT + FR (J2), Reel extra 8h manqué, Stories J1, affiliés J1, destaques/épinglés, sprint accélération, Hotmart (checkout/bumps).
+- Astuce technique : l'éditeur de description TikTok Studio mélange la saisie clavier ; coller via presse-papiers (cmd+v) après computer_write_clipboard.
+- RÈGLE prix : posts LinkedIn/IG PT sans prix R$ tant que non vérifiés (voir §10) ; FR : 49,99 € / 69,99 € vérifiés.
