@@ -120,3 +120,10 @@ Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coût
 - Follows du jour : IG 30, TikTok ~31, LinkedIn 8. LinkedIn : commentaires refusés par la plateforme (« n'a pas pu être créé ») -> pause commentaires 24 h, reprendre lentement (2-3/jour).
 - r11 reporté 6/10 17h (trig_01NAbyBNvWoGV4DaexcpH8tz), r12 6/10 21h (trig_01XD9L4NQ1ikcfcywmSqdY7X) : limite 5 Reels/jour déjà dépassée le 5/10.
 - Métriques : nouveaux Reels à 0-1 vue après <24 h, à re-mesurer le 6/10. B-roll vidéo IA non fait (crédits Runway ~180, coût 80/5 s).
+
+## Directive 5/10 soir : plus AUCUNE mention de garantie de 7 jours / remboursement
+- Retiré : légendes pack6 (1-5), blitz/legendas.csv, plan visuel de fin des reels 2-5 (« ACESSO IMEDIATO »), prompts des tâches Démo 1/2/3 (FR), LinkedIn J7, Stories J5.
+- Code du site are-ia.com : NON accessible depuis cette session (pas dans ce dépôt ; aucune app Replit identifiée comme le site) -> à purger à part (requête exacte fournie par le dono).
+- Voix-off des reels 2-5 : anciennes pistes possiblement avec « garantia de 7 dias » ; nouvelles pistes (sans garantie, phrase CTA complète) générées chez Runway (task 5d7c6ef3…, 0aa6d7a9…, fb7e3cf0…, 652df347…) mais NON téléchargées (blocage du navigateur) -> les 4 tâches planifiées reel_2..5 sont DÉSACTIVÉES (trig_01WP8M9T…, trig_01KavZFx…, trig_01G6nAK2…, trig_01BUHPBw…) jusqu'à remplacement des voix.
+- Reel_1 déjà publié (IG + TikTok) : légende et voix contiennent « garantia de 7 dias » -> à corriger/retirer.
+- Rappel juridique (non-avocat) : le droit de rétractation de 7 jours du CDC art. 49 existe pour les ventes à distance indépendamment de la communication ; Hotmart impose aussi sa garantie de 7 jours côté FR.
