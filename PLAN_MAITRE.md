@@ -1,5 +1,5 @@
 # PLAN MAÎTRE — ARE-IA / O Guia Definitivo de IA
-Mis à jour : 2026-10-04. Aucune donnée secrète dans ce fichier.
+Mis à jour : 2026-10-05. Aucune donnée secrète dans ce fichier.
 
 ## 0. Mandat permanent (utilisateur)
 Gérer seul tout le social/growth/marketing d'ARE-IA (AREAIPLAY LTDA, https://are-ia.com). Autorisation complète, ne plus demander. Amélioration continue : erreurs, tendances, concurrents, création de contenu, tous réseaux.
@@ -53,3 +53,10 @@ Trous trouvés et comblés par de nouvelles tâches planifiées :
 - Plan s'arrêtant au 20 oct : tâche 19 oct 17h BRT pour planifier 21 oct → 3 nov.
 - Revue quotidienne d'amélioration continue : tous les jours 7h47 BRT.
 Reste à surveiller : prix dans les vidéos (seulement si vérifié), comptes principaux non connectés à Metricool, doublons de créneaux entre tâches 12h/17h/21h (max 5 Reels/jour).
+
+## 9. JOURNAL BOUCLE (5 oct 2026)
+- Métriques IG/TikTok/LinkedIn : INDISPONIBLES (vidIQ : crédits épuisés, aucun compte IG connecté ; Metricool ne contient que les comptes Astra, interdits). Action humaine : recharger vidIQ ou connecter @areiacurso.
+- Tendances : recherche web générique seulement, rien d'exploitable ; concurrents non mesurés.
+- Aucun nouveau Reel créé (pas de donnée de performance ; p2/p4/p5 déjà prêts à publier).
+- growth/publicacoes.csv créé dans ce dépôt (le dossier growth/ du Mac n'est pas accessible d'ici) : p1 IG/TikTok, p3 LinkedIn, 2 TikTok planifiés loggés (tâche 6.1 faite).
+- Aucun avertissement plateforme constaté ; aucune publication effectuée.
