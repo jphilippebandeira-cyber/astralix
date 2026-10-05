@@ -105,3 +105,12 @@ Légendes FR avec 49,99 € et garantie de 7 jours. Chaque tâche vérifie la li
 
 ### Règle follows (5 oct, ordre de l'utilisateur)
 Minimum 30 follows/jour par plateforme (remplace la limite prudente de 10). Instagram : 30 faits le 5 oct sans avertissement. TikTok : ~10 faits (la recherche « ia » renvoie surtout des comptes fan ; cibler les créateurs). Tâche quotidienne trig_01YWuSqLt4KxrRzjXF4futAq (10h07 BRT). Arrêt 24 h sur la plateforme au premier avertissement.
+
+### Refonte vidéo (5 oct, ordre de l'utilisateur) : Reels « pack6 »
+Nouveau format : vraies photos réalistes animées (coupes ~1,7 s), mots-clés jaunes, voix-off PT-BR (ElevenLabs via Runway), musique sous tension, whooshes, plan final avec la couverture réelle + CTA « link na BIO ou nos STORIES » + garantie de 7 jours. Aucune promesse de revenu, aucune fausse rareté. Fichiers : Mac ~/Downloads/ARE-IA-instagram/pack6/out/reel_1..5.mp4 + caption_N.txt ; générateur pack6/build.py (images dans pack6/src).
+- reel_1 (4 horas no e-mail) : publié IG + TikTok le 5 oct.
+- reel_2 planilha : 6 oct 12h BRT (trig_01WP8M9TBkfdnAN1yfZGTJDC)
+- reel_3 golpe/Pix : 7 oct 12h BRT (trig_01KavZFxPgBd5cNGNdmsUbLN)
+- reel_4 estudos : 8 oct 12h BRT (trig_01G6nAK2BSwZP5JzxeYjNPym)
+- reel_5 prompt 4 partes : 9 oct 12h BRT (trig_01BUHPBwtgbJzRGxkYoRRC5K)
+Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coûte 80 crédits/5 s, donc non utilisée. Les anciens Reels à fond bleu sont retirés de la rotation.
