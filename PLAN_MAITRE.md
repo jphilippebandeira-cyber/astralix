@@ -114,3 +114,9 @@ Nouveau format : vraies photos réalistes animées (coupes ~1,7 s), mots-clés j
 - reel_4 estudos : 8 oct 12h BRT (trig_01G6nAK2BSwZP5JzxeYjNPym)
 - reel_5 prompt 4 partes : 9 oct 12h BRT (trig_01BUHPBwtgbJzRGxkYoRRC5K)
 Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coûte 80 crédits/5 s, donc non utilisée. Les anciens Reels à fond bleu sont retirés de la rotation.
+
+## Mise à jour 5 oct (soir)
+- Mockup 3D du livre (pack6/mockup3d.png, généré en perspective depuis la vraie couverture) intégré aux CTA de reel_2..5 (reconstruits). reel_1 publié = pack6/out/reel_1_published.mp4 (ancienne CTA).
+- Follows du jour : IG 30, TikTok ~31, LinkedIn 8. LinkedIn : commentaires refusés par la plateforme (« n'a pas pu être créé ») -> pause commentaires 24 h, reprendre lentement (2-3/jour).
+- r11 reporté 6/10 17h (trig_01NAbyBNvWoGV4DaexcpH8tz), r12 6/10 21h (trig_01XD9L4NQ1ikcfcywmSqdY7X) : limite 5 Reels/jour déjà dépassée le 5/10.
+- Métriques : nouveaux Reels à 0-1 vue après <24 h, à re-mesurer le 6/10. B-roll vidéo IA non fait (crédits Runway ~180, coût 80/5 s).
