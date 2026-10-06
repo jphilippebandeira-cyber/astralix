@@ -127,3 +127,12 @@ Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coût
 - Voix-off des reels 2-5 : anciennes pistes possiblement avec « garantia de 7 dias » ; nouvelles pistes (sans garantie, phrase CTA complète) générées chez Runway (task 5d7c6ef3…, 0aa6d7a9…, fb7e3cf0…, 652df347…) mais NON téléchargées (blocage du navigateur) -> les 4 tâches planifiées reel_2..5 sont DÉSACTIVÉES (trig_01WP8M9T…, trig_01KavZFx…, trig_01G6nAK2…, trig_01BUHPBw…) jusqu'à remplacement des voix.
 - Reel_1 déjà publié (IG + TikTok) : légende et voix contiennent « garantia de 7 dias » -> à corriger/retirer.
 - Rappel juridique (non-avocat) : le droit de rétractation de 7 jours du CDC art. 49 existe pour les ventes à distance indépendamment de la communication ; Hotmart impose aussi sa garantie de 7 jours côté FR.
+
+## 14. JOURNAL BOUCLE (6 oct 2026, 20h UTC)
+- Métriques : vidIQ toujours sans crédits (3, reset 26 oct), aucun IG connecté. Lecture manuelle via Chrome du Mac (IG connecté) : @areiacurso = 21 posts, 15 abonnés, 106 suivis. TikTok are-iacurso = 0 abonné, 3 likes. LinkedIn non mesuré.
+- Vues Reels IG (grille) : « prompt de 4 partes » 116 (meilleur) ; p1 « Sua IA responde errado » 24 ; « Você desiste no dia 3 » ~15 ; Reels pack6 photo réaliste (4 horas e-mail, planilha travada, olho) 0–1 ; autres 0–6.
+- Lecture (échantillon minuscule) : le format texte sur fond sombre + promesse pratique (prompt prêt à copier) bat les Reels photo réaliste. Priorité : décliner « prompt en N parties » / « sua IA responde errado » avant de produire d'autres Reels photo.
+- Tendances/concurrents : non mesurés (aucun outil de données disponible).
+- Aucun nouveau Reel créé : médias et générateur sur le Mac, dossier Downloads non connecté à cette session. Brief : 3 variantes du Reel « prompt de 4 partes » (e-mail, estudos, planilha), texte sur fond sombre, 25 s, CTA are-ia.com, sans promesse de revenu ni garantie.
+- Erreurs : bio IG affiche R$149,99 PIX (prix vérifié §13, OK). Aucun avertissement plateforme vu. Stories/destaque IG toujours vides (app mobile requise).
+- Rappel : follows 30/jour par plateforme et réponses < 1 h restent à faire par les tâches dédiées.
