@@ -133,3 +133,16 @@ Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coût
 - Tendances/concurrents : non mesurés (aucun crédit pour ig_profile_reels, 5 crédits/appel).
 - Erreurs : aucune nouvelle constatée dans le dépôt. Rappels ouverts : garantie 7 jours à retirer de reel_1 publié ; reels 2–5 désactivés en attente des nouvelles voix ; bump Hotmart à publier par le dono.
 - Aucun nouveau Reel créé (pas de donnée de performance, pas d'accès au Mac depuis cette session). Aucune publication, aucun avertissement plateforme.
+
+## 15. PIVOT VENTES — 9 oct 2026
+- Constat : 0 vente, ~0 vue ; checkout are-ia.com exige un compte ; Hotmart BR 1 clic/7j ; mesure absente.
+- Programme d'affiliés BR Hotmart actif (1 clic, 30 %). Offre BRL créée : R$149,00, code bb7j0mje. Lien : https://pay.hotmart.com/H107884362C?off=bb7j0mje (vérifié depuis le BR).
+- Positionnement : "O manual de IA que sua empresa não te deu" ; hook Serasa Experian 2026 (26,5 % formés par l'entreprise).
+- LinkedIn programmé en plus du plan : 9/10 7h30 (Serasa), 9/10 17h30 (recrutement affiliés), 10-12/10 7h30 et 17h30 (séries RH, vendas, finanças, atendimento, professeurs, jurídico).
+- Fichiers Mac growth/ : PLAN_VENTES_9OUT.md, ESTRATEGIA_MASSA_9OUT.md, SERIE_MANUAL_POR_PROFISSAO.md.
+- Règle : ne pas modifier le code/checkout Replit ; paiements considérés réels (confirmé par l'utilisateur).
+- Hotmart BR tags de busca : 19 tags enregistrés. FR : 18 tags enregistrés ; 65 %, cookie éternel.
+- FR EN ATTENTE : le texte de présentation du programme cite encore « garantie 7 jours » (interdit) ; nouveau texte saisi mais clic de validation bloqué -> à valider par le dono.
+- Article LinkedIn Pulse publié (SEO) : « Prompts de IA para o trabalho: 7 profissões, 7 exemplos prontos (e o que nunca colar) ».
+- Artefact « Teste Antigolpe » (quiz 8 messages) publié mais PRIVÉ -> partage public à faire par le dono.
+- ERREUR à réparer : vidéo r8_voz téléversée par erreur sur la chaîne YouTube AstralixAI (privée, non publiée) -> suppression par le dono.
