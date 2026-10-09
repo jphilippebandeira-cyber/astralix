@@ -152,3 +152,5 @@ Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coût
 - 2e actif public : « Gerador de Prompts » (prompts prêts par métier + montador en 4 parties) https://claude.ai/artifact/CbBDMaMGoeKz6CuXzVv3dN
 - Commentaire de valeur publié sous le post de Christophe Denis (552 réactions, 193 commentaires) : emprunt d'audience FR.
 - Canaux testés et indisponibles : prospection B2B vpai (auth impossible depuis le conteneur), Website Auditor SEO (abonnement 10 $/mois requis), Meta Ads/Ryze (abonnement requis).
+- Hotmart BR, matériel pour affiliés créé (9 oct) : 1 modèle d'e-mail (accroche Serasa) + 2 modèles de post court (donnée Serasa, golpe de voz clonada). Chacun avec [SEU LINK DE AFILIADO] et la mention obligatoire du lien d'affiliation. Restent à produire : bannières (6 formats) et vidéo.
+- Marché prioritaire confirmé par le dono : Brésil.
