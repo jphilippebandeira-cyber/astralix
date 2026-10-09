@@ -154,3 +154,7 @@ Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coût
 - Canaux testés et indisponibles : prospection B2B vpai (auth impossible depuis le conteneur), Website Auditor SEO (abonnement 10 $/mois requis), Meta Ads/Ryze (abonnement requis).
 - Hotmart BR, matériel pour affiliés créé (9 oct) : 1 modèle d'e-mail (accroche Serasa) + 2 modèles de post court (donnée Serasa, golpe de voz clonada). Chacun avec [SEU LINK DE AFILIADO] et la mention obligatoire du lien d'affiliation. Restent à produire : bannières (6 formats) et vidéo.
 - Marché prioritaire confirmé par le dono : Brésil.
+- Kit affiliés BR publié : banners 6 formats (générés aux couleurs de la marque), modèle d'e-mail, 3 posts prêts, règles de divulgation. Les banners sont hébergés par la page, donc leurs URL publiques peuvent être collées dans le champ « URL da imagem » de Hotmart.
+  Page : https://claude.ai/artifact/U8bw5RXuh2G19KYHJcKANm
+  Fichiers PNG aussi déposés sur le Mac : ~/Downloads/ARE-IA-instagram/banners_afiliados/
+- Hotmart n'accepte pas l'upload de banner : il exige une URL d'image publique.
