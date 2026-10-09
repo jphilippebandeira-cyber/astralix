@@ -1,0 +1,169 @@
+<title>Gerador de Prompts</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter+Tight:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: escolha a profissao em cima, prompts prontos abaixo, montador no fim */
+:root{
+  --bg:#faf7f2; --surface:#ffffff; --ink:#1b1a17; --muted:#6b665d;
+  --line:#e3ddd2; --accent:#1f6f5c; --accent-soft:#e6f0ec; --warn:#9a4a18;
+  --code:#f3efe8;
+  --display:'Fraunces',Georgia,serif;
+  --body:'Inter Tight',system-ui,sans-serif;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#13161a; --surface:#1b1f25; --ink:#eceae5; --muted:#a09a90;
+  --line:#2c323a; --accent:#5fcfae; --accent-soft:#17352c; --warn:#e8a06a;
+  --code:#20252c; color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --bg:#13161a; --surface:#1b1f25; --ink:#eceae5; --muted:#a09a90;
+  --line:#2c323a; --accent:#5fcfae; --accent-soft:#17352c; --warn:#e8a06a;
+  --code:#20252c; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);line-height:1.55;margin:0}
+.wrap{max-width:720px;margin:0 auto;padding-inline:16px;padding-block:30px 60px}
+.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin:0 0 10px}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(2rem,6.5vw,2.9rem);line-height:1.04;margin:0 0 12px;text-wrap:balance;letter-spacing:-.015em}
+.lede{color:var(--muted);margin:0 0 26px;font-size:1.02rem;max-width:56ch}
+h2{font-family:var(--display);font-weight:600;font-size:1.3rem;margin:34px 0 12px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
+.chip{font:inherit;font-size:.92rem;cursor:pointer;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:8px 15px;border-radius:999px}
+.chip:hover{border-color:var(--accent)}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:12px}
+.card h3{font-size:.95rem;margin:0 0 10px;font-weight:600}
+pre{background:var(--code);border-radius:9px;padding:14px;margin:0 0 12px;font-family:var(--mono);font-size:.86rem;white-space:pre-wrap;word-break:break-word;overflow-x:auto}
+.copy{font:inherit;font-size:.86rem;font-weight:600;cursor:pointer;border:1px solid var(--line);background:transparent;color:var(--accent);padding:7px 14px;border-radius:8px}
+.copy:hover{border-color:var(--accent)}
+.copy:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.warn{border-left:3px solid var(--warn);background:var(--surface);border-radius:0 10px 10px 0;padding:14px 16px;margin:18px 0 0}
+.warn p{margin:0;font-size:.93rem}
+.warn b{color:var(--warn)}
+.build{background:var(--accent-soft);border:1px solid var(--line);border-radius:14px;padding:20px;margin-top:14px}
+.field{margin-bottom:12px}
+label{display:block;font-size:.8rem;font-weight:600;margin-bottom:5px}
+label span{font-weight:400;color:var(--muted)}
+input,textarea{width:100%;font:inherit;font-size:.93rem;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+textarea{min-height:66px;resize:vertical}
+input:focus,textarea:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:var(--accent)}
+.out{margin-top:14px}
+.cta{margin-top:34px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:22px}
+.cta h2{margin:0 0 8px}
+.cta p{margin:0 0 15px;color:var(--muted);font-size:.96rem}
+.cta a{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;font-weight:600;padding:12px 20px;border-radius:9px}
+.cta a.ghost{background:transparent;color:var(--accent);border:1px solid var(--line);margin-left:8px}
+.fine{color:var(--muted);font-size:.8rem;margin-top:28px;border-top:1px solid var(--line);padding-top:14px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <p class="eyebrow">Ferramenta gratuita · sem cadastro</p>
+  <h1>Gerador de prompts para o seu trabalho</h1>
+  <p class="lede">Escolha a sua área, copie um prompt pronto e veja o que nunca deve ser colado numa IA pública. No fim, monte o seu próprio prompt em quatro partes.</p>
+
+  <div class="chips" id="chips" role="group" aria-label="Escolha a sua área"></div>
+  <div id="list"></div>
+  <div class="warn" id="warn"></div>
+
+  <h2>Monte o seu próprio prompt</h2>
+  <p class="lede" style="margin-bottom:14px">Um prompt que funciona tem quatro partes. Preencha e copie.</p>
+  <div class="build">
+    <div class="field"><label for="f1">Contexto <span>— de onde você está falando</span></label><input id="f1" placeholder="Trabalho no financeiro de uma empresa de 40 pessoas"></div>
+    <div class="field"><label for="f2">Papel <span>— quem a IA deve ser</span></label><input id="f2" placeholder="Atue como analista financeiro"></div>
+    <div class="field"><label for="f3">Tarefa <span>— o que fazer, exatamente</span></label><textarea id="f3" placeholder="Explique estes números para quem não é da área e aponte pontos de atenção"></textarea></div>
+    <div class="field"><label for="f4">Formato <span>— como entregar</span></label><input id="f4" placeholder="Em 5 tópicos curtos, linguagem simples"></div>
+    <div class="out">
+      <pre id="built">Preencha os campos acima e o prompt aparece aqui.</pre>
+      <button class="copy" id="copyBuilt">Copiar meu prompt</button>
+    </div>
+  </div>
+
+  <div class="cta">
+    <h2>Quer o manual completo?</h2>
+    <p>O Guia Definitivo da IA reúne os prompts por área, o método de quatro partes, o capítulo de segurança e o que nunca colar numa ferramenta de IA. Em português claro, para quem não é da área de tecnologia.</p>
+    <a href="https://are-ia.com/amostra">Ler a amostra grátis</a>
+    <a class="ghost" href="https://are-ia.com">Ver os planos</a>
+  </div>
+
+  <p class="fine">Conteúdo educativo. A IA entrega rascunhos: a conferência de números, nomes e datas continua sendo sua. Nenhum resultado é garantido.</p>
+</div>
+
+<script>
+const data={
+ "RH":{warn:"dados pessoais completos de candidatos. A LGPD trata currículo como dado pessoal.",p:[
+  ["Triagem de currículos","Atue como analista de RH. Resuma estes currículos em uma tabela com experiência, pontos fortes e dúvidas para a entrevista. Não invente nada que não esteja no texto."],
+  ["Roteiro de entrevista","Crie 8 perguntas de entrevista para a vaga de [cargo], sendo 4 sobre experiência prática e 4 sobre comportamento. Inclua o que uma boa resposta deveria conter."],
+  ["Feedback difícil","Reescreva este feedback para um colaborador de forma direta e respeitosa, com um exemplo concreto e um próximo passo claro."]]},
+ "Vendas":{warn:"sua base de clientes ou qualquer lista de contatos.",p:[
+  ["Primeiro contato","Escreva 3 versões de uma mensagem curta de primeiro contato para [perfil do cliente], tom simpático, até 60 palavras, com uma pergunta no final."],
+  ["Resposta a objeção","O cliente disse: \"[objeção]\". Escreva 3 respostas possíveis, sem pressionar e sem prometer o que não foi combinado."],
+  ["Resumo de reunião","Transforme estas anotações em um resumo com decisões tomadas, próximos passos e responsáveis."]]},
+ "Financeiro":{warn:"dados fechados da empresa antes de checar a política interna.",p:[
+  ["Relatório para leigos","Explique estes números em 5 tópicos para quem não é da área financeira e aponte 3 pontos de atenção. Não faça suposições além dos dados."],
+  ["Checklist de fechamento","Monte um checklist de fechamento mensal para uma empresa de [setor], em ordem de execução."],
+  ["Cobrança educada","Escreva uma cobrança de fatura vencida, tom cordial e firme, sem ameaça, com o valor e a data em destaque."]]},
+ "Atendimento":{warn:"CPF, endereço ou dados de pagamento do cliente.",p:[
+  ["Resposta a reclamação","Reescreva esta resposta ao cliente de forma educada e objetiva, sem prometer o que não podemos cumprir."],
+  ["Respostas padrão","Crie 5 respostas prontas para as dúvidas mais comuns sobre [produto], cada uma com até 40 palavras."],
+  ["Encerrar com calma","Escreva uma mensagem para encerrar um atendimento em que não conseguimos atender ao pedido, reconhecendo a frustração e oferecendo a alternativa possível."]]},
+ "Professores":{warn:"dados de alunos menores de idade.",p:[
+  ["Plano de aula","Crie um plano de aula de 50 minutos sobre [tema] para [série], com uma atividade prática e 5 perguntas de revisão."],
+  ["Explicar em 3 níveis","Explique [conceito] em três níveis: para uma criança, para um adolescente e para um adulto sem formação na área."],
+  ["Correção com critério","Monte uma rubrica de correção para [tipo de trabalho], com 4 critérios e o que caracteriza cada nível de desempenho."]]},
+ "Jurídico":{warn:"documento sigiloso de cliente.",p:[
+  ["Resumo de contrato","Resuma este contrato em tópicos e liste as cláusulas que merecem revisão humana. Não dê parecer jurídico."],
+  ["Texto para leigos","Reescreva esta cláusula em linguagem simples, sem perder o sentido jurídico, e aponte o que ficou ambíguo."],
+  ["Checklist de revisão","Monte um checklist de pontos a conferir antes de assinar um contrato de [tipo], em ordem de risco."]]},
+ "Saúde":{warn:"prontuário, nome ou qualquer dado de paciente.",p:[
+  ["Passagem de plantão","Monte um checklist de passagem de plantão em 8 itens, em linguagem simples, para [setor]. Não inclua nenhum dado de paciente."],
+  ["Orientação ao paciente","Reescreva esta orientação em linguagem acessível, em até 120 palavras, sem termos técnicos e sem substituir a consulta."],
+  ["Escala e rotina","Organize esta rotina de equipe em uma tabela por turno, destacando sobreposições e lacunas."]]},
+ "Empreendedores":{warn:"dados de clientes ou números que você não quer públicos.",p:[
+  ["Legendas","Crie 5 legendas curtas para [produto/serviço], tom próximo, com uma chamada para ação clara e sem exageros."],
+  ["Orçamento","Transforme estas informações em um orçamento claro, com escopo, prazo, valor e o que não está incluído."],
+  ["Descrição de produto","Escreva uma descrição de [produto] em 80 palavras, destacando para quem serve e para quem não serve."]]},
+ "Concurseiros":{warn:"nada sensível, mas confira todo conteúdo numa fonte confiável.",p:[
+  ["Estudo em 3 níveis","Me explique [tema] em 3 níveis: simples, intermediário e avançado. Depois me faça 5 perguntas e corrija minhas respostas."],
+  ["Resumo com lacunas","Resuma [tema] em 10 linhas e depois reescreva com 5 lacunas para eu preencher de memória."],
+  ["Plano de revisão","Monte um plano de revisão de 7 dias para [matéria], com 40 minutos por dia e revisão espaçada."]]}
+};
+const keys=Object.keys(data);
+let sel=keys[0];
+const chips=document.getElementById('chips'),list=document.getElementById('list'),warn=document.getElementById('warn');
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+function copy(text,btn){
+  const done=()=>{const o=btn.textContent;btn.textContent='Copiado';setTimeout(()=>btn.textContent=o,1600)};
+  try{ navigator.clipboard.writeText(text).then(done,()=>fallback(text,btn)) }catch(e){ fallback(text,btn) }
+}
+function fallback(text,btn){
+  const pre=btn.previousElementSibling; if(!pre)return;
+  const r=document.createRange(); r.selectNodeContents(pre);
+  const s=getSelection(); s.removeAllRanges(); s.addRange(r);
+  const o=btn.textContent; btn.textContent='Selecionado, use Cmd+C'; setTimeout(()=>btn.textContent=o,2200);
+}
+
+function renderChips(){
+  chips.innerHTML=keys.map(k=>'<button class="chip" type="button" aria-pressed="'+(k===sel)+'" data-k="'+esc(k)+'">'+esc(k)+'</button>').join('');
+  chips.querySelectorAll('.chip').forEach(b=>b.onclick=()=>{sel=b.dataset.k;renderChips();renderList()});
+}
+function renderList(){
+  const d=data[sel];
+  list.innerHTML=d.p.map((x,i)=>'<div class="card"><h3>'+esc(x[0])+'</h3><pre id="p'+i+'">'+esc(x[1])+'</pre><button class="copy" data-i="'+i+'">Copiar prompt</button></div>').join('');
+  list.querySelectorAll('.copy').forEach(b=>b.onclick=()=>copy(d.p[+b.dataset.i][1],b));
+  warn.innerHTML='<p><b>O que não colar:</b> '+esc(d.warn)+'</p>';
+}
+function built(){
+  const v=id=>document.getElementById(id).value.trim();
+  const parts=[v('f1'),v('f2'),v('f3'),v('f4')].filter(Boolean);
+  const el=document.getElementById('built');
+  el.textContent = parts.length ? parts.join(' ').replace(/\s+/g,' ') : 'Preencha os campos acima e o prompt aparece aqui.';
+}
+['f1','f2','f3','f4'].forEach(id=>document.getElementById(id).addEventListener('input',built));
+document.getElementById('copyBuilt').onclick=e=>copy(document.getElementById('built').textContent,e.currentTarget);
+renderChips();renderList();
+</script>

@@ -149,3 +149,6 @@ Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coût
 - LinkedIn au 9 oct 05h30 BRT : 33 posts programmés jusqu'au 20 oct (série par métier PT, 4 posts FR, 2 recrutements d'affiliés, 2 posts golpes avec le lien du Teste Antigolpe).
 - Artefact public « Teste Antigolpe » : https://claude.ai/artifact/Ssc6C77rTr62RTxEnCCp7q (partage public activé).
 - Hotmart FR : texte de présentation corrigé, plus aucune mention de garantie 7 jours.
+- 2e actif public : « Gerador de Prompts » (prompts prêts par métier + montador en 4 parties) https://claude.ai/artifact/CbBDMaMGoeKz6CuXzVv3dN
+- Commentaire de valeur publié sous le post de Christophe Denis (552 réactions, 193 commentaires) : emprunt d'audience FR.
+- Canaux testés et indisponibles : prospection B2B vpai (auth impossible depuis le conteneur), Website Auditor SEO (abonnement 10 $/mois requis), Meta Ads/Ryze (abonnement requis).
