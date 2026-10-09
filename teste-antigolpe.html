@@ -1,0 +1,181 @@
+<title>Teste Antigolpe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: uma coluna estreita, cartao de mensagem por cima do veredito */
+:root{
+  --bg:#f2f4f7; --surface:#ffffff; --ink:#131a24; --muted:#5a6676;
+  --line:#dde3ea; --alert:#c2410c; --safe:#15803d; --signal:#1d4ed8;
+  --bubble:#e8ecf2;
+  --display:'Archivo',system-ui,sans-serif;
+  --body:'IBM Plex Sans',system-ui,sans-serif;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0e141c; --surface:#161f2b; --ink:#e9eef4; --muted:#9aa8b8;
+  --line:#293648; --alert:#fb923c; --safe:#4ade80; --signal:#7aa2f7;
+  --bubble:#1f2b3a; color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --bg:#0e141c; --surface:#161f2b; --ink:#e9eef4; --muted:#9aa8b8;
+  --line:#293648; --alert:#fb923c; --safe:#4ade80; --signal:#7aa2f7;
+  --bubble:#1f2b3a; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);line-height:1.55;margin:0}
+.wrap{max-width:640px;margin:0 auto;padding-inline:16px;padding-block:28px 56px}
+header h1{font-family:var(--display);font-weight:800;font-size:clamp(1.9rem,6vw,2.6rem);line-height:1.05;margin:0 0 10px;text-wrap:balance;letter-spacing:-.02em}
+header p{color:var(--muted);margin:0;font-size:1rem}
+.eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--alert);margin:0 0 10px}
+.bar{height:5px;background:var(--line);border-radius:99px;overflow:hidden;margin:26px 0 18px}
+.bar i{display:block;height:100%;background:var(--signal);width:12.5%;transition:width .35s ease}
+.meta{display:flex;justify-content:space-between;font-family:var(--mono);font-size:.76rem;color:var(--muted);margin-bottom:10px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px}
+.chan{font-family:var(--mono);font-size:.74rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;margin:0 0 12px}
+.msg{background:var(--bubble);border-radius:4px 14px 14px 14px;padding:14px 16px;font-family:var(--mono);font-size:.92rem;white-space:pre-wrap;word-break:break-word;margin:0 0 6px}
+.from{font-size:.78rem;color:var(--muted);margin:0 0 16px}
+.ask{font-family:var(--display);font-weight:700;font-size:1.05rem;margin:0 0 14px}
+.opts{display:flex;gap:10px;flex-wrap:wrap}
+button{font:inherit;cursor:pointer;border-radius:10px;border:1px solid var(--line);padding:11px 18px;background:var(--surface);color:var(--ink);font-weight:600;min-width:0}
+button:hover{border-color:var(--signal)}
+button:focus-visible{outline:2px solid var(--signal);outline-offset:2px}
+.primary{background:var(--signal);border-color:var(--signal);color:#fff}
+.verdict{margin-top:18px;border-top:1px solid var(--line);padding-top:16px}
+.tag{font-family:var(--mono);font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;font-weight:500;margin:0 0 8px}
+.tag.bad{color:var(--alert)} .tag.good{color:var(--safe)}
+.verdict p{margin:0 0 10px}
+.verdict ul{margin:0 0 14px;padding-left:18px;color:var(--muted)}
+.verdict li{margin-bottom:4px}
+.score{font-family:var(--display);font-weight:800;font-size:clamp(2.6rem,10vw,3.6rem);line-height:1;margin:0 0 6px;font-variant-numeric:tabular-nums}
+.rules{list-style:none;padding:0;margin:18px 0 0;display:grid;gap:10px}
+.rules li{display:flex;gap:12px;align-items:flex-start;font-size:.95rem}
+.rules b{font-family:var(--mono);font-size:.78rem;color:var(--signal);padding-top:3px}
+.cta{margin-top:24px;background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--alert);border-radius:12px;padding:20px}
+.cta h2{font-family:var(--display);font-size:1.15rem;margin:0 0 8px}
+.cta p{margin:0 0 14px;color:var(--muted);font-size:.95rem}
+.cta a{display:inline-block;background:var(--signal);color:#fff;text-decoration:none;font-weight:600;padding:12px 20px;border-radius:10px}
+.cta a.ghost{background:transparent;color:var(--signal);border:1px solid var(--line);margin-left:8px}
+.fine{color:var(--muted);font-size:.8rem;margin-top:26px;border-top:1px solid var(--line);padding-top:14px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">8 mensagens reais · 2 minutos</p>
+    <h1>Você cairia nesse golpe?</h1>
+    <p>Cinco destas mensagens são golpe. Três são legítimas. Veja se você separa as duas coisas.</p>
+  </header>
+
+  <div class="bar"><i id="fill"></i></div>
+  <div class="meta"><span id="counter">Mensagem 1 de 8</span><span id="tally">0 acertos</span></div>
+
+  <main id="quiz" class="card"></main>
+
+  <section id="end" class="card" hidden style="margin-top:18px"></section>
+
+  <p class="fine">Conteúdo educativo, sem relação com qualquer banco ou aplicativo citado. Os exemplos são fictícios e reproduzem formatos de golpe já divulgados publicamente no Brasil.</p>
+</div>
+
+<script>
+const items=[
+ {chan:"SMS",from:"Remetente: 2840-1",body:"BANCO: Identificamos uma compra de R$ 1.879,00 no seu cartao. Se nao reconhece, cancele agora em bit.ly/cancel-seg",
+  scam:true,why:"Golpe clássico do falso aviso de compra.",
+  signs:["Link encurtado: banco nenhum manda bit.ly.","Cria pânico com um valor alto e pede ação imediata.","Número curto não prova nada: dá para forjar o remetente."],
+  todo:"Não clique. Abra o app do banco que você já tem instalado, ou ligue para o número do verso do cartão."},
+
+ {chan:"WhatsApp",from:"Número desconhecido, foto da sua prima",body:"Oi, mudei de numero! To precisando de um pix urgente de 480 reais, depois te devolvo. Nao conta pra ninguem ainda",
+  scam:true,why:"Golpe do número novo, hoje reforçado por voz clonada.",
+  signs:["Número novo + pedido de dinheiro na mesma mensagem.","Pedido de sigilo: serve para você não conferir com a família.","Mesmo um áudio com a voz certa pode ser gerado por IA."],
+  todo:"Ligue para o número antigo que você já tem salvo. Combine com a família uma palavra de segurança."},
+
+ {chan:"E-mail",from:"nota@receita.fazenda.gov.br",body:"Sua declaracao caiu na malha fina. Regularize em 24h para evitar bloqueio de CPF. Baixe o anexo: pendencia_cpf.exe",
+  scam:true,why:"Órgão público não resolve pendência por anexo executável.",
+  signs:["Arquivo .exe: nenhum órgão manda programa por e-mail.","Prazo de 24 horas para você não pensar.","O endereço visível pode ser falsificado; o remetente real está no cabeçalho."],
+  todo:"Entre pelo site oficial digitando o endereço você mesmo, nunca pelo link da mensagem."},
+
+ {chan:"App do banco",from:"Notificação dentro do aplicativo",body:"Voce recebeu um Pix de R$ 300,00 de MARCOS A. SILVA. Saldo atualizado.",
+  scam:false,why:"Isso é uma notificação comum e pode ser verdadeira.",
+  signs:["Chegou dentro do app, não por SMS ou link.","Não pede nada de você."],
+  todo:"Cuidado vem depois: se alguém pedir a devolução, use a função Devolver Pix no extrato, nunca um Pix novo para outra chave."},
+
+ {chan:"WhatsApp",from:"Grupo do condomínio",body:"Pessoal, o sindico pediu pra eu mandar: me enviem o codigo de 6 digitos que vai chegar no SMS de voces, e pra confirmar o novo grupo",
+  scam:true,why:"É o roubo de conta do WhatsApp.",
+  signs:["Código de 6 dígitos é sempre do seu próprio WhatsApp.","Nenhum grupo precisa do seu código para existir.","Vem de dentro de um grupo confiável: a conta de alguém já foi tomada."],
+  todo:"Nunca repasse o código. Ative a confirmação em duas etapas no WhatsApp hoje."},
+
+ {chan:"Ligação",from:"Áudio curto, voz do seu chefe",body:"Preciso que voce faca uma transferencia agora pro fornecedor, to em reuniao e nao consigo. Te mando a chave no chat.",
+  scam:true,why:"Fraude do falso executivo, agora com voz clonada por IA.",
+  signs:["Urgência somada a uma desculpa para não conversar.","Chave Pix nova, que você nunca usou.","Bastam alguns segundos de áudio público para clonar uma voz."],
+  todo:"Desligue e ligue de volta pelo canal interno da empresa. Exija a confirmação por um segundo caminho."},
+
+ {chan:"E-mail",from:"Loja onde você comprou ontem",body:"Seu pedido #48210 foi enviado. Acompanhe pelo site da transportadora com o codigo BR482109921BR.",
+  scam:false,why:"Mensagem transacional normal de uma compra que você fez.",
+  signs:["Você reconhece a compra e o número do pedido.","Não pede senha, código nem pagamento."],
+  todo:"Rastreie digitando o código no site da transportadora, em vez de clicar no link."},
+
+ {chan:"Instagram",from:"Perfil com 42 mil seguidores",body:"Vaga home office, 3h por dia. Pagamento semanal garantido. Para comecar, faca o cadastro e pague a taxa de ativacao de R$ 67.",
+  scam:true,why:"Vaga falsa: o produto é a taxa.",
+  signs:["Cobrança para começar a trabalhar.","Ganho garantido, sem dizer qual é o trabalho.","Seguidores podem ser comprados."],
+  todo:"Emprego de verdade não cobra taxa de ativação. Procure o CNPJ da empresa antes de qualquer pagamento."}
+];
+
+let i=0,right=0,answered=false;
+const q=document.getElementById('quiz'),end=document.getElementById('end'),
+      fill=document.getElementById('fill'),counter=document.getElementById('counter'),tally=document.getElementById('tally');
+const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+function render(){
+  const it=items[i];
+  fill.style.width=((i)/items.length*100||6)+'%';
+  counter.textContent='Mensagem '+(i+1)+' de '+items.length;
+  tally.textContent=right+(right===1?' acerto':' acertos');
+  q.innerHTML='<p class="chan">'+esc(it.chan)+'</p>'+
+    '<p class="msg">'+esc(it.body)+'</p>'+
+    '<p class="from">'+esc(it.from)+'</p>'+
+    '<p class="ask">É golpe ou é legítimo?</p>'+
+    '<div class="opts"><button id="b1">É golpe</button><button id="b2">É legítimo</button></div>'+
+    '<div id="v"></div>';
+  answered=false;
+  document.getElementById('b1').onclick=()=>answer(true);
+  document.getElementById('b2').onclick=()=>answer(false);
+}
+
+function answer(said){
+  if(answered)return; answered=true;
+  const it=items[i], ok=(said===it.scam);
+  if(ok)right++;
+  tally.textContent=right+(right===1?' acerto':' acertos');
+  document.getElementById('b1').disabled=true;document.getElementById('b2').disabled=true;
+  document.getElementById('v').innerHTML='<div class="verdict">'+
+    '<p class="tag '+(it.scam?'bad':'good')+'">'+(ok?'Você acertou':'Não era isso')+' · '+(it.scam?'É golpe':'É legítimo')+'</p>'+
+    '<p>'+esc(it.why)+'</p><ul>'+it.signs.map(s=>'<li>'+esc(s)+'</li>').join('')+'</ul>'+
+    '<p><b>O que fazer:</b> '+esc(it.todo)+'</p>'+
+    '<button class="primary" id="nx">'+(i<items.length-1?'Próxima mensagem':'Ver meu resultado')+'</button></div>';
+  document.getElementById('nx').onclick=()=>{ i++; i<items.length?render():finish(); };
+}
+
+function finish(){
+  fill.style.width='100%';
+  counter.textContent='Teste concluído';
+  q.hidden=true; end.hidden=false;
+  const read = right>=7 ? 'Você reconhece os sinais. O risco agora é a pressa: golpe funciona quando a pessoa está no corre.'
+             : right>=4 ? 'Você pega a maioria, mas alguns formatos ainda passam. São justamente os que mais crescem com IA.'
+             : 'Vale rever o básico. Esses formatos são desenhados para parecer legítimos, e estão ficando melhores.';
+  end.innerHTML='<p class="chan">Resultado</p>'+
+    '<p class="score">'+right+'/'+items.length+'</p><p>'+read+'</p>'+
+    '<ul class="rules">'+
+    '<li><b>01</b><span>Urgência é o sinal número um. Ninguém legítimo exige decisão em minutos.</span></li>'+
+    '<li><b>02</b><span>Confirme por outro caminho: ligue para o número que você já tinha, não para o da mensagem.</span></li>'+
+    '<li><b>03</b><span>Código de 6 dígitos nunca se repassa, para ninguém.</span></li>'+
+    '<li><b>04</b><span>Pix devolvido só pela função Devolver no extrato, nunca por uma chave nova.</span></li>'+
+    '<li><b>05</b><span>Voz e vídeo não provam mais identidade. Combine uma palavra de segurança na família.</span></li>'+
+    '</ul>'+
+    '<div class="cta"><h2>Quer o manual completo?</h2>'+
+    '<p>O Guia Definitivo da IA traz o capítulo anti-golpes e mais: como usar inteligência artificial no trabalho, prompts prontos e o que nunca colar numa ferramenta de IA. Em português claro, para quem não é da área de tecnologia.</p>'+
+    '<a href="https://are-ia.com/amostra">Ler a amostra grátis</a>'+
+    '<a class="ghost" href="https://are-ia.com">Ver os planos</a></div>';
+  end.scrollIntoView({behavior:'smooth',block:'start'});
+}
+render();
+</script>
