@@ -158,3 +158,8 @@ Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coût
   Page : https://claude.ai/artifact/U8bw5RXuh2G19KYHJcKANm
   Fichiers PNG aussi déposés sur le Mac : ~/Downloads/ARE-IA-instagram/banners_afiliados/
 - Hotmart n'accepte pas l'upload de banner : il exige une URL d'image publique.
+
+## 16. JOURNAL BOUCLE (9 oct 2026, 20h UTC)
+- Métriques IG/TikTok/LinkedIn : TOUJOURS INDISPONIBLES. vidIQ 3 crédits (renouvellement 26 oct), 0 compte IG connecté ; Metricool = uniquement comptes Astra (interdits).
+- Tendances/concurrents : non mesurés (pas de crédits). Aucun nouveau Reel créé (pas de donnée de performance ni d'accès au Mac/outils vidéo utiles d'ici). Aucune publication, aucun avertissement plateforme.
+- Rappels ouverts : garantie 7 jours à retirer de reel_1 publié ; reels 2–5 désactivés (voix à remplacer) ; bump Hotmart à publier par le dono ; connecter @areiacurso à vidIQ/Metricool pour débloquer la mesure.
