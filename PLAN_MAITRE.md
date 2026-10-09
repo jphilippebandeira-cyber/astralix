@@ -127,3 +127,9 @@ Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coût
 - Voix-off des reels 2-5 : anciennes pistes possiblement avec « garantia de 7 dias » ; nouvelles pistes (sans garantie, phrase CTA complète) générées chez Runway (task 5d7c6ef3…, 0aa6d7a9…, fb7e3cf0…, 652df347…) mais NON téléchargées (blocage du navigateur) -> les 4 tâches planifiées reel_2..5 sont DÉSACTIVÉES (trig_01WP8M9T…, trig_01KavZFx…, trig_01G6nAK2…, trig_01BUHPBw…) jusqu'à remplacement des voix.
 - Reel_1 déjà publié (IG + TikTok) : légende et voix contiennent « garantia de 7 dias » -> à corriger/retirer.
 - Rappel juridique (non-avocat) : le droit de rétractation de 7 jours du CDC art. 49 existe pour les ventes à distance indépendamment de la communication ; Hotmart impose aussi sa garantie de 7 jours côté FR.
+
+## 14. JOURNAL BOUCLE (9 oct 2026, run planifié 8 oct 10h47 UTC, exécuté 9 oct 06h47 UTC)
+- Métriques IG/TikTok/LinkedIn : INDISPONIBLES. vidIQ : 3 crédits restants (renouvellement 26 oct), aucun compte IG connecté ; Metricool ne contient que les comptes Astra (interdits). Action humaine : connecter @areiacurso à vidIQ/Metricool ou recharger vidIQ.
+- Tendances/concurrents : non mesurés (aucun crédit pour ig_profile_reels, 5 crédits/appel).
+- Erreurs : aucune nouvelle constatée dans le dépôt. Rappels ouverts : garantie 7 jours à retirer de reel_1 publié ; reels 2–5 désactivés en attente des nouvelles voix ; bump Hotmart à publier par le dono.
+- Aucun nouveau Reel créé (pas de donnée de performance, pas d'accès au Mac depuis cette session). Aucune publication, aucun avertissement plateforme.
