@@ -146,3 +146,6 @@ Coût Runway : ~220 crédits (25 images, 5 voix, 1 musique) ; la vidéo IA coût
 - Article LinkedIn Pulse publié (SEO) : « Prompts de IA para o trabalho: 7 profissões, 7 exemplos prontos (e o que nunca colar) ».
 - Artefact « Teste Antigolpe » (quiz 8 messages) publié mais PRIVÉ -> partage public à faire par le dono.
 - ERREUR à réparer : vidéo r8_voz téléversée par erreur sur la chaîne YouTube AstralixAI (privée, non publiée) -> suppression par le dono.
+- LinkedIn au 9 oct 05h30 BRT : 33 posts programmés jusqu'au 20 oct (série par métier PT, 4 posts FR, 2 recrutements d'affiliés, 2 posts golpes avec le lien du Teste Antigolpe).
+- Artefact public « Teste Antigolpe » : https://claude.ai/artifact/Ssc6C77rTr62RTxEnCCp7q (partage public activé).
+- Hotmart FR : texte de présentation corrigé, plus aucune mention de garantie 7 jours.
