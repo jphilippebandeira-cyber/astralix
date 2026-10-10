@@ -1,0 +1,80 @@
+<title>Diagnóstico de IA da Equipe</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;800&family=Inter+Tight:wght@400;500;600&display=swap">
+<style>
+:root{--bg:#f6faf9;--surface:#fff;--ink:#0b1f27;--muted:#4f6a70;--line:#d6e3e1;--accent:#0e7a5f;--accent-ink:#fff;--warn:#b4531a;--bad:#a12d2d;color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#07131b;--surface:#0e2029;--ink:#eaf2f1;--muted:#93aeb2;--line:#1d3540;--accent:#1fb082;--accent-ink:#06221a;--warn:#e0a060;--bad:#e07a7a;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#07131b;--surface:#0e2029;--ink:#eaf2f1;--muted:#93aeb2;--line:#1d3540;--accent:#1fb082;--accent-ink:#06221a;--warn:#e0a060;--bad:#e07a7a;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Inter Tight',system-ui,sans-serif;line-height:1.55}
+.wrap{max-width:680px;margin:0 auto;padding:32px 16px 56px}
+.eyebrow{font-size:.74rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:600;margin:0 0 8px}
+h1{font-family:'Archivo',system-ui,sans-serif;font-weight:800;font-size:clamp(1.8rem,6vw,2.4rem);line-height:1.08;margin:0 0 12px;letter-spacing:-.02em}
+.lede{color:var(--muted);margin:0 0 22px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px}
+.prog{height:6px;background:var(--line);border-radius:6px;overflow:hidden;margin-bottom:16px}
+.prog i{display:block;height:100%;background:var(--accent);width:0;transition:width .25s}
+.q{font-family:'Archivo',sans-serif;font-weight:600;font-size:1.15rem;margin:0 0 6px}
+.hint{color:var(--muted);font-size:.9rem;margin:0 0 16px}
+.opts{display:grid;gap:10px}
+button{font:inherit;cursor:pointer;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:13px 16px;text-align:left;font-weight:500}
+button:hover{border-color:var(--accent)}
+button:focus-visible,a.cta:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+a.cta{display:inline-block;background:var(--accent);color:var(--accent-ink);text-decoration:none;font-weight:600;padding:13px 20px;border-radius:10px;margin:6px 10px 6px 0}
+a.alt{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.score{font-family:'Archivo',sans-serif;font-weight:800;font-size:3rem;line-height:1;margin:4px 0 4px}
+.level{font-weight:600;margin:0 0 14px}
+ul{padding-left:18px;margin:8px 0 14px;color:var(--muted)}
+.src{color:var(--muted);font-size:.8rem;margin-top:22px}
+.hid{display:none}
+</style>
+<div class="wrap">
+<p class="eyebrow">Diagnóstico gratuito · 2 minutos</p>
+<h1>Seu time usa IA com segurança?</h1>
+<p class="lede">Oito perguntas sobre como sua empresa lida com ChatGPT e similares. No final, você vê seu nível e os próximos passos. Nada é enviado nem guardado.</p>
+<div class="card" id="box"></div>
+<p class="src">Contexto: segundo a pesquisa Pluxee (2026), 81% dos brasileiros já usam ou querem usar IA no trabalho, mas só 15% receberam treinamento formal da empresa. Conteúdo educativo; não substitui assessoria jurídica.</p>
+</div>
+<script>
+const Q=[
+["Seus funcionários usam ChatGPT, Gemini ou similares no trabalho?","Mesmo que ninguém tenha autorizado oficialmente.",1],
+["A empresa tem uma regra escrita sobre o que pode e o que não pode ser colado numa IA?","Dados de clientes, contratos, senhas, planilhas internas.",0],
+["Alguém já explicou ao time o que a LGPD diz sobre dados pessoais em ferramentas de IA?","",0],
+["Todos sabem pedir direito (contexto, papel, tarefa e formato) e revisar a resposta antes de usar?","",0],
+["Existe um responsável por tirar dúvidas de IA e atualizar o time?","",0],
+["O time sabe reconhecer golpes com IA: voz clonada, SMS falso, Pix urgente?","",0],
+["Vocês já mediram quanto tempo a IA economiza em alguma tarefa?","",0],
+["Se um funcionário saísse hoje, o jeito de usar IA dele ficaria registrado para os outros?","",0]
+];
+let i=0,pts=0;
+const box=document.getElementById('box');
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function show(){
+  if(i>=Q.length) return end();
+  const [q,h]=Q[i];
+  box.innerHTML='<div class="prog"><i style="width:'+(i/Q.length*100)+'%"></i></div>'+
+   '<p class="q">'+(i+1)+'/'+Q.length+' · '+esc(q)+'</p>'+(h?'<p class="hint">'+esc(h)+'</p>':'<p class="hint"></p>')+
+   '<div class="opts"><button data-a="1">Sim</button><button data-a="0">Não</button><button data-a="h">Não sei</button></div>';
+}
+box.addEventListener('click',e=>{
+  const b=e.target.closest('button[data-a]'); if(!b) return;
+  const a=b.dataset.a;
+  if(i===0){ pts+=0; } else if(a==='1') pts+=1; /* Q1 = contexto, não pontua */
+  i++; show();
+});
+function end(){
+  const max=Q.length-1;
+  let lvl,txt,tips;
+  if(pts<=2){lvl='Risco alto';txt='var(--bad)';tips=['Defina agora uma regra de uma página: o que nunca colar na IA.','Treine o time em LGPD e dados pessoais antes de ampliar o uso.','Escolha um responsável por IA na empresa.']}
+  else if(pts<=5){lvl='Risco médio';txt='var(--warn)';tips=['Transforme regras informais em um guia escrito e compartilhado.','Padronize como o time pede à IA e como revisa a resposta.','Faça um exercício simples sobre golpes com voz clonada e Pix.']}
+  else {lvl='Boa base';txt='var(--accent)';tips=['Registre os melhores prompts por área para o time inteiro reaproveitar.','Meça o tempo economizado em duas tarefas e compartilhe.','Atualize o treinamento a cada trimestre.']}
+  box.innerHTML='<div class="prog"><i style="width:100%"></i></div><p class="eyebrow">Seu resultado</p><p class="score" style="color:'+txt+'">'+pts+'/'+max+'</p><p class="level" style="color:'+txt+'">'+lvl+'</p><ul>'+tips.map(t=>'<li>'+esc(t)+'</li>').join('')+'</ul>'+
+  '<p>O Guia Definitivo da IA cobre isso em português claro: método de pedir bem, prompts por área, LGPD e anti-golpes. Há pacotes de 10, 25 e 50 licenças para equipes.</p>'+
+  '<a class="cta" href="https://are-ia.com/empresas" target="_blank" rel="noopener">Ver pacotes para equipes</a><a class="cta alt" href="https://are-ia.com/amostra" target="_blank" rel="noopener">Amostra grátis</a>'+
+  '<p><button id="again">Refazer o diagnóstico</button></p>';
+  document.getElementById('again').onclick=()=>{i=0;pts=0;show()};
+}
+show();
+</script>
