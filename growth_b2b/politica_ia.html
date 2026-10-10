@@ -1,0 +1,143 @@
+<title>Gerador de Política de IA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* Layout: formulário à esquerda, política gerada à direita, selo opcional embaixo */
+:root{
+  --bg:#f3f6f6; --surface:#ffffff; --fg:#0e1c1f; --muted:#51666b; --line:#d5dfe0;
+  --accent:#0b6e66; --accent-fg:#ffffff; --ok:#17663a;
+  --font-display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --font-body:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;
+  --font-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0b1517; --surface:#112124; --fg:#e6f0f1; --muted:#93a9ad; --line:#24393d;
+  --accent:#4fd1c0; --accent-fg:#06201d; --ok:#6fdc9a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0b1517; --surface:#112124; --fg:#e6f0f1; --muted:#93a9ad; --line:#24393d;
+  --accent:#4fd1c0; --accent-fg:#06201d; --ok:#6fdc9a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--font-body);font-size:16px;line-height:1.55;padding-inline:16px;padding-block:28px 48px}
+.wrap{max-width:1040px;margin:0 auto;display:flex;flex-direction:column;gap:22px}
+h1{font-family:var(--font-display);font-size:clamp(1.9rem,5vw,2.8rem);line-height:1.05;margin:0;text-wrap:balance;letter-spacing:-0.02em}
+h2{font-family:var(--font-display);font-size:1.1rem;margin:0}
+.lead{color:var(--muted);max-width:62ch;margin:10px 0 0}
+.eyebrow{font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.cols{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:16px}
+@media (max-width:820px){.cols{grid-template-columns:1fr}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:12px;min-width:0}
+label,legend{font-weight:600;font-size:.9rem}
+input[type=text],textarea{width:100%;font:inherit;background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:9px 11px}
+fieldset{border:0;padding:0;margin:0;display:flex;flex-direction:column;gap:6px}
+.chk{display:flex;gap:8px;align-items:flex-start;font-weight:400}
+.chk input{margin-top:5px}
+.out{font-family:var(--font-mono);font-size:.86rem;line-height:1.65;white-space:pre-wrap;word-break:break-word;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:14px;min-height:360px;max-height:640px;overflow:auto}
+button{font:inherit;cursor:pointer;border-radius:8px;padding:8px 14px;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+button.primary{background:var(--accent);color:var(--accent-fg);border-color:var(--accent);font-weight:600}
+button:focus-visible,input:focus-visible,textarea:focus-visible,a:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.stat{font-size:.9rem;color:var(--ok)}
+.hint{font-size:.85rem;color:var(--muted)}
+.badge-prev{display:inline-block;border:1px solid var(--accent);border-radius:999px;padding:6px 14px;font-size:.88rem;color:var(--accent);font-weight:600;text-decoration:none;width:fit-content}
+code{font-family:var(--font-mono);font-size:.82rem;word-break:break-all}
+.cta a{color:var(--accent);font-weight:600}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Modelo gratuito · LGPD</div>
+    <h1>Gerador de Política de IA</h1>
+    <p class="lead">Responda algumas perguntas e receba um texto-base de política de uso de IA para o seu escritório ou equipe. Tudo é montado no seu navegador, sem envio de dados.</p>
+  </header>
+
+  <div class="cols">
+    <section class="card" aria-labelledby="h-f">
+      <h2 id="h-f">Dados da organização</h2>
+      <div><label for="org">Nome da organização</label><input id="org" type="text" value="Escritório Exemplo Contabilidade"></div>
+      <div><label for="resp">Responsável pelo tema (encarregado ou sócio)</label><input id="resp" type="text" value="Ana Souza"></div>
+      <fieldset><legend>Ferramentas de IA permitidas</legend>
+        <label class="chk"><input type="checkbox" name="tool" value="ChatGPT" checked> ChatGPT</label>
+        <label class="chk"><input type="checkbox" name="tool" value="Gemini" checked> Gemini</label>
+        <label class="chk"><input type="checkbox" name="tool" value="Claude"> Claude</label>
+        <label class="chk"><input type="checkbox" name="tool" value="Microsoft Copilot"> Microsoft Copilot</label>
+      </fieldset>
+      <div><label for="other">Outras ferramentas aprovadas (opcional)</label><input id="other" type="text" placeholder="Ex.: sistema interno do escritório"></div>
+      <fieldset><legend>Nunca inserir na IA</legend>
+        <label class="chk"><input type="checkbox" name="ban" value="CPF, CNPJ, RG e documentos de identificação" checked> Documentos de identificação (CPF, CNPJ, RG)</label>
+        <label class="chk"><input type="checkbox" name="ban" value="dados financeiros, bancários e de cartão" checked> Dados financeiros e bancários</label>
+        <label class="chk"><input type="checkbox" name="ban" value="dados de saúde" checked> Dados de saúde</label>
+        <label class="chk"><input type="checkbox" name="ban" value="senhas, chaves de acesso e certificados digitais" checked> Senhas e certificados digitais</label>
+        <label class="chk"><input type="checkbox" name="ban" value="números de processos e peças sigilosas"> Números de processos e peças sigilosas</label>
+        <label class="chk"><input type="checkbox" name="ban" value="dados de crianças e adolescentes"> Dados de crianças e adolescentes</label>
+      </fieldset>
+      <fieldset><legend>Regras adicionais</legend>
+        <label class="chk"><input type="checkbox" id="anon" checked> Anonimizar dados antes de qualquer uso</label>
+        <label class="chk"><input type="checkbox" id="rev" checked> Revisão humana obrigatória antes de enviar a terceiros</label>
+        <label class="chk"><input type="checkbox" id="src" checked> Exigir fonte oficial e conferir cada citação legal</label>
+        <label class="chk"><input type="checkbox" id="log"> Registrar o uso de IA em tarefas relevantes</label>
+      </fieldset>
+    </section>
+
+    <section class="card" aria-labelledby="h-o">
+      <div class="row" style="justify-content:space-between"><h2 id="h-o">Política gerada</h2><span class="stat" id="copied" aria-live="polite"></span></div>
+      <div class="out" id="out" role="region" aria-label="Texto da política"></div>
+      <div class="row"><button class="primary" id="copy" type="button">Copiar política</button></div>
+      <p class="hint">Este é um modelo-base, não substitui orientação jurídica. Revise com o encarregado de dados ou advogado da organização antes de adotar.</p>
+    </section>
+  </div>
+
+  <section class="card" aria-labelledby="h-b">
+    <h2 id="h-b">Selo opcional para o seu site ou assinatura de e-mail</h2>
+    <span class="hint">Se a sua organização adotar a política, pode exibir este selo. Cole o código no seu site.</span>
+    <a class="badge-prev" href="https://are-ia.com/anonimizador" target="_blank" rel="noopener">Usa IA com cuidado de dados (LGPD)</a>
+    <code id="badge"></code>
+    <div class="row"><button id="copyBadge" type="button">Copiar código do selo</button><span class="stat" id="copied2" aria-live="polite"></span></div>
+  </section>
+
+  <aside class="card cta">
+    <h2>Quer treinar a equipe com método?</h2>
+    <span>O Guia Definitivo da IA tem prompts por profissão e boas práticas de LGPD, em português claro.</span>
+    <div class="row"><a href="https://are-ia.com/amostra" target="_blank" rel="noopener">Ler amostra grátis</a><a href="https://are-ia.com/anonimizador" target="_blank" rel="noopener">Anonimizador de Prompts</a></div>
+  </aside>
+</div>
+
+<script>
+(function(){
+  var $=function(id){return document.getElementById(id)};
+  function vals(name){return Array.prototype.map.call(document.querySelectorAll("input[name="+name+"]:checked"),function(e){return e.value})}
+  function list(a){return a.length?a.map(function(x){return "  - "+x}).join("\n"):"  - (nenhum definido)"}
+  function build(){
+    var org=$("org").value.trim()||"[Nome da organização]";
+    var resp=$("resp").value.trim()||"[Responsável]";
+    var tools=vals("tool"); var other=$("other").value.trim(); if(other)tools.push(other);
+    var bans=vals("ban");
+    var d=new Date(); var date=("0"+d.getDate()).slice(-2)+"/"+("0"+(d.getMonth()+1)).slice(-2)+"/"+d.getFullYear();
+    var t="POLÍTICA DE USO DE INTELIGÊNCIA ARTIFICIAL\n"+org+"\nVersão 1.0 · "+date+"\n\n";
+    t+="1. OBJETIVO\nOrientar o uso de ferramentas de IA no trabalho, protegendo dados pessoais de clientes, colaboradores e terceiros, em linha com a Lei Geral de Proteção de Dados (Lei 13.709/2018).\n\n";
+    t+="2. FERRAMENTAS APROVADAS\n"+list(tools)+"\nFerramentas não listadas não devem ser usadas com informações da organização sem aprovação de "+resp+".\n\n";
+    t+="3. O QUE NUNCA DEVE SER INSERIDO NA IA\n"+list(bans)+"\n\n";
+    t+="4. REGRAS DE USO\n";var n=1;
+    if($("anon").checked)t+="  4."+(n++)+" Anonimizar o texto antes do uso: remover nomes, números de documentos, contatos e identificadores, trocando-os por códigos.\n";
+    if($("src").checked)t+="  4."+(n++)+" Exigir a fonte oficial em respostas jurídicas, fiscais ou técnicas e conferi-la no texto original antes de usar.\n";
+    if($("rev").checked)t+="  4."+(n++)+" Toda saída da IA é rascunho. Um profissional deve revisar antes de enviar a clientes ou terceiros.\n";
+    if($("log").checked)t+="  4."+(n++)+" Registrar o uso de IA em tarefas relevantes (data, ferramenta, finalidade).\n";
+    t+="  4."+(n++)+" Decisões sobre pessoas e responsabilidade profissional permanecem humanas.\n\n";
+    t+="5. INCIDENTES\nSe dados forem inseridos por engano, comunicar imediatamente "+resp+", que avaliará as medidas cabíveis.\n\n";
+    t+="6. RESPONSÁVEL E REVISÃO\nResponsável: "+resp+". Esta política deve ser revisada periodicamente e sempre que as ferramentas ou a lei mudarem.\n\n";
+    t+="Modelo-base gratuito. Não substitui orientação jurídica. Fonte do modelo: are-ia.com/politica-ia";
+    return t;
+  }
+  var BADGE='<a href="https://are-ia.com/anonimizador" target="_blank" rel="noopener">Usa IA com cuidado de dados (LGPD)</a>';
+  $("badge").textContent=BADGE;
+  function render(){$("out").textContent=build()}
+  document.addEventListener("input",render);document.addEventListener("change",render);
+  function copy(text,flag){
+    function done(m){$(flag).textContent=m;setTimeout(function(){$(flag).textContent=""},2500)}
+    if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(text).then(function(){done("Copiado.")},function(){done("Selecione o texto e copie manualmente.")})}
+    else done("Selecione o texto e copie manualmente.")
+  }
+  $("copy").addEventListener("click",function(){copy(build(),"copied")});
+  $("copyBadge").addEventListener("click",function(){copy(BADGE,"copied2")});
+  render();
+})();
+</script>
