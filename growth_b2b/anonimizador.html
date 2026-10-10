@@ -1,0 +1,177 @@
+<title>Anonimizador de Prompts</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* Layout: cabeçalho curto, duas colunas (texto original | versão segura), mapa de substituições, chamada para o guia */
+:root{
+  --bg:#f3f6f6; --surface:#ffffff; --fg:#0e1c1f; --muted:#51666b; --line:#d5dfe0;
+  --accent:#0b6e66; --accent-fg:#ffffff; --hit:#fde7b0; --hit-fg:#5a3b00; --ok:#17663a;
+  --font-display:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --font-body:"IBM Plex Sans","Segoe UI",system-ui,sans-serif;
+  --font-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0b1517; --surface:#112124; --fg:#e6f0f1; --muted:#93a9ad; --line:#24393d;
+  --accent:#4fd1c0; --accent-fg:#06201d; --hit:#4a3a10; --hit-fg:#ffe3a1; --ok:#6fdc9a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0b1517; --surface:#112124; --fg:#e6f0f1; --muted:#93a9ad; --line:#24393d;
+  --accent:#4fd1c0; --accent-fg:#06201d; --hit:#4a3a10; --hit-fg:#ffe3a1; --ok:#6fdc9a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--font-body);font-size:16px;line-height:1.55;padding-inline:16px;padding-block:28px 48px}
+.wrap{max-width:1040px;margin:0 auto;display:flex;flex-direction:column;gap:22px}
+h1{font-family:var(--font-display);font-size:clamp(1.9rem,5vw,2.8rem);line-height:1.05;margin:0;text-wrap:balance;letter-spacing:-0.02em}
+h2{font-family:var(--font-display);font-size:1.15rem;margin:0}
+.lead{color:var(--muted);max-width:62ch;margin:10px 0 0}
+.eyebrow{font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.privacy{display:inline-flex;gap:8px;align-items:center;font-size:.9rem;color:var(--ok);font-weight:500}
+.panes{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media (max-width:760px){.panes{grid-template-columns:1fr}}
+.pane{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.pane header{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap}
+textarea,.out{width:100%;min-height:260px;font-family:var(--font-mono);font-size:.9rem;line-height:1.6;background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:12px;resize:vertical;white-space:pre-wrap;word-break:break-word;overflow:auto}
+.out{min-height:260px}
+mark{background:var(--hit);color:var(--hit-fg);border-radius:3px;padding:0 2px}
+button{font:inherit;cursor:pointer;border-radius:8px;padding:8px 14px;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+button.primary{background:var(--accent);color:var(--accent-fg);border-color:var(--accent);font-weight:600}
+button:focus-visible,textarea:focus-visible,a:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.stat{font-size:.9rem;color:var(--muted)}
+.names{display:flex;flex-direction:column;gap:6px}
+.names textarea{min-height:70px}
+label{font-weight:600;font-size:.9rem}
+.hint{font-size:.85rem;color:var(--muted)}
+.table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:.9rem}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);font-variant-numeric:tabular-nums}
+th{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+td.m{font-family:var(--font-mono)}
+.restore{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px;display:flex;flex-direction:column;gap:10px}
+.cta{border:1px solid var(--accent);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:10px;background:var(--surface)}
+.cta a{color:var(--accent);font-weight:600}
+.warn{font-size:.88rem;color:var(--muted);border-left:3px solid var(--line);padding-left:12px;max-width:70ch}
+#theme{margin-left:auto}
+.top{display:flex;align-items:flex-start;gap:12px}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="top"><div>
+      <div class="eyebrow">Ferramenta gratuita · LGPD</div>
+      <h1>Anonimizador de Prompts</h1>
+      <p class="lead">Cole o texto antes de enviar para o ChatGPT, Gemini ou Claude. A ferramenta troca CPF, CNPJ, e-mail, telefone, CEP, número de processo e cartão por códigos, e você pode restaurar os dados na resposta da IA.</p>
+      <p class="privacy">Tudo roda no seu navegador. Nada é enviado para servidor.</p>
+    </div></div>
+  </header>
+
+  <div class="panes">
+    <section class="pane" aria-labelledby="h-in">
+      <header><h2 id="h-in">Texto original</h2><button id="sample" type="button">Carregar exemplo</button></header>
+      <textarea id="input" aria-label="Texto original" spellcheck="false"></textarea>
+      <div class="names">
+        <label for="names">Nomes para ocultar (um por linha)</label>
+        <textarea id="names" spellcheck="false" placeholder="Maria da Silva&#10;Construtora Horizonte Ltda"></textarea>
+        <span class="hint">Nomes não têm formato fixo, então a ferramenta só troca os que você listar aqui.</span>
+      </div>
+    </section>
+    <section class="pane" aria-labelledby="h-out">
+      <header><h2 id="h-out">Versão segura para a IA</h2><div class="row"><span class="stat" id="count" aria-live="polite"></span></div></header>
+      <div class="out" id="output" role="region" aria-label="Versão segura"></div>
+      <div class="row"><button id="copy" class="primary" type="button">Copiar versão segura</button><span class="stat" id="copied" aria-live="polite"></span></div>
+    </section>
+  </div>
+
+  <section aria-labelledby="h-map">
+    <h2 id="h-map" style="margin-bottom:10px">Mapa de substituições</h2>
+    <div class="table-wrap"><table><thead><tr><th>Código</th><th>Tipo</th><th>Valor original</th></tr></thead><tbody id="map"></tbody></table></div>
+    <p class="hint" style="margin-top:8px">O mapa fica só nesta página. Se você fechar a aba, ele some.</p>
+  </section>
+
+  <section class="restore" aria-labelledby="h-rest">
+    <h2 id="h-rest">Restaurar na resposta da IA</h2>
+    <label for="reply">Cole a resposta da IA com os códigos</label>
+    <textarea id="reply" style="min-height:120px" spellcheck="false" placeholder="Ex.: O contrato de [PESSOA_1] com CPF [CPF_1] ..."></textarea>
+    <div class="row"><button id="restore" class="primary" type="button">Restaurar dados</button><button id="copyRestored" type="button">Copiar resultado</button><span class="stat" id="copied2" aria-live="polite"></span></div>
+    <div class="out" id="restored" style="min-height:100px" role="region" aria-label="Resposta restaurada"></div>
+  </section>
+
+  <p class="warn">Esta ferramenta ajuda a reduzir risco, mas não garante anonimização completa. Revise o texto antes de enviar: endereços, apelidos, datas e contexto podem identificar alguém. Para dados de saúde ou crianças, siga a política do seu escritório ou empresa e a orientação jurídica.</p>
+
+  <aside class="cta">
+    <h2>Quer usar IA no trabalho com método e cuidado?</h2>
+    <span>O Guia Definitivo da IA traz prompts por profissão e boas práticas de LGPD, em português claro.</span>
+    <div class="row"><a href="https://are-ia.com/amostra" target="_blank" rel="noopener">Ler amostra grátis</a><a href="https://are-ia.com/prompts-para-contador" target="_blank" rel="noopener">Prompts para contadores</a><a href="https://are-ia.com/prompts-para-advogado" target="_blank" rel="noopener">Prompts para advogados</a><a href="https://are-ia.com/prompts-para-rh" target="_blank" rel="noopener">Prompts para RH</a></div>
+  </aside>
+</div>
+
+<script>
+(function(){
+  function digits(s){return s.replace(/\D/g,"")}
+  function cpfOk(s){var d=digits(s);if(d.length!==11||/^(\d)\1+$/.test(d))return false;
+    for(var t=9;t<11;t++){var sum=0;for(var i=0;i<t;i++)sum+=+d[i]*(t+1-i);var r=(sum*10)%11%10;if(r!==+d[t])return false}return true}
+  function cnpjOk(s){var d=digits(s);if(d.length!==14||/^(\d)\1+$/.test(d))return false;
+    function calc(n){var w=n===12?[5,4,3,2,9,8,7,6,5,4,3,2]:[6,5,4,3,2,9,8,7,6,5,4,3,2];var sum=0;for(var i=0;i<n;i++)sum+=+d[i]*w[i];var r=sum%11;return r<2?0:11-r}
+    return calc(12)===+d[12]&&calc(13)===+d[13]}
+  function luhn(s){var d=digits(s);if(d.length<13||d.length>19)return false;var sum=0,alt=false;
+    for(var i=d.length-1;i>=0;i--){var n=+d[i];if(alt){n*=2;if(n>9)n-=9}sum+=n;alt=!alt}return sum%10===0}
+  var RULES=[
+    {type:"PROCESSO",re:/\b\d{7}-\d{2}\.\d{4}\.\d\.\d{2}\.\d{4}\b/g},
+    {type:"CNPJ",re:/\b\d{2}\.?\d{3}\.?\d{3}\/?\d{4}-?\d{2}\b/g,ok:cnpjOk},
+    {type:"CPF",re:/\b\d{3}\.?\d{3}\.?\d{3}-?\d{2}\b/g,ok:cpfOk},
+    {type:"EMAIL",re:/[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}/g},
+    {type:"CARTAO",re:/\b(?:\d[ -]?){13,19}\b/g,ok:luhn},
+    {type:"TELEFONE",re:/(?:\+?55[\s-]?)?\(?\b\d{2}\)?[\s-]?9?\d{4}[\s-]?\d{4}\b/g,ok:function(m){var d=digits(m);return d.length>=10&&d.length<=13}},
+    {type:"CEP",re:/\b\d{5}-\d{3}\b/g},
+    {type:"RG",re:/\b\d{1,2}\.\d{3}\.\d{3}-[\dXx]\b/g}
+  ];
+  function esc(s){return s.replace(/[&<>]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;"}[c]})}
+  function anonymize(text,names){
+    var hits=[];
+    function overlaps(a,b){return a<b.end&&b.start<a+0&&false}
+    function add(start,end,type,value){for(var i=0;i<hits.length;i++){if(start<hits[i].end&&hits[i].start<end)return}hits.push({start:start,end:end,type:type,value:value})}
+    (names||[]).filter(Boolean).sort(function(a,b){return b.length-a.length}).forEach(function(n){
+      var re=new RegExp(n.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),"gi"),m;
+      while((m=re.exec(text)))add(m.index,m.index+m[0].length,"PESSOA",m[0])});
+    RULES.forEach(function(r){var re=new RegExp(r.re.source,"g"),m;
+      while((m=re.exec(text))){if(r.ok&&!r.ok(m[0]))continue;add(m.index,m.index+m[0].length,r.type,m[0])}});
+    hits.sort(function(a,b){return a.start-b.start});
+    var map={},counters={},out="",pos=0,list=[],html="";
+    hits.forEach(function(h){
+      var key=h.type+"|"+(h.type==="PESSOA"?h.value.toLowerCase():digits(h.value)||h.value.toLowerCase());
+      if(!map[key]){counters[h.type]=(counters[h.type]||0)+1;map[key]="["+h.type+"_"+counters[h.type]+"]";list.push({code:map[key],type:h.type,value:h.value})}
+      out+=text.slice(pos,h.start)+map[key];
+      html+=esc(text.slice(pos,h.start))+"<mark>"+esc(map[key])+"</mark>";
+      pos=h.end});
+    out+=text.slice(pos);html+=esc(text.slice(pos));
+    return{text:out,html:html,list:list,total:hits.length}
+  }
+  function restore(text,list){var t=text;list.slice().sort(function(a,b){return b.code.length-a.code.length}).forEach(function(i){t=t.split(i.code).join(i.value)});return t}
+  window.__anon={anonymize:anonymize,restore:restore,cpfOk:cpfOk,cnpjOk:cnpjOk};
+
+  var $=function(id){return document.getElementById(id)};
+  var current={list:[]};
+  var SAMPLE="Olá, preciso de um resumo do atendimento.\nCliente: Maria da Silva, CPF 529.982.247-25, e-mail maria.silva@exemplo.com.br, telefone (11) 91234-5678.\nEmpresa: Construtora Horizonte Ltda, CNPJ 11.222.333/0001-81, CEP 01310-100.\nProcesso 0001234-56.2024.8.26.0100 em andamento. Pagamento no cartão 4539 1488 0343 6467.\nEscreva um e-mail curto explicando o próximo passo.";
+  function run(){
+    var names=$("names").value.split("\n").map(function(s){return s.trim()});
+    var r=anonymize($("input").value,names);current=r;
+    $("output").innerHTML=r.html||"<span class='hint'>A versão segura aparece aqui.</span>";
+    $("count").textContent=r.total?r.total+" dado(s) trocado(s)":"";
+    var tb=$("map");tb.innerHTML="";
+    if(!r.list.length){tb.innerHTML="<tr><td colspan='3' class='hint'>Nenhum dado sensível encontrado ainda.</td></tr>"}
+    r.list.forEach(function(i){var tr=document.createElement("tr");
+      [i.code,i.type,i.value].forEach(function(v,k){var td=document.createElement("td");if(k!==1)td.className="m";td.textContent=v;tr.appendChild(td)});tb.appendChild(tr)});
+  }
+  function copy(text,flag){
+    function done(msg){$(flag).textContent=msg;setTimeout(function(){$(flag).textContent=""},2500)}
+    if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(text).then(function(){done("Copiado.")},function(){done("Selecione o texto e copie manualmente.")})}
+    else done("Selecione o texto e copie manualmente.")
+  }
+  $("input").addEventListener("input",run);$("names").addEventListener("input",run);
+  $("sample").addEventListener("click",function(){$("input").value=SAMPLE;$("names").value="Maria da Silva\nConstrutora Horizonte Ltda";run()});
+  $("copy").addEventListener("click",function(){copy(current.text||"","copied")});
+  $("restore").addEventListener("click",function(){$("restored").textContent=restore($("reply").value,current.list)});
+  $("copyRestored").addEventListener("click",function(){copy($("restored").textContent,"copied2")});
+  $("input").value=SAMPLE;$("names").value="Maria da Silva\nConstrutora Horizonte Ltda";run();
+  $("reply").value="Prezada [PESSOA_1], seu processo [PROCESSO_1] segue em andamento. Retornaremos pelo e-mail [EMAIL_1].";
+  $("restore").click();
+})();
+</script>
