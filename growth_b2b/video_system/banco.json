@@ -1,0 +1,12 @@
+{"name":"banco","dur":26,"music":"music26.wav",
+"bg":[{"file":"city1.mp4","ss":0,"len":26,"speed":0.8}],
+"caps":[
+{"t":"Você trabalha em **banco** ou **grande empresa**?","a":0,"b":2.6,"fs":84,"top":820},
+{"t":"E ainda não usa IA por **medo de quebrar uma regra**?","a":2.6,"b":5.4,"fs":78,"top":820},
+{"t":"Faz assim 👇","a":5.4,"b":6.8,"fs":90,"top":860},
+{"t":"1. Use só a ferramenta que a empresa **aprovou**","a":6.8,"b":10,"top":860},
+{"t":"2. **Nunca** cole nome, CPF ou conta de cliente","a":10,"b":13.2,"top":860},
+{"t":"3. Comece por **e-mails, resumos e roteiros** de reunião","a":13.2,"b":16.6,"top":860},
+{"t":"Quem aprende isso agora **sai na frente** no trabalho","a":16.6,"b":20.2,"top":860},
+{"t":"Comenta **GUIA** e eu te mando a amostra grátis","a":20.2,"b":26,"fs":82,"top":860}
+]}
