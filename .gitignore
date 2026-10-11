@@ -1,0 +1,11 @@
+
+# media renders/clips
+growth_b2b/v3/clips/
+growth_b2b/v3/*.mp4
+growth_b2b/v3/*.wav
+growth_b2b/v3/*.png
+growth_b2b/v3/*.jpg
+growth_b2b/v3/*.log
+growth_b2b/reels2/*.mp4
+growth_b2b/reels2/*.png
+growth_b2b/reels2/*.txt

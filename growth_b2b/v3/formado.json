@@ -1,0 +1,20 @@
+{"name":"formado","dur":33,"music":"music33.wav",
+"bg":[
+{"file":"clips/mk_4000.mp4","ss":1,"len":3.5},
+{"file":"clips/mk_221.mp4","ss":2,"len":3},
+{"file":"clips/mk_42664.mp4","ss":0.5,"len":4.5},
+{"file":"clips/mk_46680.mp4","ss":1,"len":4.5},
+{"file":"clips/mk_914.mp4","ss":2,"len":4.5},
+{"file":"clips/mk_4809.mp4","ss":3,"len":4.5},
+{"file":"clips/mk_918.mp4","ss":1,"len":4.5},
+{"file":"clips/mk_4308.mp4","ss":2,"len":4}],
+"caps":[
+{"t":"Acabou de se formar e **não sabe usar IA**?","a":0,"b":3.5,"fs":84,"top":820},
+{"t":"Quem aprende agora **sai na frente**.","a":3.5,"b":6.5,"fs":84,"top":820},
+{"t":"Prompt 1 · Currículo\n**\"Reescreva este item com resultado, sem inventar dados\"**","a":6.5,"b":11,"top":820},
+{"t":"Prompt 2 · Entrevista\n**\"Seja o entrevistador da vaga de [cargo]. Uma pergunta por vez\"**","a":11,"b":15.5,"fs":70,"top":800},
+{"t":"Prompt 3 · E-mail\n**\"E-mail curto e cordial para [pessoa] sobre [assunto]\"**","a":15.5,"b":20,"top":820},
+{"t":"Prompt 4 · Aprender\n**\"Explique [tema] com exemplo e 3 perguntas para eu testar\"**","a":20,"b":24.5,"fs":70,"top":800},
+{"t":"Prompt 5 · Conferir\n**\"O que você pode ter errado ou inventado aqui?\"**","a":24.5,"b":29,"top":820},
+{"t":"Comenta **GUIA** e eu te mando a amostra grátis","a":29,"b":33,"fs":82,"top":860}
+]}
