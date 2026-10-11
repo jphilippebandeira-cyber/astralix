@@ -36,3 +36,9 @@
 - Fonte: lista de seguidores de contas da niche (portalcontabeis feito; proximas: crcsp, oabsp, abrhbrasil, anbima, contas de criadores de IA/produtividade BR). Seguir so perfis de escritorios/contadores/advogados/RH/PME (pular fisioterapeutas, lojas etc).
 - Ritmo: ate ~30 follows por dia em series de 5-8 com pausas de varios segundos a minutos; parar 24 h ao primeiro aviso/bloqueio do Instagram. Nao existe numero oficial: ir devagar protege a conta.
 - Registrar cada serie no LOG_INSTAGRAM_10OUT.csv.
+
+## CORRECAO DE PUBLICO-ALVO (Jean, 10/10 23:55) — vale mais que o foco anterior em contadores
+Publico principal: (1) profissionais de bancos, mercado financeiro e grandes empresas/tech que precisam usar IA no trabalho dentro de regras (sigilo, LGPD, politica interna); (2) recem-formados sem conhecimento de IA que entram no mercado (curriculo, entrevista, primeiros meses de trabalho). Contadores/advogados seguem como nicho secundario.
+- Angulos de conteudo: "Seu banco/empresa restringe IA? como usar dentro das regras", "recem-formado: 5 prompts para o primeiro emprego", "preparar entrevista/curriculo com IA sem copiar", "relatorio/planilha/e-mail com IA em 10 min".
+- Fontes de follows: professores/cursos de certificacao (ANBIMA CPA/CEA, CFA), cursos de trainee/estagio, carreira/vagas (Gupy, CIEE, Vagas.com), criadores de produtividade/carreira BR. Observacao tecnica: o Instagram so mostra ~5 seguidores de contas grandes (ex. britoacademiafinancas); a lista completa so abre em contas pequenas ou com conexao em comum. Alternativas: Explorar, hashtags (#trainee #estagio #cpa20 #recemformado), comentarios em posts.
+- Paginas existentes alinhadas: /prompts-para-curriculo-e-entrevista, /prompts-para-administrativo, /empresas.
