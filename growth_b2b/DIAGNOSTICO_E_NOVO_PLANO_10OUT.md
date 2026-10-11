@@ -31,3 +31,8 @@
 
 ## Pergunta de validacao (curta)
 "Se existisse um guia em portugues com prompts prontos para a sua profissao e regras de LGPD, o que voce mais precisaria que ele tivesse?"
+
+## Regra de follows (adicionada 10/10 23:55, pedido do Jean)
+- Fonte: lista de seguidores de contas da niche (portalcontabeis feito; proximas: crcsp, oabsp, abrhbrasil, anbima, contas de criadores de IA/produtividade BR). Seguir so perfis de escritorios/contadores/advogados/RH/PME (pular fisioterapeutas, lojas etc).
+- Ritmo: ate ~30 follows por dia em series de 5-8 com pausas de varios segundos a minutos; parar 24 h ao primeiro aviso/bloqueio do Instagram. Nao existe numero oficial: ir devagar protege a conta.
+- Registrar cada serie no LOG_INSTAGRAM_10OUT.csv.
