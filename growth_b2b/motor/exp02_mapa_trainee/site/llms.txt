@@ -1,0 +1,26 @@
+# Mapa Trainee 2027 (ARE-IA)
+
+> Dossiês gratuitos de 18 programas de trainee 2027 no Brasil: prazo, salário, etapas, o que a vaga valoriza, perguntas prováveis e prompts de IA para preparação. Inclui estudo sobre quanto os programas cobram de IA (7 de 18 citam IA; 1 exige como desejável).
+
+## Programas
+- [Unilever](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/unilever/): Trainee Executivo Unilever 2027, prazo 14/10/2026, salário R$ 17.000
+- [Hypera Pharma](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/hypera-pharma/): Trainee Hypera Pharma 2027, prazo 20/10/2026, salário R$ 10.000
+- [PepsiCo](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/pepsico/): PepsiCo Next Gen 2027, prazo 21/10/2026, salário R$ 10.000
+- [Indovinya](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/indovinya/): Trainee Indovinya 2027, prazo 23/10/2026, salário Competitivo (não informado)
+- [Praso](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/praso/): Trainee Praso 2027, prazo 03/11/2026, salário R$ 10.000
+- [Grant Thornton](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/grant-thornton/): Trainee Grant Thornton 2027, prazo 15/11/2026, salário Não informado
+- [Bayer](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/bayer/): Trainee Bayer 2027 (3ª edição), prazo Não informado, salário R$ 18.900
+- [Enforce (BTG Pactual)](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/enforce-btg/): Trainee Enforce 2027, prazo Não informado, salário Compatível com o mercado + PLR de até 4 salários
+- [EMS](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/ems/): Propagandista Trainee EMS, prazo Não informado, salário Até R$ 12.000 (até R$ 17.000 após 12 meses, se promovido)
+- [Kinross](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/kinross/): Trainee Kinross (Engenharia), prazo Não informado, salário Não informado
+- [Amazon](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/amazon/): Operations Manager Trainee, prazo Não informado, salário R$ 13.900 + bônus de adesão + ações (RSUs)
+- [Citi](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/citi/): Programa de Analistas Citi 2027, prazo Não informado, salário Não informado
+- [Zamp (Burger King, Popeyes, Starbucks, Subway)](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/zamp/): Z Talent (Trainee Zamp 2027), prazo Não informado, salário R$ 9.000
+- [Garena (Free Fire)](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/garena/): Trainee Garena 2027, prazo Não informado, salário Competitivo (não informado)
+- [McKinsey & Company](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/mckinsey/): Analista de Negócios Júnior, prazo Não informado, salário Não informado
+- [Vibra](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/vibra/): Trainee Vibra 2027, prazo Não informado, salário R$ 8.500
+- [Rottas](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/rottas/): Trainee Rottas 2027, prazo Não informado, salário R$ 7.500 (PJ)
+- [SulAmérica + Rede D'Or](https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/sulamerica-rede-dor/): Trainee SulAmérica + Rede D'Or 2027, prazo 30/09/2026, salário Compatível com o mercado
+
+## Sobre
+- [ARE-IA](https://are-ia.com): guia prático de IA no trabalho em português, com LGPD.

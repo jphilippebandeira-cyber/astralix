@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jphilippebandeira-cyber.github.io/mapa-trainee-2027/sitemap.xml
