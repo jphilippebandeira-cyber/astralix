@@ -27,3 +27,11 @@ Amostra gratis: https://are-ia.com/amostra
 1. "Seu banco ou empresa limita o uso de IA? Da para usar dentro das regras: so ferramenta aprovada, nunca dado de cliente, comece por e-mails e resumos. Guia com prompts prontos: [link de afiliado]"
 2. "Acabou de se formar e nao sabe usar IA? 5 prompts para curriculo, entrevista e primeiros dias no emprego estao neste guia: [link de afiliado]"
 3. "Antes de colar dados de cliente em qualquer IA, anonimize. Ferramenta gratis: https://are-ia.com/anonimizador. Guia completo: [link de afiliado]"
+
+## Estado real do Hotmart (verificado 13/10/2026)
+- Produto PT: "Domine a Inteligencia Artificial: Guia Completo para Produtividade e Seguranca Digital", ID 8655836, vendas ativas, programa de afiliados ATIVO (30%, afiliacao 1 clique, visivel no mercado), 0 afiliados.
+- ATENCAO: o link padrao https://pay.hotmart.com/H107884362C mostra R$287,57 (preco base 47 EUR convertido). Usar SEMPRE o link da oferta: https://pay.hotmart.com/H107884362C?off=bb7j0mje (R$149,00; Pix, boleto, cartao; sem criar conta).
+- Pagina de vendas: https://go.hotmart.com/H107884362C
+- Recrutamento de afiliados: https://affiliate.hotmart.com/affiliate-recruiting/view/9819D107884383
+- NAO clicar em "Acessar pagina" no painel de afiliados: faz logout do SSO.
+- Divergencias a decidir pelo Jean (nao alterei): oferta Hotmart R$149,00 no cartao vs site R$199,99; R$149,00 vs R$149,99 no Pix; texto de afiliacao fala de golpes digitais, nao de banco/emprego.
