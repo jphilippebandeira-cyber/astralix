@@ -36,3 +36,11 @@ Objetivo: vendas de "O Guia Definitivo da IA". Regra-mae: nao repetir o que 99% 
 - Responder por DM a quem comentar o nome de uma empresa, com o link do dossie (resposta a pedido, permitido).
 - Ordem dos proximos: Hypera (20/10), PepsiCo (21/10), Indovinya (23/10), Praso (03/11), Grant Thornton (15/11), depois os sem prazo.
 - A cada semana, atualizar prazos (fontes em data.json) e adicionar novos programas abertos.
+
+## Servico "comenta o nome da empresa" (ativo desde 13/10, so a pedido)
+- Comentario-servico publicado no carrossel do estudo trainee (13/10). Repetir a chamada na legenda de cada carrossel de empresa.
+- Todo dia: ler comentarios dos posts trainee. Para cada pessoa que comentar um nome de empresa (ou pedir), responder no comentario ("Te mandei no direct!") e enviar DM com o link do dossie:
+  "Oi, [nome]! Aqui está o dossiê da [empresa]: https://are-ia.com/trainee-2027/[slug] — prazo, salário, etapas, perguntas prováveis e 3 prompts para treinar. Boa sorte no processo! Se quiser, me conta em qual etapa você está que eu te digo o que treinar primeiro."
+- Se a empresa nao estiver no mapa: "Ainda não tenho o dossiê da [empresa]; vou montar e te aviso." -> pesquisar a vaga publica, adicionar ao data.json, pedir a pagina ao Replit, e avisar a pessoa quando estiver no ar.
+- Se a pessoa responder: conversa util (o que treinar primeiro). So mencionar o guia se ela perguntar por mais material ou demonstrar interesse; nunca pressionar.
+- Isto e resposta a pedido: nao conta como prospeccao. Nunca enviar DM a quem nao pediu.
