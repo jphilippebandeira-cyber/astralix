@@ -1,0 +1,18 @@
+@font-face{{font-family:P;src:url(data:font/ttf;base64,{b('Poppins-Bold.ttf')});font-weight:700}}
+@font-face{{font-family:P;src:url(data:font/ttf;base64,{b('Poppins-Regular.ttf')});font-weight:400}}
+@font-face{{font-family:P;src:url(data:font/ttf;base64,{b('Poppins-Medium.ttf')});font-weight:600}}
+*{{margin:0;box-sizing:border-box}}body{{width:1080px;height:1350px;background:#F4F1EA;color:#141414;font-family:P;padding:90px 88px;position:relative;display:flex;flex-direction:column}}
+.tag{{font-size:24px;font-weight:600;letter-spacing:3px;text-transform:uppercase;opacity:.55}}
+h1{{font-size:96px;line-height:1.05;font-weight:700;margin-top:36px;letter-spacing:-2px}}
+h2{{font-size:62px;line-height:1.12;font-weight:700;margin-top:26px}}
+p{{font-size:40px;line-height:1.42;margin-top:30px}}
+.hl{{background:linear-gradient(transparent 55%,#FFD43B 55%);padding:0 6px}}
+.badge{{display:inline-block;background:#141414;color:#FFD43B;font-weight:700;font-size:44px;border-radius:999px;padding:14px 34px;margin-top:50px;align-self:flex-start}}
+.facts{{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:46px}}
+.f{{border:3px solid #141414;border-radius:24px;padding:26px 28px}}.f b{{display:block;font-size:22px;letter-spacing:2px;text-transform:uppercase;opacity:.6}}.f span{{font-size:38px;font-weight:700;line-height:1.2}}
+ol{{list-style:none;counter-reset:c;margin-top:30px;padding:0}}li{{counter-increment:c;font-size:36px;line-height:1.35;margin-top:26px;padding-left:76px;position:relative}}
+li:before{{content:counter(c);position:absolute;left:0;top:0;width:52px;height:52px;border-radius:50%;background:#141414;color:#F4F1EA;text-align:center;line-height:54px;font-size:28px;font-weight:700}}
+.chip{{display:inline-block;background:#E5DFD1;border-radius:999px;padding:12px 26px;font-size:32px;margin:14px 12px 0 0}}
+pre{{white-space:pre-wrap;font-family:P;font-size:29px;line-height:1.45;background:#fffdf8;border:3px solid #141414;border-radius:24px;padding:30px;margin-top:30px}}
+.cta{{margin-top:auto;margin-bottom:70px;background:#141414;color:#F4F1EA;border-radius:26px;padding:40px;font-size:36px;line-height:1.4}}.cta b{{color:#FFD43B}}
+.foot{{position:absolute;left:88px;right:88px;bottom:56px;display:flex;justify-content:space-between;font-size:22px;opacity:.6}}

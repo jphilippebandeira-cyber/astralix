@@ -44,3 +44,14 @@ Objetivo: vendas de "O Guia Definitivo da IA". Regra-mae: nao repetir o que 99% 
 - Se a empresa nao estiver no mapa: "Ainda não tenho o dossiê da [empresa]; vou montar e te aviso." -> pesquisar a vaga publica, adicionar ao data.json, pedir a pagina ao Replit, e avisar a pessoa quando estiver no ar.
 - Se a pessoa responder: conversa util (o que treinar primeiro). So mencionar o guia se ela perguntar por mais material ou demonstrar interesse; nunca pressionar.
 - Isto e resposta a pedido: nao conta como prospeccao. Nunca enviar DM a quem nao pediu.
+
+## E03 Mapa Certificacoes ANBIMA 2026 (publico banco)
+- Quando https://are-ia.com/certificacoes-anbima-2026 estiver no ar: publicar o carrossel ~/Downloads/areia10/1..6.png (regerar com a data do dia: `cd motor/exp03_mapa_anbima && python3 carrossel.py AAAA-MM-DD`). Nao publicar no mesmo dia do carrossel trainee: alternar (trainee num dia, ANBIMA no outro) ou 2 posts com 6h de intervalo.
+- Legenda: prazo 31/12/2026, o que cada certificacao vira, 4 passos, "Comenta ANBIMA que eu te mando o guia por DM", fontes, #anbima #cpa20 #cpa10 #cea #mercadofinanceiro #bancarios #certificacao.
+- Quem comentar ANBIMA: DM "Oi, [nome]! Aqui está o guia: https://are-ia.com/certificacoes-anbima-2026 — transição até 31/12, formato das provas e 3 prompts de estudo. Qual certificação você tem hoje?"
+- Postar tambem no LinkedIn (perfil are-ia ia) com o mesmo carrossel: publico bancario esta la.
+
+## Proximos Mapas (mesma maquina, decidir pelo resultado de E02/E03)
+- Estagios 2027 (temporada de inscricoes out-dez): mesmo formato do trainee.
+- Concursos publicos com edital aberto (bancarios: BB, Caixa, BNB, BRB quando houver edital).
+- Certificacoes CFP/CFA/CGA se E03 performar.

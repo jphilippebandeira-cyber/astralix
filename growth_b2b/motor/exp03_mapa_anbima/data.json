@@ -1,0 +1,26 @@
+{
+ "prazo_transicao": "2026-12-31",
+ "fontes": [
+  ["InfoMoney, 14/05/2026", "https://www.infomoney.com.br/advisor/certificacoes-anbima-2026/"],
+  ["ANBIMA, notícia de 13/02/2025", "https://www.anbima.com.br/pt_br/noticias/anbima-divulga-precos-e-atualizacao-anual-das-novas-certificacoes-de-distribuicao.htm"],
+  ["TopInvest", "https://www.topinvest.com.br/blog/mudancas-na-prova-da-anbima/"],
+  ["Brito Finanças (edital v1.4 de 28/05/2026), consulta 08/09/2026", "https://britofinancas.com/certificacoes-anbima-2026-o-guia-completo-da-nova-cpa/"],
+  ["Sindicato dos Bancários de BH, 21/11/2025", "https://bancariosbh.org.br/conteudo/9642/anbima-altera-certificacoes-em-2026-veja-o-que-muda-e-como-se-preparar"]
+ ],
+ "migracao": [
+  {"de": "CPA-10", "para": "CPA"},
+  {"de": "CPA-20", "para": "CPA + C-Pro R"},
+  {"de": "CEA", "para": "CPA + C-Pro I (as fontes indicam que também é possível optar pela C-Pro R; confirme no ANBIMA Edu)"}
+ ],
+ "passos_migracao": [
+  "Manter a certificação atual válida",
+  "Concluir as microcertificações obrigatórias no ANBIMA Edu (gratuitas)",
+  "Pagar a atualização anual (R$ 115 para CPA; R$ 325 para C-Pro; R$ 30 quando a instituição paga)",
+  "Concluir tudo até 31/12/2026: segundo as fontes, a partir de 01/01/2027 quem não concluir perde as certificações da trilha antiga"
+ ],
+ "certs": [
+  {"slug":"cpa","nome":"CPA","nome_longo":"Certificado Profissional ANBIMA","publico":"Atendimento, suporte comercial, relacionamento e prospecção de clientes. Primeiro passo obrigatório da nova trilha.","prereq":"Nenhum","questoes":"50 (40 múltipla escolha contextualizada + 10 árvore de decisão)","duracao":"2h30","corte":"70% (35 acertos)","preco":"R$ 225","anual":"R$ 115 (R$ 30 se a instituição paga)","modulos":[["Produtos do Mercado Financeiro","40%"],["Relacionamento com o Cliente","30%"],["Estrutura e Dinâmica do SFN","20%"],["Inovação e Desenvolvimento de Mercado","10%"]]},
+  {"slug":"c-pro-r","nome":"C-Pro R","nome_longo":"Certificado Profissional ANBIMA de Relacionamento","publico":"Quem constrói e recomenda soluções a investidores: perfil do investidor, suitability, adequação de portfólio, comunicação de riscos.","prereq":"CPA ativa","questoes":"45 (30 múltipla escolha contextualizada + 15 árvores de decisão, cases e minicases)","duracao":"2h30","corte":"32 acertos (cerca de 71%)","preco":"R$ 500","anual":"R$ 325 (R$ 30 se a instituição paga)","modulos":[["Prospecção e Relacionamento com a Pessoa Investidora","20%"],["Análise de Informações do Cliente","20%"],["Indicação de Investimentos","40%"],["Análise e Monitoramento de Portfólio","20%"]]},
+  {"slug":"c-pro-i","nome":"C-Pro I","nome_longo":"Certificado Profissional ANBIMA de Investimento","publico":"Atuação mais técnica e analítica: estrutura de ativos, alocação, construção de carteiras, análise de produtos.","prereq":"CPA ativa","questoes":"40 (30 múltipla escolha contextualizada + 10 cases complexos)","duracao":"2h30","corte":"70% (28 acertos)","preco":"R$ 500","anual":"R$ 325 (R$ 30 se a instituição paga)","modulos":[["Produtos de Investimento","40%"],["Investimentos Alternativos, Digitais e no Exterior","15%"],["Previdência Complementar","25%"],["Gestão de Risco, Análise de Carteiras e Indicadores","20%"]]}
+ ]
+}
