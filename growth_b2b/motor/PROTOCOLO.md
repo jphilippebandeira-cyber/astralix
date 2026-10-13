@@ -30,9 +30,9 @@ Objetivo: vendas de "O Guia Definitivo da IA". Regra-mae: nao repetir o que 99% 
 
 ## Experimento em curso: Mapa Trainee 2027 (E02) — rotina diaria obrigatoria ate 15/11
 - Verificar se https://are-ia.com/trainee-2027 e os 18 dossies respondem 200 (se faltar algum, pedir ao Replit so o que falta, dados em motor/exp02_mapa_trainee/data.json, mensagens < 8000 caracteres).
-- Quando o mapa estiver no ar: trocar o link da bio do Instagram para https://are-ia.com/trainee-2027 durante a temporada (manter "are-ia.com" no texto da bio).
+- Mapa no ar desde 13/10 ~03:35 (23 paginas verificadas). Links da bio NAO podem ser editados no desktop: a bio aponta para are-ia.com, que tem uma faixa no topo com os 2 mapas.
 - Publicar 1 carrossel por dia de um programa, na ordem do prazo mais proximo ainda aberto. Gerar com a data do dia: `python3 motor/exp02_mapa_trainee/carrossel.py AAAA-MM-DD slug` (saida em carrosseis/slug/1..5.png), enviar ao Mac (~/Downloads/areia9/slug/) e publicar pelo app Instagram (adicionar as imagens UMA por vez pelo botao +; o seletor so aceita 1 arquivo por vez). Legenda: prazo, salario, 1 dica, "Dossie completo gratis: link na bio", "Comenta o nome da empresa que eu te mando o dossie", fonte, hashtags #trainee #trainee2027 #processoseletivo #nomedaempresa.
-- 13/10 (PRIORIDADE): Unilever fecha 14/10 — publicar o carrossel ~/Downloads/areia9/unilever/1..5.png antes do meio-dia.
+- 13/10: Unilever (09:37), ANBIMA LinkedIn (12:07) e ANBIMA Instagram (18:07) ja estao em tarefas agendadas proprias; o motor NAO deve publicar outro carrossel no dia 13/10. A partir de 14/10: Hypera.
 - Responder por DM a quem comentar o nome de uma empresa, com o link do dossie (resposta a pedido, permitido).
 - Ordem dos proximos: Hypera (20/10), PepsiCo (21/10), Indovinya (23/10), Praso (03/11), Grant Thornton (15/11), depois os sem prazo.
 - A cada semana, atualizar prazos (fontes em data.json) e adicionar novos programas abertos.
