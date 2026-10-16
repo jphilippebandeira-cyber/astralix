@@ -9,3 +9,6 @@ growth_b2b/v3/*.log
 growth_b2b/reels2/*.mp4
 growth_b2b/reels2/*.png
 growth_b2b/reels2/*.txt
+
+__pycache__/
+growth_b2b/motor/exp02_mapa_trainee/carrosseis/
