@@ -67,3 +67,13 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - LINKEDIN (profil « are-ia ia », ARE-IA): 1 post publié (méthode des 5 prompts, lien are-ia.com) + 3 invitations (gerentes de banco / IA, Brésil). Cadence: 1 post/jour, 15 invitations/jour max, 5 commentaires utiles/jour.
 - HOTMART: session déconnectée dans Chrome (page de login) -> connexion requise par JP (Claude ne saisit pas de mot de passe).
 - GMAIL: aucun lead/prospect dans la boîte; à signaler à JP: « Railway Security Disclosure - Rotate Credentials ».
+
+## 2026-11-01 (17h20-17h50 BRT, passage 17h)
+- PUBLIÉ: rien (passage hors 13h/21h ; déjà 3 posts/compte aujourd'hui -> plus aucune publication avant 02/11 13h).
+- MESURE: @astralix_servicos 67 abonnés / 44 posts ; AST_r06 0 vue à +1h, AST_r05 2 vues à +4h -> portée toujours bridée. @areiacurso 30 abonnés / 34 posts ; ARE_r04 14 vues à +1h, ARE_r03 17 -> légère reprise.
+- CONVERTIR: aucun DM/commentaire/pedido entrant sur les deux comptes. Likes de erickschons (vérifié), leduardodias_, 0alfredinho sur nos commentaires @areiacurso. maestroprompts et michella.ia ont répondu automatiquement à nos commentaires (« enviei no direct ») : rien à faire.
+- CROISSANCE @astralix_servicos: 4 commentaires (sebrae reel Empretec/franquia, contaazul « fatia » taxas maquininha, nuvemshop Black Friday FAQ, stone valuation). Suivis: contaazul, nuvemshop, sebraesp, sebraepr, sebrae. Total jour: 5 commentaires, 5 follows.
+- CROISSANCE @areiacurso: 4 commentaires (hacker.prompt premissas, fabianocarvalhojr dado público, michella.ia rosto fixo, maestroprompts lacunas + 3 perguntas). Suivis: itsdavixavier, clubedasskills, willianmuller_, higgsfield.ai, openai. Total jour: 8 commentaires, 5 follows.
+- Sources <24h Astralix: contaazul, nuvemshop, stone, sebrae publient tous les jours ; sebraemg n'existe pas. Astuce: shortcode commençant par DfM/DfN = <24h aujourd'hui.
+- Méthode commentaire fiable: JS focus textarea -> type -> Return -> vérifier textarea vide.
+- Aucune erreur Instagram pendant ce passage.
