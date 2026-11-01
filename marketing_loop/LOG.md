@@ -51,3 +51,9 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - CONVERTIR: aucun nouveau commentaire/DM sur les deux comptes (1 like de cotedazur.travel).
 - CROISSANCE: @areiacurso a commenté custodiorod (10 ganchos). Total jour: areiacurso 4, astralix 1.
 - Chrome: l'ancien tabId n'existe plus après reconnexion -> toujours tabs_context_mcp(createIfEmpty) puis naviguer une 2e fois si l'onglet reste sur chrome://newtab.
+
+## 2026-11-01 (16h20 BRT, Partenariats & Affiliés)
+- Créé marketing_loop/partners.md (registre + commissions validées 20/30 % Astralixai, 40 % ebook).
+- DMs entrants: aucune réponse de partenaire sur @areiacurso ni @astralix_servicos (Primary, Pedidos vides). Découvert d'anciens contacts ARE-IA (Elvizio Vanzo, Edu Sobreira, Jessica Martins...) -> listés dans partners.md, ne pas recontacter à froid.
+- 9 partenaires vérifiés vidIQ (5 agences, 4 créateurs), statut a_contacter. 6e agence non trouvée (dionelbogorni = concurrent, geronimo.actis = hispanophone).
+- DMs: 0 envoyé. @astralix_servicos en pause DM jusqu'au 02/11 16h. @areiacurso: profil jorgesouza.ia sans bouton « Enviar mensagem », et la recherche de destinataire dans « Nova mensagem » reste bloquée en chargement -> traité comme avertissement, arrêt. Prochain passage: 1 essai @areiacurso (gi.blanco); si échec -> pause DM 72h, prospection via commentaires utiles.
