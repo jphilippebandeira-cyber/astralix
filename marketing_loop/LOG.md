@@ -36,3 +36,11 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - DMs prospection et commentaires de croissance: NON faits volontairement (le bouton « Enviar mensagem » a échoué 2x il y a 20 min). Reprendre au passage de 17h avec 5 DMs max (index 7 odhosodontologia d'abord); au moindre « Ocorreu um erro » -> stop DM 24h.
 - Aucun commentaire/DM entrant sur les deux comptes.
 - Carrousels: format 1080x1350, crop 4:5 dans IG; Reels: crop « Original ».
+
+## 2026-11-01 (13h20-13h35 BRT, passage 13h)
+- Publication du passage 13h déjà faite à 13h05 (rattrapage) -> pas de double post.
+- MESURE: @areiacurso 30 abonnés / 33 posts, Reels: ARE_r03 0 vue à +30 min, puis 20,12,9,9,17,33 (médiane ~12). @astralix_servicos 67 abonnés / 43 posts, Reels: AST_r05 0 vue à +30 min, puis 26,1,0,11,13,4 (médiane ~8). 0 vue à 30 min sur les deux = portée encore bridée.
+- CONVERTIR: aucun nouveau commentaire/DM/pedido sur les deux comptes; aucune réponse aux DMs de prospection.
+- CROISSANCE (sans erreur IG): @areiacurso a commenté inventormiguel (prompt fixe + exemple), pompeu.ia (photo de face pour templates Hailuo), diegoalmeida.ia (fiche de référence personnage). @astralix_servicos a commenté sebrae (PIX MEI: message fixé anti-golpe WhatsApp). Total jour: areiacurso 3, astralix 1.
+- Source fiable de posts <24h: fil « Seguindo » (instagram.com/?variant=following) de @areiacurso (comptes IA suivis). Le fil d'@astralix_servicos = prospects (avocats/dentistes): pour la croissance Astralix, aller sur profils sebrae, sebraesp, etc.
+- DMs prospection: toujours en pause, reprendre à 17h (5 max, index 7 odhosodontologia).
