@@ -1,0 +1,269 @@
+{
+ "ARE_v2_01": {
+  "dur": 23,
+  "ac": "#ff7a1a",
+  "ac2": "#ffb35c",
+  "handle": "@areiacurso · O Guia Definitivo da IA",
+  "beat": 1.3,
+  "scenes": [
+   {
+    "t": 0,
+    "kind": "gpt",
+    "focus": 0.45,
+    "msgs": [
+     {
+      "from": "user",
+      "text": "melhora esse texto",
+      "at": 0
+     }
+    ],
+    "stamp": {
+     "text": "PARE",
+     "at": 0,
+     "color": "#ff3b4e"
+    },
+    "cap": "PARE de pedir *isso pro ^ChatGPT."
+   },
+   {
+    "t": 1.8,
+    "kind": "gpt",
+    "focus": 0.5,
+    "msgs": [
+     {
+      "from": "user",
+      "text": "melhora esse texto",
+      "at": 0
+     },
+     {
+      "from": "bot",
+      "text": "Claro! Aqui está uma versão melhorada: Em um mundo cada vez mais dinâmico, é fundamental destacar-se…",
+      "at": 0.1,
+      "cps": 60
+     }
+    ],
+    "cap": "Ele devolve um texto *genérico, com cara de ^robô."
+   },
+   {
+    "t": 4.6,
+    "kind": "big",
+    "big": "Faz *ASSIM 👇",
+    "sub": "ele pergunta antes de escrever",
+    "cap": "O truque: ^inverter o jogo."
+   },
+   {
+    "t": 6.0,
+    "kind": "gpt",
+    "focus": 0.55,
+    "msgs": [
+     {
+      "from": "user",
+      "text": "Antes de reescrever, me faça 3 perguntas: pra quem é, qual o objetivo e qual o tom.",
+      "at": 1.5
+     }
+    ],
+    "cap": "Cola isso *antes do seu pedido."
+   },
+   {
+    "t": 8.8,
+    "kind": "gpt",
+    "focus": 0.5,
+    "msgs": [
+     {
+      "from": "user",
+      "text": "Antes de reescrever, me faça 3 perguntas: pra quem é, qual o objetivo e qual o tom.",
+      "at": 0
+     },
+     {
+      "from": "bot",
+      "text": "Boa! 1) Quem vai ler?\n2) O que a pessoa deve fazer depois?\n3) Tom: formal, leve ou direto?",
+      "at": 0.1,
+      "cps": 48
+     }
+    ],
+    "cap": "Ele te *entrevista igual um ^redator profissional."
+   },
+   {
+    "t": 12.0,
+    "kind": "gpt",
+    "focus": 0.5,
+    "msgs": [
+     {
+      "from": "user",
+      "text": "Clientes do meu salão · agendar · tom leve",
+      "at": 0.9
+     },
+     {
+      "from": "bot",
+      "text": "Seu cabelo merece uma pausa ✨ Essa semana ainda tem horário: responde aqui e eu já separo o seu.",
+      "at": 1.3,
+      "cps": 55
+     }
+    ],
+    "cap": "E o texto sai com a sua *cara."
+   },
+   {
+    "t": 16.2,
+    "kind": "list",
+    "big": "Antes de pedir, responda:",
+    "items": [
+     "Pra *quem?",
+     "Pra *quê?",
+     "Qual *tom?"
+    ],
+    "step": 0.4,
+    "cap": "Salva esse vídeo pra usar ^hoje."
+   },
+   {
+    "t": 18.8,
+    "kind": "cta",
+    "big": "Comenta *GUIA",
+    "word": "GUIA",
+    "typeAt": 0.4,
+    "sub": "e recebe o capítulo grátis no direct",
+    "cap": "Comenta *GUIA que eu te mando no ^direct."
+   }
+  ]
+ },
+ "AST_v2_01": {
+  "dur": 23,
+  "ac": "#00a884",
+  "ac2": "#5ef2a8",
+  "handle": "@astralix_servicos · astralixai.com",
+  "beat": 1.3,
+  "scenes": [
+   {
+    "t": 0,
+    "kind": "lock",
+    "clock": "23:47",
+    "date": "terça-feira",
+    "notif": {
+     "app": "WhatsApp",
+     "from": "Ana",
+     "text": "Oi! Tem horário amanhã pra escova?",
+     "at": 0
+    },
+    "focus": 0.4,
+    "cap": "23:47. Salão *fechado. Cliente ^chamando."
+   },
+   {
+    "t": 2.0,
+    "kind": "wa",
+    "title": "Ana",
+    "focus": 0.6,
+    "msgs": [
+     {
+      "from": "in",
+      "text": "Oi! Tem horário amanhã pra escova?",
+      "at": 0,
+      "time": "23:47"
+     },
+     {
+      "from": "bot",
+      "text": "Oi, Ana! 😊 Amanhã tenho 10h ou 15h30. Qual fica melhor?",
+      "at": 1.2,
+      "time": "23:47"
+     }
+    ],
+    "cap": "A IA responde *na hora, no seu ^WhatsApp."
+   },
+   {
+    "t": 5.4,
+    "kind": "wa",
+    "title": "Ana",
+    "focus": 0.6,
+    "msgs": [
+     {
+      "from": "bot",
+      "text": "Oi, Ana! 😊 Amanhã tenho 10h ou 15h30. Qual fica melhor?",
+      "at": 0,
+      "time": "23:47"
+     },
+     {
+      "from": "in",
+      "text": "15h30 💇‍♀️",
+      "at": 0.3,
+      "time": "23:48"
+     },
+     {
+      "from": "bot",
+      "text": "Reservado ✅ Amanhã, 15h30 · Escova. Te lembro 2h antes 😉",
+      "at": 1.4,
+      "time": "23:48"
+     }
+    ],
+    "cap": "Marca o horário e ainda *lembra a cliente."
+   },
+   {
+    "t": 8.9,
+    "kind": "wa",
+    "title": "Ana",
+    "focus": 0.6,
+    "msgs": [
+     {
+      "from": "bot",
+      "text": "Reservado ✅ Amanhã, 15h30 · Escova. Te lembro 2h antes 😉",
+      "at": 0,
+      "time": "23:48"
+     },
+     {
+      "from": "in",
+      "audio": "0:06",
+      "text": "",
+      "at": 0.3,
+      "time": "23:49"
+     },
+     {
+      "from": "bot",
+      "text": "Ouvi seu áudio 🎧 Quer incluir hidratação? Deixo junto, no mesmo horário.",
+      "at": 1.5,
+      "time": "23:49"
+     }
+    ],
+    "cap": "Até *áudio ela ^entende."
+   },
+   {
+    "t": 12.4,
+    "kind": "big",
+    "big": "E você? *Dormindo. 😴",
+    "cap": "Enquanto isso, ^você descansa."
+   },
+   {
+    "t": 13.9,
+    "kind": "wa",
+    "title": "Astralix · seu resumo",
+    "status": "assistente do seu negócio",
+    "focus": 0.6,
+    "msgs": [
+     {
+      "from": "in",
+      "text": "☀️ Bom dia! Resumo da noite:\n• Ana: escova amanhã 15h30 ✅\n• 1 pedido de orçamento esperando seu OK",
+      "at": 0.4,
+      "time": "07:30"
+     }
+    ],
+    "cap": "De manhã chega o resumo. Você *aprova o que quiser."
+   },
+   {
+    "t": 17.3,
+    "kind": "list",
+    "big": "Funciona pra:",
+    "items": [
+     "Salão & barbearia",
+     "Clínica & consultório",
+     "Escritório & serviços"
+    ],
+    "step": 0.35,
+    "cap": "Pra quem *vive no ^WhatsApp."
+   },
+   {
+    "t": 19.4,
+    "kind": "cta",
+    "big": "Comenta *ATENDENTE",
+    "word": "ATENDENTE",
+    "typeAt": 0.3,
+    "sub": "e te mando a demo grátis no direct",
+    "cap": "Comenta *ATENDENTE e testa ^grátis."
+   }
+  ]
+ }
+}
