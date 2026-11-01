@@ -22,3 +22,10 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - ATTENTION DM: si un popup « Atalhos de teclado » apparaît, Escape puis recliquer le champ.
 - QG: https://claude.ai/artifact/6vHCo4jhrz2chauRuDWist (slug 2fee1949-882e-4d85-94ac-14f1f1264b13). Mettre à jour marketing_loop/hq/data.json (kpi + feito) puis republier avec publish_files (slug, base_version via get_artifact, fichier data.json seul).
 - 03h15: publié ARE_r02 (PROMPT) sur @areiacurso, retiré du stock. Départements actifs: Boucle marketing (4x/j), Partenariats (15h43), AreiaPlay contenu & veille (11h37). Correctifs AreiaPlay (LGPD réservations, clubs non partenaires, marques fictives) demandés à Replit le 01/11 03h05.
+
+## 2026-11-01 (12h40 BRT)
+- MESURE: @astralix_servicos 67 abonnés, 41 posts. Vues Reels récents: AST_city01 25, AST_reel04 1, reel02 0, reel01 11 (médiane ~6). Portée quasi nulle -> suspicion de restriction de portée. @areiacurso non mesuré.
+- ALERTE INSTAGRAM: API web_profile_info = 429, bouton « Enviar mensagem » = « Ocorreu um erro. Tente novamente » 2 fois (odhosodontologia). Traité comme premier avertissement -> ARRÊT de toute action IG ce passage (0 DM, 0 commentaire, 0 publication). Prochain passage: tester d'abord UNE action légère (ouvrir inbox); si erreur à nouveau, ne rien faire sur IG pendant 24h.
+- Aucun nouveau commentaire/DM entrant (Primary, General, Pedidos vides de réponses). Prochain DM: index 7 (odhosodontologia).
+- PRÊTS À PUBLIER: render/ARE_r03.mp4 (@areiacurso, légende specs_next.json ARE_r03), render/AST_r05.mp4 (@astralix_servicos, AST_r05). Carrosséis: carrossel/ARE_c01_1..7.jpg (mot-clé PROMPTS) et carrossel/AST_c01_1..7.jpg (mot-clé CHECKLIST, DM: astralixai.com + « me diz o tipo do seu negócio »). Une fois publiés, retirer ARE_r03/AST_r05 de specs_next.json.
+- Nouveaux mots-clés: PROMPTS (ARE-IA -> are-ia.com/amostra), CHECKLIST (Astralixai).
