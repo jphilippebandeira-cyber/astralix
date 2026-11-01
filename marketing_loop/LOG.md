@@ -57,3 +57,7 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - DMs entrants: aucune réponse de partenaire sur @areiacurso ni @astralix_servicos (Primary, Pedidos vides). Découvert d'anciens contacts ARE-IA (Elvizio Vanzo, Edu Sobreira, Jessica Martins...) -> listés dans partners.md, ne pas recontacter à froid.
 - 9 partenaires vérifiés vidIQ (5 agences, 4 créateurs), statut a_contacter. 6e agence non trouvée (dionelbogorni = concurrent, geronimo.actis = hispanophone).
 - DMs: 0 envoyé. @astralix_servicos en pause DM jusqu'au 02/11 16h. @areiacurso: profil jorgesouza.ia sans bouton « Enviar mensagem », et la recherche de destinataire dans « Nova mensagem » reste bloquée en chargement -> traité comme avertissement, arrêt. Prochain passage: 1 essai @areiacurso (gi.blanco); si échec -> pause DM 72h, prospection via commentaires utiles.
+## 2026-11-01 (16h45 BRT) — tentative de contournement DM demandée par JP
+- App « Instagram » sur l'ordi = web-app Chrome (com.google.Chrome.app...), accès computer-use limité à « lecture » (pas de clic/frappe) et même client web -> inutile.
+- Essai voie « Nova mensagem » (direct/new) depuis @astralix_servicos: la recherche du destinataire ne charge jamais. Confirme la limite côté compte, pas côté bouton.
+- Messages index 7-11 donnés à JP pour envoi manuel depuis l'app téléphone s'il le souhaite. Si JP les envoie, marquer comme faits.
