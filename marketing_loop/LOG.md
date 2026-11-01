@@ -77,3 +77,7 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Sources <24h Astralix: contaazul, nuvemshop, stone, sebrae publient tous les jours ; sebraemg n'existe pas. Astuce: shortcode commençant par DfM/DfN = <24h aujourd'hui.
 - Méthode commentaire fiable: JS focus textarea -> type -> Return -> vérifier textarea vide.
 - Aucune erreur Instagram pendant ce passage.
+
+## RÈGLE PERMANENTE (01/11 17h) — FORMAT DES REELS
+- gen.py est OBSOLÈTE. Utiliser EXCLUSIVEMENT marketing_loop/gen2.py et appliquer marketing_loop/FICHE_VIRALE.md (hook à t=0 sans fondu, écran réel/simulé comme preuve, changement visuel toutes les 1,5-1,8 s, durée 15-23 s, CTA « Comenta MOT » en grand dans les 3 dernières s, boucle de fin, aucun son synthétique).
+- Les specs du stock specs_next.json (ancien format) doivent être RÉÉCRITS au format gen2 avant publication (écrans ChatGPT/WhatsApp, kind/msgs/stamp...). Exemples prêts: render_v2/ARE_v2_01.mp4 (@areiacurso, GUIA) et render_v2/AST_v2_01.mp4 (@astralix_servicos, ATENDENTE) -> à publier en premier (passage 13h du 02/11).
