@@ -36,9 +36,9 @@ async def render(name,spec):
         pg=await c.new_page();await pg.goto(f'file://{os.getcwd()}/{name}.html');await pg.wait_for_timeout(int(dur*1000)+900);await c.close();await b.close()
     f=[x for x in os.listdir('v_'+name) if x.endswith('.webm')][0]
     ts=[s['t'] for s in spec['scenes']]
-    fc=''.join(f'[2]adelay={int(t*1000+100)}|{int(t*1000+100)},volume=0.35[b{i}];' for i,t in enumerate(ts))
+    fc=''.join(f'[2]adelay={int(t*1000+100)}|{int(t*1000+100)},volume=0.0[b{i}];' for i,t in enumerate(ts))
     mix='[1]'+''.join(f'[b{i}]' for i in range(len(ts)))+f'amix=inputs={len(ts)+1}:normalize=0,afade=t=out:st={dur-1.5}:d=1.5[o]'
-    music=f"aevalsrc='0.04*sin(2*PI*130.8*t)*(0.6+0.4*sin(2*PI*2*t))+0.03*sin(2*PI*196*t)+0.025*sin(2*PI*261.6*t)*(0.5+0.5*sin(2*PI*0.5*t))':d={dur}"
+    music=f"anullsrc=r=44100:cl=stereo:d={dur}"
     subprocess.run(['ffmpeg','-y','-loglevel','error','-ss','0.6','-i',f'v_{name}/{f}','-f','lavfi','-i',music,'-f','lavfi','-i','sine=f=900:d=0.08','-t',str(dur),'-filter_complex',fc+mix,'-map','0:v','-map','[o]','-c:v','libx264','-pix_fmt','yuv420p','-r','30','-crf','19','-c:a','aac','-shortest',name+'.mp4'],check=True)
 specs=json.load(open(sys.argv[1]))
 async def main():

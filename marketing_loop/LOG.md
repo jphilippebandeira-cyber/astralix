@@ -61,3 +61,9 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - App « Instagram » sur l'ordi = web-app Chrome (com.google.Chrome.app...), accès computer-use limité à « lecture » (pas de clic/frappe) et même client web -> inutile.
 - Essai voie « Nova mensagem » (direct/new) depuis @astralix_servicos: la recherche du destinataire ne charge jamais. Confirme la limite côté compte, pas côté bouton.
 - Messages index 7-11 donnés à JP pour envoi manuel depuis l'app téléphone s'il le souhaite. Si JP les envoie, marquer comme faits.
+
+## 2026-11-01 (16h45 BRT, session directe)
+- SON: fond synthétique robotique SUPPRIMÉ de gen.py (piste muette). Règle: aucune musique générée par synthé. Pour les Reels, l'audio tendance ne peut être ajouté que depuis l'app mobile Instagram -> publier muet avec sous-titres forts.
+- LINKEDIN (profil « are-ia ia », ARE-IA): 1 post publié (méthode des 5 prompts, lien are-ia.com) + 3 invitations (gerentes de banco / IA, Brésil). Cadence: 1 post/jour, 15 invitations/jour max, 5 commentaires utiles/jour.
+- HOTMART: session déconnectée dans Chrome (page de login) -> connexion requise par JP (Claude ne saisit pas de mot de passe).
+- GMAIL: aucun lead/prospect dans la boîte; à signaler à JP: « Railway Security Disclosure - Rotate Credentials ».
