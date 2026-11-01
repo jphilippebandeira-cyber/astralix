@@ -1,0 +1,12 @@
+{"updated":"2026-11-01 02:45 (Brasília)",
+"kpi":{"reels":7,"dms":6,"leads":0,"vendas_ebook":0,"assinantes_bot":0},
+"depts":[
+{"id":"dir","nome":"Diretoria","cor":"#ffd23f","agentes":2,"missao":"Jean-Philippe (CEO) define o rumo. Claude (COO) coordena todos os departamentos.","rotina":"Sempre ligada","feito":"Plano de ataque, 4 estudos de mercado, 2 contas Instagram geridas"},
+{"id":"conteudo","nome":"Fábrica de Conteúdo","cor":"#ff6a1a","agentes":220,"missao":"Cria e publica Reels nos formatos que mais performam no Brasil (titouan, cidade 3D, conversa lida).","rotina":"4x/dia · 9h17 13h17 17h17 21h17","feito":"7 Reels publicados · 19 prontos em estoque"},
+{"id":"intel","nome":"Inteligência de Mercado","cor":"#5b4bdb","agentes":120,"missao":"Vigia concorrentes e Reels que fazem 3x a mediana, decompõe hook e formato.","rotina":"Diário · 21h17","feito":"18 contas analisadas, top formatos: comandos ChatGPT, conversa ruim lida"},
+{"id":"vendas","nome":"Prospecção B2B","cor":"#25d366","agentes":200,"missao":"Encontra salões, clínicas, barbearias e escritórios com WhatsApp e envia DM personalizada.","rotina":"3x/dia · 10 DMs por passagem, máx 30/dia","feito":"80 empresas mapeadas · 6 DMs enviadas"},
+{"id":"atend","nome":"Conversão & Atendimento","cor":"#2f7df6","agentes":160,"missao":"Responde cada comentário com palavra-chave e cada DM, leva o lead à demo ou ao checkout.","rotina":"4x/dia","feito":"Palavras-chave ativas: GUIA, ATENDENTE, AGENTE + 19 novas"},
+{"id":"seo","nome":"SEO & Blog","cor":"#14b8a6","agentes":100,"missao":"Escreve artigos PT-BR para buscas com intenção de compra.","rotina":"Diário · 21h17","feito":"Pipeline criado"},
+{"id":"parc","nome":"Parcerias & Afiliados","cor":"#e11d48","agentes":120,"missao":"Recruta gestores de tráfego, agências e micro-criadores de IA para revender por comissão.","rotina":"Diário · 15h43","feito":"Em ativação"},
+{"id":"bot","nome":"Produto Astralixai","cor":"#22c55e","agentes":80,"missao":"O assistente de WhatsApp que atende os clientes dos nossos clientes, 24h.","rotina":"24h","feito":"No ar · astralixai.com"},
+{"id":"ebook","nome":"Produto ARE-IA","cor":"#f59e0b","agentes":60,"missao":"O Guia Definitivo da IA, checkout real ativo.","rotina":"24h","feito":"No ar · are-ia.com"}]}

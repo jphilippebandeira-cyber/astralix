@@ -1,0 +1,67 @@
+<!DOCTYPE html><html lang=pt-BR><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
+<title>Planeta Areia QG</title>
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap">
+<style>
+:root{--bg:#060b24;--fg:#eef1ff;--mut:#9aa3c7;--card:rgba(14,20,52,.86);--bd:#26306a;color-scheme:dark}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:Inter,system-ui,sans-serif;overflow-x:hidden}
+#c{position:fixed;inset:0;width:100vw;height:100vh;display:block}
+header{position:relative;z-index:2;padding:18px 16px 0;pointer-events:none}
+h1{margin:0;font-size:clamp(24px,4vw,40px);font-weight:900;letter-spacing:-1px}h1 b{color:#ffd23f}
+.sub{color:var(--mut);margin:4px 0 0;font-size:14px}
+.kpis{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px;pointer-events:auto}
+.k{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:10px 14px;min-width:120px}
+.k b{display:block;font-size:24px;font-variant-numeric:tabular-nums}.k span{font-size:12px;color:var(--mut);text-transform:uppercase;letter-spacing:.06em}
+#list{position:fixed;z-index:2;right:16px;top:150px;width:min(340px,calc(100vw - 32px));max-height:calc(100vh - 170px);overflow:auto;display:flex;flex-direction:column;gap:8px}
+.d{background:var(--card);border:1px solid var(--bd);border-left:5px solid var(--c);border-radius:12px;padding:10px 12px;cursor:pointer}
+.d.on{outline:2px solid var(--c)}.d h3{margin:0;font-size:15px;display:flex;justify-content:space-between;gap:8px}.d h3 i{font-style:normal;color:var(--c);font-variant-numeric:tabular-nums}
+.d p{margin:6px 0 0;font-size:13px;color:var(--mut);line-height:1.4;display:none}.d.on p{display:block}.d small{display:block;margin-top:6px;font-size:12px;color:var(--fg)}
+@media (max-width:700px){#list{position:relative;top:auto;right:auto;margin:52vh 16px 16px;width:auto;max-height:none}}
+</style></head><body>
+<canvas id=c></canvas>
+<header><h1>Planeta <b>Areia</b> · QG</h1><p class=sub id=sub></p><div class=kpis id=kpis></div></header>
+<div id=list></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script>
+(async()=>{
+const D=await fetch('data.json').then(r=>r.json());
+const tot=D.depts.reduce((a,d)=>a+d.agentes,0);
+document.getElementById('sub').textContent=tot.toLocaleString('pt-BR')+' agentes em '+D.depts.length+' departamentos · atualizado '+D.updated;
+const K=[['reels','Reels publicados'],['dms','DMs enviadas'],['leads','Leads'],['vendas_ebook','Vendas ebook'],['assinantes_bot','Assinantes bot']];
+document.getElementById('kpis').innerHTML=K.map(k=>`<div class=k><b>${D.kpi[k[0]]}</b><span>${k[1]}</span></div>`).join('');
+const L=document.getElementById('list');
+L.innerHTML=D.depts.map((d,i)=>`<div class=d style="--c:${d.cor}" data-i=${i}><h3>${d.nome}<i>${d.agentes}</i></h3><p>${d.missao}<small>⏱ ${d.rotina}</small><small>✔ ${d.feito}</small></p></div>`).join('');
+const cv=document.getElementById('c');const R=new THREE.WebGLRenderer({canvas:cv,antialias:true});R.setPixelRatio(Math.min(2,devicePixelRatio));
+const S=new THREE.Scene();const C=new THREE.PerspectiveCamera(45,1,.1,200);
+function rs(){R.setSize(innerWidth,innerHeight,false);C.aspect=innerWidth/innerHeight;C.updateProjectionMatrix();C.position.set(0,4,innerWidth<700?38:30)}rs();addEventListener('resize',rs);
+S.add(new THREE.HemisphereLight(0x99aaff,0x110822,.8));const sun=new THREE.DirectionalLight(0xffffff,.9);sun.position.set(10,12,14);S.add(sun);
+// stars
+const sg=new THREE.BufferGeometry();const sp=[];for(let i=0;i<1500;i++){const v=new THREE.Vector3().randomDirection?null:null;const t=Math.random()*6.28,p=Math.acos(2*Math.random()-1),r=80+Math.random()*30;sp.push(r*Math.sin(p)*Math.cos(t),r*Math.cos(p),r*Math.sin(p)*Math.sin(t))}
+sg.setAttribute('position',new THREE.Float32BufferAttribute(sp,3));S.add(new THREE.Points(sg,new THREE.PointsMaterial({color:0xffffff,size:.25})));
+const P=new THREE.Group();S.add(P);const RAD=8;
+P.add(new THREE.Mesh(new THREE.IcosahedronGeometry(RAD,3),new THREE.MeshLambertMaterial({color:0x1b2a6b,flatShading:true})));
+const atm=new THREE.Mesh(new THREE.SphereGeometry(RAD*1.08,48,48),new THREE.MeshBasicMaterial({color:0x4a6cff,transparent:true,opacity:.08}));S.add(atm);
+// districts
+const n=D.depts.length;const centers=D.depts.map((d,i)=>{if(i===0)return new THREE.Vector3(0,1,0);const k=i-1,m=n-1;const lat=(k%2?-0.35:0.25);const lon=k/m*Math.PI*2;return new THREE.Vector3(Math.cos(lat)*Math.cos(lon),Math.sin(lat),Math.cos(lat)*Math.sin(lon)).normalize()});
+const box=new THREE.BoxGeometry(.16,.28,.16);const groups=[];
+D.depts.forEach((d,i)=>{const col=new THREE.Color(d.cor);
+ if(i===0){[[-.5,'#ffd23f'],[.5,'#ff6a1a']].forEach(([x,c])=>{const g=new THREE.Group();const b=new THREE.Mesh(new THREE.BoxGeometry(.7,1,.5),new THREE.MeshLambertMaterial({color:c}));b.position.y=.5;const h=new THREE.Mesh(new THREE.BoxGeometry(.55,.55,.55),new THREE.MeshLambertMaterial({color:0xf0c8a0}));h.position.y=1.3;g.add(b,h);g.position.set(x,RAD,0);P.add(g)});groups.push(null);return}
+ const im=new THREE.InstancedMesh(box,new THREE.MeshLambertMaterial({color:col,emissive:col,emissiveIntensity:.15}),d.agentes);const M=new THREE.Matrix4(),q=new THREE.Quaternion(),up=new THREE.Vector3(0,1,0);
+ const c=centers[i];const t1=new THREE.Vector3().crossVectors(c,Math.abs(c.y)>.9?new THREE.Vector3(1,0,0):up).normalize();const t2=new THREE.Vector3().crossVectors(c,t1);
+ const data=[];for(let a=0;a<d.agentes;a++){const r=Math.sqrt(Math.random())*.42,th=Math.random()*6.28;const v=c.clone().add(t1.clone().multiplyScalar(r*Math.cos(th))).add(t2.clone().multiplyScalar(r*Math.sin(th))).normalize();data.push({v,ph:Math.random()*6.28,sp:.2+Math.random()*.6})}
+ const hub=new THREE.Mesh(new THREE.CylinderGeometry(.35,.45,1.6,6),new THREE.MeshLambertMaterial({color:col,emissive:col,emissiveIntensity:.4}));hub.position.copy(c.clone().multiplyScalar(RAD+.8));hub.quaternion.setFromUnitVectors(up,c);P.add(hub);
+ P.add(im);groups.push({im,data,M,q,up,t1,t2,c,hub})});
+// links between hubs and HQ
+const lm=new THREE.LineBasicMaterial({color:0x7f8cff,transparent:true,opacity:.35});
+centers.slice(1).forEach(c=>{const pts=[];for(let s=0;s<=24;s++){const v=new THREE.Vector3(0,1,0).lerp(c,s/24).normalize().multiplyScalar(RAD+.3+Math.sin(s/24*Math.PI)*2.2);pts.push(v)}P.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),lm))});
+let sel=-1,drag=0,px=0,rotY=0,rotX=.25,vel=.0025;
+cv.addEventListener('pointerdown',e=>{drag=1;px=e.clientX});addEventListener('pointerup',()=>drag=0);addEventListener('pointermove',e=>{if(drag){rotY+=(e.clientX-px)*.005;px=e.clientX}});
+L.addEventListener('click',e=>{const el=e.target.closest('.d');if(!el)return;const i=+el.dataset.i;sel=sel===i?-1:i;[...L.children].forEach((c,j)=>c.classList.toggle('on',j===sel))});
+let target=null;
+function frame(t){t/=1000;
+ if(sel>=0){const c=centers[sel];const ty=-Math.atan2(c.x,c.z);rotY+=((ty-rotY+Math.PI*3)%(Math.PI*2)-Math.PI)*.04;rotX+=((Math.asin(c.y)*.8)-rotX)*.04}else if(!drag)rotY+=vel;
+ P.rotation.set(rotX,rotY,0);
+ groups.forEach((g,i)=>{if(!g)return;g.data.forEach((a,k)=>{const off=g.t1.clone().multiplyScalar(Math.sin(t*a.sp+a.ph)*.03).add(g.t2.clone().multiplyScalar(Math.cos(t*a.sp+a.ph)*.03));const v=a.v.clone().add(off).normalize();g.q.setFromUnitVectors(g.up,v);g.M.compose(v.clone().multiplyScalar(RAD+.14+Math.abs(Math.sin(t*4+a.ph))*.04),g.q,new THREE.Vector3(1,1,1));g.im.setMatrixAt(k,g.M)});g.im.instanceMatrix.needsUpdate=true;g.hub.scale.setScalar(i===sel?1.4+Math.sin(t*4)*.1:1)});
+ R.render(S,C);requestAnimationFrame(frame)}
+requestAnimationFrame(frame);
+})();
+</script></body></html>
