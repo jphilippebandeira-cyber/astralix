@@ -14,3 +14,9 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - PROSPECTION DM (@astralix_servicos): marketing_loop/dms.json (80 commerces, message personnalisé). Envoyés: index 0 à 4 (base.barbearia, oscomparsasbarbearia, jrbarbeariacuritiba, barbeariapopularcwb, odonto.curitiba). Prochain: index 5. Méthode: profil > bouton « Enviar mensagem » (JS) > champ en bas à droite (1180,696) > taper > Entrée. 10 par passage max, jamais plus de 30/jour.
 - Voix off: impossible (réseau bloque le téléchargement audio ElevenLabs).
 - Veille: format WhatsApp viral = mauvaise conversation lue (@brunariccopolo 2M, @gabrielrupt 1,1M). Niche IA: « comandos do ChatGPT para [métier] » + Comenta MOT (@gabrielalvess.cc 9,7M).
+
+## 2026-11-01 (02h40)
+- Publié @astralix_servicos: AST_city01 (ville 3D d'agents, format theomenardi), mot-clé AGENTE -> DM: lien astralixai.com + « me diz o tipo do seu negócio ».
+- Rendu 3D: marketing_loop/city (npm install three@0.160.0 ; NF=840 python3 rend.py ; ffmpeg -framerate 30 -i fr/%04d.jpg). Prochaine variante: ville ARE-IA (« cada prédio é um prompt »).
+- DMs: envoyés index 0,2,3,4,5,6. ÉCHECS: index 1 oscomparsasbarbearia (« não pode receber mensagem », abandonner), index 7 odhosodontologia (raccourci clavier a intercepté, RENVOYER). Prochain: index 7.
+- ATTENTION DM: si un popup « Atalhos de teclado » apparaît, Escape puis recliquer le champ.
