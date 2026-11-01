@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01 13:35 (Brasília)",
+ "updated": "2026-11-01 16h30 (Brasília)",
  "kpi": {
-  "reels": 11,
+  "reels": 13,
   "dms": 6,
   "leads": 0,
   "vendas_ebook": 0,
@@ -26,7 +26,7 @@
    "agentes": 220,
    "missao": "Cria e publica Reels nos formatos que mais performam no Brasil (titouan, cidade 3D, conversa lida).",
    "rotina": "4x/dia · 9h17 13h17 17h17 21h17",
-   "feito": "11 Reels + 2 carrosséis publicados · 16 Reels em estoque"
+   "feito": "13 Reels + 2 carrosséis publicados · 14 Reels em estoque"
   },
   {
    "id": "intel",
@@ -44,7 +44,7 @@
    "agentes": 200,
    "missao": "Encontra salões, clínicas, barbearias e escritórios com WhatsApp e envia DM personalizada.",
    "rotina": "3x/dia · 10 DMs por passagem, máx 30/dia",
-   "feito": "80 empresas mapeadas · 6 DMs enviadas · pausa: Instagram limitou ações (01/11 12h40)"
+   "feito": "80 empresas mapeadas · 6 DMs enviadas · Instagram bloqueia novas conversas: pausa de 24h (retoma 02/11 16h)"
   },
   {
    "id": "atend",

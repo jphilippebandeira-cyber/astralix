@@ -44,3 +44,10 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - CROISSANCE (sans erreur IG): @areiacurso a commenté inventormiguel (prompt fixe + exemple), pompeu.ia (photo de face pour templates Hailuo), diegoalmeida.ia (fiche de référence personnage). @astralix_servicos a commenté sebrae (PIX MEI: message fixé anti-golpe WhatsApp). Total jour: areiacurso 3, astralix 1.
 - Source fiable de posts <24h: fil « Seguindo » (instagram.com/?variant=following) de @areiacurso (comptes IA suivis). Le fil d'@astralix_servicos = prospects (avocats/dentistes): pour la croissance Astralix, aller sur profils sebrae, sebraesp, etc.
 - DMs prospection: toujours en pause, reprendre à 17h (5 max, index 7 odhosodontologia).
+
+## 2026-11-01 (15h55-16h30 BRT, passage manuel demandé par JP)
+- PUBLIÉS: @astralix_servicos AST_r06 (MADRUGADA), @areiacurso ARE_r04 (IA). Retirés du stock (14 restants).
+- DMs: « Enviar mensagem » -> « Ocorreu um erro. Tente novamente » sur odhosodontologia (3e fois) ET belezastella (index 8). = Instagram bloque l'ouverture de nouvelles conversations sur @astralix_servicos. PAUSE DM 24h (pas avant 02/11 16h). Au retour: 1 seul essai sur index 8 belezastella; si erreur -> pause 72h et ne prospecter que via commentaires utiles.
+- CONVERTIR: aucun nouveau commentaire/DM sur les deux comptes (1 like de cotedazur.travel).
+- CROISSANCE: @areiacurso a commenté custodiorod (10 ganchos). Total jour: areiacurso 4, astralix 1.
+- Chrome: l'ancien tabId n'existe plus après reconnexion -> toujours tabs_context_mcp(createIfEmpty) puis naviguer une 2e fois si l'onglet reste sur chrome://newtab.

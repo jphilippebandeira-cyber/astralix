@@ -1,47 +1,4 @@
 {
- "ARE_r04": {
-  "dur": 27,
-  "ac": "#ff6a1a",
-  "brand": "O Guia Definitivo da IA · link na bio",
-  "scenes": [
-   {
-    "t": 0,
-    "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#2f7df6\">GOOGLE</div>3 palavras</div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#ff6a1a\">IA</div>3 frases</div></div>",
-    "cap": "*Google: 3 palavras. ^IA: 3 frases."
-   },
-   {
-    "t": 3,
-    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;o jeito Google</div><div style=\"font-size:60px;line-height:1.45;color:#fff\">“dieta rápida”</div></div>",
-    "cap": "Quem usa IA como *Google recebe ^resposta ^genérica."
-   },
-   {
-    "t": 6.5,
-    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧩</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Contexto + objetivo + formato</div><div style=\"color:#aaa;font-size:36px\">a fórmula de 3 frases</div></div>",
-    "cap": "A IA precisa de *contexto."
-   },
-   {
-    "t": 10,
-    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;frase 1 · contexto</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Tenho 42 anos, trabalho sentado e cozinho pouco.</div></div>",
-    "cap": "1: quem você *é ^e ^sua ^situação."
-   },
-   {
-    "t": 14,
-    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;frase 2 · objetivo</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Quero comer melhor sem gastar mais.</div></div>",
-    "cap": "2: o que você *quer."
-   },
-   {
-    "t": 17.5,
-    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;frase 3 · formato</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Me dê um cardápio de 7 dias em tabela.</div></div>",
-    "cap": "3: como você quer a *resposta."
-   },
-   {
-    "t": 21.5,
-    "v": "<div class=cta>Comenta <u>IA</u> e eu te mando<br>a fórmula das 3 frases</div>",
-    "cap": "Comenta *IA que eu te mando a fórmula."
-   }
-  ],
-  "caption": "Comenta IA que eu te mando a fórmula das 3 frases 👇 Pesquisa no Google é com palavras-chave; conversa com IA é com contexto, objetivo e formato. #inteligenciaartificial #chatgpt #iaparainiciantes #dicasdeia"
- },
  "ARE_r05": {
   "dur": 27,
   "ac": "#ff6a1a",
@@ -342,49 +299,6 @@
    }
   ],
   "caption": "Comenta COMECE que eu te mando o plano de 7 dias 👇 ChatGPT, Gemini ou Claude: pra começar, tanto faz. O que muda o resultado é como você pede. #chatgpt #gemini #claude #iaparainiciantes"
- },
- "AST_r06": {
-  "dur": 27,
-  "ac": "#22a559",
-  "brand": "astralixai.com · teste grátis sem criar conta",
-  "scenes": [
-   {
-    "t": 0,
-    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp · 23:47</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Vocês abrem amanhã cedo?</div></div>",
-    "cap": "*23h47. Cliente chamou. ^Você ^dormindo."
-   },
-   {
-    "t": 3,
-    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">😴</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Resposta às 9h</div><div style=\"color:#aaa;font-size:36px\">quando ele já fechou com outro</div></div>",
-    "cap": "Você responde de *manhã…"
-   },
-   {
-    "t": 6.5,
-    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo</div><div style=\"font-size:56px;line-height:1.45;color:#fff\">“Já resolvi, obrigado.”</div></div>",
-    "cap": "…e ele *já ^resolveu."
-   },
-   {
-    "t": 10,
-    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA · 23:47</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Vocês abrem amanhã cedo?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Abrimos às 8h! Quer que eu anote seu nome pra te esperar?</div></div>",
-    "cap": "Com IA, a resposta sai *na ^hora."
-   },
-   {
-    "t": 14,
-    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🌙</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">24h por dia</div><div style=\"color:#aaa;font-size:36px\">inclusive fim de semana</div></div>",
-    "cap": "Madrugada, *domingo, ^feriado."
-   },
-   {
-    "t": 17.5,
-    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧪</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Demo grátis</div><div style=\"color:#aaa;font-size:36px\">sem cadastro</div></div>",
-    "cap": "Teste *sem ^criar ^conta."
-   },
-   {
-    "t": 21.5,
-    "v": "<div class=cta>Comenta <u>MADRUGADA</u> e eu te mando<br>o link da demo</div>",
-    "cap": "Comenta *MADRUGADA que eu te mando."
-   }
-  ],
-  "caption": "Comenta MADRUGADA que eu te mando o link da demo 👇 Cliente chama fora do horário? O assistente IA da Astralix responde no WhatsApp 24h, com as informações que você configurou. #whatsapp #atendimento24h #pequenasempresas #ia"
  },
  "AST_r07": {
   "dur": 27,
