@@ -29,3 +29,10 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Aucun nouveau commentaire/DM entrant (Primary, General, Pedidos vides de réponses). Prochain DM: index 7 (odhosodontologia).
 - PRÊTS À PUBLIER: render/ARE_r03.mp4 (@areiacurso, légende specs_next.json ARE_r03), render/AST_r05.mp4 (@astralix_servicos, AST_r05). Carrosséis: carrossel/ARE_c01_1..7.jpg (mot-clé PROMPTS) et carrossel/AST_c01_1..7.jpg (mot-clé CHECKLIST, DM: astralixai.com + « me diz o tipo do seu negócio »). Une fois publiés, retirer ARE_r03/AST_r05 de specs_next.json.
 - Nouveaux mots-clés: PROMPTS (ARE-IA -> are-ia.com/amostra), CHECKLIST (Astralixai).
+
+## 2026-11-01 (13h05 BRT, rattrapage 9h+13h)
+- Test léger OK (inbox charge). PUBLIÉS sans erreur: @astralix_servicos AST_r05 (PRECO) + carrossel AST_c01 (CHECKLIST); @areiacurso ARE_r03 (LISTA) + carrossel ARE_c01 (PROMPTS). Retirés du stock (16 restants).
+- MESURE @areiacurso: 30 abonnés, 33 posts; vues Reels récents 20, 12, 9, 9 (médiane ~10). @astralix_servicos 67 abonnés.
+- DMs prospection et commentaires de croissance: NON faits volontairement (le bouton « Enviar mensagem » a échoué 2x il y a 20 min). Reprendre au passage de 17h avec 5 DMs max (index 7 odhosodontologia d'abord); au moindre « Ocorreu um erro » -> stop DM 24h.
+- Aucun commentaire/DM entrant sur les deux comptes.
+- Carrousels: format 1080x1350, crop 4:5 dans IG; Reels: crop « Original ».

@@ -1,12 +1,13 @@
 {
- "updated": "2026-11-01 12:50 (Brasília)",
+ "updated": "2026-11-01 13:05 (Brasília)",
  "kpi": {
-  "reels": 9,
+  "reels": 11,
   "dms": 6,
   "leads": 0,
   "vendas_ebook": 0,
   "assinantes_bot": 0,
-  "seguidores_astralix": 67
+  "seguidores_astralix": 67,
+  "seguidores_areiacurso": 30
  },
  "depts": [
   {
@@ -25,7 +26,7 @@
    "agentes": 220,
    "missao": "Cria e publica Reels nos formatos que mais performam no Brasil (titouan, cidade 3D, conversa lida).",
    "rotina": "4x/dia · 9h17 13h17 17h17 21h17",
-   "feito": "9 Reels publicados · 2 prontos renderizados · 2 carrosséis prontos · 16 em estoque"
+   "feito": "11 Reels + 2 carrosséis publicados · 16 Reels em estoque"
   },
   {
    "id": "intel",

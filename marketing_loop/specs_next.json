@@ -1,1 +1,690 @@
-{"ARE_r03": {"dur": 27, "ac": "#ff6a1a", "brand": "O Guia Definitivo da IA · link na bio", "scenes": [{"t": 0, "v": "<div class=icon>🗂️</div>", "cap": "*7 comandos que todo ^iniciante deveria salvar."}, {"t": 3, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;ChatGPT</div><div class=mono>/resuma<br>/explique<br>/compare</div></div>", "cap": "Não são códigos mágicos: são *atalhos ^seus."}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;instrução fixa</div><div style=\"font-size:44px;line-height:1.45;color:#ddd\">Quando eu escrever <b style=\"color:#ff6a1a\">/resuma</b>, faça um resumo em 5 tópicos.</div></div>", "cap": "Você *define uma vez o que cada um faz."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;1-4</div><div class=mono>/resuma → 5 tópicos<br>/explique → como p/ criança<br>/compare → tabela<br>/revise → erros</div></div>", "cap": "Resumir, *explicar, ^comparar, revisar."}, {"t": 14, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;5-7</div><div class=mono>/ideias → 10 opções<br>/passos → checklist<br>/pergunte → me entreviste</div></div>", "cap": "Ideias, *passo a passo e ^entrevista."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">⚡</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">1 palavra → tarefa pronta</div><div style=\"color:#aaa;font-size:36px\">sem reescrever o pedido toda vez</div></div>", "cap": "Depois é só digitar *uma ^palavra."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>LISTA</u> e eu te mando<br>os 7 comandos + a instrução</div>", "cap": "Comenta *LISTA e recebe no direct."}], "caption": "Comenta LISTA que eu te mando os 7 comandos e a instrução pra configurar 👇 Não é código secreto: é você ensinando atalhos pro ChatGPT uma vez só. #chatgpt #comandoschatgpt #ia #produtividade"}, "ARE_r04": {"dur": 27, "ac": "#ff6a1a", "brand": "O Guia Definitivo da IA · link na bio", "scenes": [{"t": 0, "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#2f7df6\">GOOGLE</div>3 palavras</div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#ff6a1a\">IA</div>3 frases</div></div>", "cap": "*Google: 3 palavras. ^IA: 3 frases."}, {"t": 3, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;o jeito Google</div><div style=\"font-size:60px;line-height:1.45;color:#fff\">“dieta rápida”</div></div>", "cap": "Quem usa IA como *Google recebe ^resposta ^genérica."}, {"t": 6.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧩</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Contexto + objetivo + formato</div><div style=\"color:#aaa;font-size:36px\">a fórmula de 3 frases</div></div>", "cap": "A IA precisa de *contexto."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;frase 1 · contexto</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Tenho 42 anos, trabalho sentado e cozinho pouco.</div></div>", "cap": "1: quem você *é ^e ^sua ^situação."}, {"t": 14, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;frase 2 · objetivo</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Quero comer melhor sem gastar mais.</div></div>", "cap": "2: o que você *quer."}, {"t": 17.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;frase 3 · formato</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Me dê um cardápio de 7 dias em tabela.</div></div>", "cap": "3: como você quer a *resposta."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>IA</u> e eu te mando<br>a fórmula das 3 frases</div>", "cap": "Comenta *IA que eu te mando a fórmula."}], "caption": "Comenta IA que eu te mando a fórmula das 3 frases 👇 Pesquisa no Google é com palavras-chave; conversa com IA é com contexto, objetivo e formato. #inteligenciaartificial #chatgpt #iaparainiciantes #dicasdeia"}, "ARE_r05": {"dur": 27, "ac": "#ff6a1a", "brand": "O Guia Definitivo da IA · link na bio", "scenes": [{"t": 0, "v": "<div class=icon>🚫💻</div>", "cap": "*Zero código. ^3 passos pra começar com IA hoje."}, {"t": 3, "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">VOCÊ ACHA</div><span style=\"color:#999;font-weight:500\">precisa saber programar</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">NA REAL</div>precisa saber pedir</div></div>", "cap": "IA hoje se usa *conversando."}, {"t": 6.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">1️⃣</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Crie a conta grátis</div><div style=\"color:#aaa;font-size:36px\">ChatGPT, Gemini ou Claude</div></div>", "cap": "Passo 1: escolha *uma e ^pronto."}, {"t": 10, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">2️⃣</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Escolha 1 tarefa real</div><div style=\"color:#aaa;font-size:36px\">um e-mail, uma lista, um resumo</div></div>", "cap": "Passo 2: comece com algo *do ^seu ^dia."}, {"t": 14, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">3️⃣</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Peça, leia, ajuste</div><div style=\"color:#aaa;font-size:36px\">“mais curto”, “mais simples”</div></div>", "cap": "Passo 3: *converse até ficar bom."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">📘</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">O caminho completo</div><div style=\"color:#aaa;font-size:36px\">do primeiro prompt ao uso diário</div><div style=\"margin-top:24px\"><span class=chip style=\"background:#2f7df6\">iniciante</span><span class=chip style=\"background:#ff6a1a\">passo a passo</span></div></div>", "cap": "O resto está no *guia, ^em ^português."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>GUIA</u> e eu te mando<br>o capítulo 1 grátis</div>", "cap": "Comenta *GUIA e recebe o capítulo 1."}], "caption": "Comenta GUIA que eu te mando o capítulo 1 grátis 👇 Você não precisa programar pra usar IA: conta grátis, uma tarefa real e conversa até ficar bom. O Guia Definitivo da IA, R$149,99 no PIX, link na bio. #iaparainiciantes #chatgpt #inteligenciaartificial #aprenderia"}, "ARE_r06": {"dur": 27, "ac": "#ff6a1a", "brand": "O Guia Definitivo da IA · link na bio", "scenes": [{"t": 0, "v": "<div class=icon>📅</div>", "cap": "*5 tarefas da sua semana pra ^entregar ^à ^IA."}, {"t": 3, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;segunda</div><div style=\"font-size:48px;line-height:1.45;color:#fff\">📧 Responder aquele e-mail chato</div></div>", "cap": "1: *e-mails que você vive adiando."}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;terça</div><div style=\"font-size:48px;line-height:1.45;color:#fff\">🛒 Lista de compras pelo cardápio</div></div>", "cap": "2: *lista de compras a partir do cardápio."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;quarta</div><div style=\"font-size:48px;line-height:1.45;color:#fff\">📄 Resumir um PDF longo</div></div>", "cap": "3: *resumir documento longo."}, {"t": 14, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;quinta</div><div style=\"font-size:48px;line-height:1.45;color:#fff\">🗓️ Organizar a agenda da semana</div></div>", "cap": "4: *organizar ^a ^agenda."}, {"t": 17.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;sexta</div><div style=\"font-size:48px;line-height:1.45;color:#fff\">💡 Ideias pro fim de semana</div></div>", "cap": "5: *ideias quando a cabeça trava."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>ROTINA</u> e eu te mando<br>os 5 prompts da semana</div>", "cap": "Comenta *ROTINA que eu te mando."}], "caption": "Comenta ROTINA que eu te mando os 5 prompts da semana 👇 E-mail, compras, resumo, agenda e ideias: tarefas simples pra começar a usar IA no dia a dia. #chatgpt #rotina #produtividade #inteligenciaartificial"}, "ARE_r07": {"dur": 27, "ac": "#ff6a1a", "brand": "O Guia Definitivo da IA · link na bio", "scenes": [{"t": 0, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">❌</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Erro nº 1</div><div style=\"color:#aaa;font-size:36px\">de quem começa com IA</div></div>", "cap": "O *erro nº1 de quem começa com IA."}, {"t": 3, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;ChatGPT</div><div style=\"font-size:48px;line-height:1.45;color:#ddd\">Aqui está seu texto: …</div><div style=\"font-size:40px;line-height:1.45;color:#e11d48\">✅ Aceitar e copiar</div></div>", "cap": "Aceitar a *primeira resposta."}, {"t": 6.5, "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">1 RESPOSTA</div><span style=\"color:#999;font-weight:500\">sem comparação</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">3 VERSÕES</div>você escolhe a melhor</div></div>", "cap": "A primeira é *rascunho, ^não ^final."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;prompt</div><div style=\"font-size:44px;line-height:1.45;color:#ddd\">Me dê <b style=\"color:#ff6a1a\">3 versões</b> bem diferentes e diga qual você escolheria e por quê.</div></div>", "cap": "Peça *3 versões diferentes."}, {"t": 14, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;depois</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Junte o começo da 2 com o final da 3.</div></div>", "cap": "Depois *misture o que ^gostou."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🎯</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Você no comando</div><div style=\"color:#aaa;font-size:36px\">a IA propõe, você decide</div></div>", "cap": "Quem decide é *você."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>ERRO</u> e eu te mando<br>os 5 erros de iniciante</div>", "cap": "Comenta *ERRO e recebe a lista."}], "caption": "Comenta ERRO que eu te mando os 5 erros mais comuns de iniciante 👇 O primeiro: aceitar a primeira resposta. Peça 3 versões e escolha. #chatgpt #iaparainiciantes #prompts #dicasdeia"}, "ARE_r08": {"dur": 27, "ac": "#ff6a1a", "brand": "O Guia Definitivo da IA · link na bio", "scenes": [{"t": 0, "v": "<div class=icon>🎤</div>", "cap": "*1 frase muda ^toda resposta da IA."}, {"t": 3, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;o normal</div><div style=\"font-size:50px;line-height:1.45;color:#fff\">Você pergunta → a IA chuta</div></div>", "cap": "Normalmente você *pergunta e ela ^adivinha."}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;a frase</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Antes de responder, <b style=\"color:#ff6a1a\">me faça 5 perguntas</b> sobre o que eu preciso.</div></div>", "cap": "Inverta: peça pra IA *te ^entrevistar."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Pra quem é o presente?</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Minha mãe, 60 anos</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Qual o orçamento?</div></div>", "cap": "Ela pergunta *o ^que ^falta."}, {"t": 14, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🎯</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Resposta sob medida</div><div style=\"color:#aaa;font-size:36px\">porque agora ela tem contexto</div></div>", "cap": "E responde *sob ^medida."}, {"t": 17.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;use para</div><div class=mono>currículo<br>viagem<br>presente<br>texto de venda</div></div>", "cap": "Funciona pra *quase ^tudo."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>PERGUNTA</u> e eu te mando<br>a frase pronta pra copiar</div>", "cap": "Comenta *PERGUNTA que eu te mando."}], "caption": "Comenta PERGUNTA que eu te mando a frase pronta 👇 Peça pra IA te fazer 5 perguntas antes de responder: a resposta sai sob medida. #chatgpt #prompts #inteligenciaartificial #iaparainiciantes"}, "ARE_r09": {"dur": 27, "ac": "#ff6a1a", "brand": "O Guia Definitivo da IA · link na bio", "scenes": [{"t": 0, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Oi, preciso falar com você sobre o atraso…</div></div>", "cap": "Aquela mensagem *difícil que você ^adia ^há ^dias."}, {"t": 3, "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">SEM IA</div><span style=\"color:#999;font-weight:500\">30 min reescrevendo</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">COM IA</div>1 rascunho pra ajustar</div></div>", "cap": "*Rascunho pronto em vez de ^tela ^branca."}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;prompt</div><div style=\"font-size:44px;line-height:1.45;color:#ddd\">Escreva uma resposta <b style=\"color:#ff6a1a\">educada e firme</b>. Contexto: …</div></div>", "cap": "Diga o *tom e ^o ^contexto."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;ajuste</div><div class=mono>+ curta<br>+ gentil<br>sem pedir desculpas demais</div></div>", "cap": "Depois *ajuste ^em ^1 ^linha."}, {"t": 14, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">✍️</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Você revisa e envia</div><div style=\"color:#aaa;font-size:36px\">a IA não manda nada por você</div></div>", "cap": "Você *revisa e envia."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧠</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Menos ansiedade</div><div style=\"color:#aaa;font-size:36px\">mais clareza na hora de responder</div></div>", "cap": "Menos *tempo travado."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>TEXTO</u> e eu te mando<br>o prompt das mensagens difíceis</div>", "cap": "Comenta *TEXTO e recebe o prompt."}], "caption": "Comenta TEXTO que eu te mando o prompt das mensagens difíceis 👇 Use a IA pra sair da tela em branco: diga tom e contexto, ajuste e revise antes de enviar. #chatgpt #comunicacao #inteligenciaartificial #dicasdeia"}, "ARE_r10": {"dur": 27, "ac": "#ff6a1a", "brand": "O Guia Definitivo da IA · link na bio", "scenes": [{"t": 0, "v": "<div class=icon>📚</div>", "cap": "*300 páginas → ^1 mapa mental."}, {"t": 3, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;ChatGPT</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Cole os trechos ou suas anotações do livro.</div></div>", "cap": "Cole *trechos ou ^anotações."}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;prompt</div><div style=\"font-size:44px;line-height:1.45;color:#ddd\">Organize em um <b style=\"color:#ff6a1a\">mapa mental</b>: ideia central, 5 ramos, 3 exemplos cada.</div></div>", "cap": "Peça um *mapa mental em tópicos."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;resultado (exemplo)</div><div class=mono>● Hábitos<br>  ├ gatilho<br>  ├ rotina<br>  └ recompensa</div></div>", "cap": "Sai assim, *estruturado."}, {"t": 14, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;extra</div><div style=\"font-size:44px;line-height:1.45;color:#ddd\">Agora crie <b style=\"color:#ff6a1a\">10 perguntas</b> pra eu testar o que aprendi.</div></div>", "cap": "Bônus: um *quiz pra ^fixar."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧠</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Estudar ficou visual</div><div style=\"color:#aaa;font-size:36px\">leia, resuma, revise</div></div>", "cap": "Funciona pra *livro, ^aula ^e ^curso."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>MAPA</u> e eu te mando<br>os 2 prompts de estudo</div>", "cap": "Comenta *MAPA que eu te mando."}], "caption": "Comenta MAPA que eu te mando os 2 prompts de estudo 👇 Cole trechos ou anotações e transforme em mapa mental + quiz. #chatgpt #estudos #mapamental #inteligenciaartificial"}, "ARE_r11": {"dur": 27, "ac": "#ff6a1a", "brand": "O Guia Definitivo da IA · link na bio", "scenes": [{"t": 0, "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#22a559\">CHATGPT</div>?</div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#2f7df6\">GEMINI · CLAUDE</div>?</div></div>", "cap": "*ChatGPT, ^Gemini ou ^Claude?"}, {"t": 3, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🤷</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Pra começar, tanto faz</div><div style=\"color:#aaa;font-size:36px\">todos têm versão grátis</div></div>", "cap": "Pra quem está começando: *tanto ^faz."}, {"t": 6.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🔑</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">O que muda o resultado</div><div style=\"color:#aaa;font-size:36px\">é como você pede</div><div style=\"margin-top:24px\"><span class=chip style=\"background:#2f7df6\">contexto</span><span class=chip style=\"background:#5b4bdb\">objetivo</span><span class=chip style=\"background:#ff6a1a\">formato</span></div></div>", "cap": "O que muda é *como ^você ^pede."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;mesmo prompt</div><div class=mono>ChatGPT  ✓<br>Gemini   ✓<br>Claude   ✓</div></div>", "cap": "Um bom prompt funciona *nos ^três."}, {"t": 14, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">📌</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Escolha 1 e use 7 dias</div><div style=\"color:#aaa;font-size:36px\">constância > ferramenta</div></div>", "cap": "Escolha *uma e use por ^7 ^dias."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">📘</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Guia em português</div><div style=\"color:#aaa;font-size:36px\">pensado pra iniciante</div></div>", "cap": "O passo a passo está no *guia."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>COMECE</u> e eu te mando<br>o plano de 7 dias</div>", "cap": "Comenta *COMECE e recebe o plano."}], "caption": "Comenta COMECE que eu te mando o plano de 7 dias 👇 ChatGPT, Gemini ou Claude: pra começar, tanto faz. O que muda o resultado é como você pede. #chatgpt #gemini #claude #iaparainiciantes"}, "AST_r05": {"dur": 27, "ac": "#22a559", "brand": "astralixai.com · teste grátis sem criar conta", "scenes": [{"t": 0, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Boa tarde, qual valor?</div></div>", "cap": "*“Qual valor?” e você ^some ^por ^2 ^horas."}, {"t": 3, "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">ERRADO</div><span style=\"color:#999;font-weight:500\">enrolar ou demorar</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">CERTO</div>preço + 1 pergunta</div></div>", "cap": "Nem *enrolar, nem ^só ^o ^preço."}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Boa tarde, qual valor?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Oi! O corte sai R$ 45 (exemplo). Prefere manhã ou tarde?</div></div>", "cap": "A IA responde *na ^hora com ^sua ^tabela."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;você configura</div><div class=mono>tabela de preços<br>horários<br>tom de voz</div></div>", "cap": "Você *ensina uma vez."}, {"t": 14, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🙋</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Caso difícil?</div><div style=\"color:#aaa;font-size:36px\">ela passa pra você</div></div>", "cap": "O que ela não sabe, *passa ^pra ^você."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧪</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Teste grátis</div><div style=\"color:#aaa;font-size:36px\">sem criar conta, no site</div></div>", "cap": "Teste *grátis, ^sem ^criar ^conta."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>PRECO</u> e eu te mando<br>o link da demo</div>", "cap": "Comenta *PRECO que eu te mando o link."}], "caption": "Comenta PRECO que eu te mando o link da demo 👇 “Qual valor?” merece resposta na hora: preço + uma pergunta pra continuar a conversa. Assistente IA no WhatsApp a partir de R$299,90/mês. #whatsappbusiness #atendimentoaocliente #pequenosnegocios #inteligenciaartificial"}, "AST_r06": {"dur": 27, "ac": "#22a559", "brand": "astralixai.com · teste grátis sem criar conta", "scenes": [{"t": 0, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp · 23:47</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Vocês abrem amanhã cedo?</div></div>", "cap": "*23h47. Cliente chamou. ^Você ^dormindo."}, {"t": 3, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">😴</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Resposta às 9h</div><div style=\"color:#aaa;font-size:36px\">quando ele já fechou com outro</div></div>", "cap": "Você responde de *manhã…"}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo</div><div style=\"font-size:56px;line-height:1.45;color:#fff\">“Já resolvi, obrigado.”</div></div>", "cap": "…e ele *já ^resolveu."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA · 23:47</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Vocês abrem amanhã cedo?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Abrimos às 8h! Quer que eu anote seu nome pra te esperar?</div></div>", "cap": "Com IA, a resposta sai *na ^hora."}, {"t": 14, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🌙</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">24h por dia</div><div style=\"color:#aaa;font-size:36px\">inclusive fim de semana</div></div>", "cap": "Madrugada, *domingo, ^feriado."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧪</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Demo grátis</div><div style=\"color:#aaa;font-size:36px\">sem cadastro</div></div>", "cap": "Teste *sem ^criar ^conta."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>MADRUGADA</u> e eu te mando<br>o link da demo</div>", "cap": "Comenta *MADRUGADA que eu te mando."}], "caption": "Comenta MADRUGADA que eu te mando o link da demo 👇 Cliente chama fora do horário? O assistente IA da Astralix responde no WhatsApp 24h, com as informações que você configurou. #whatsapp #atendimento24h #pequenasempresas #ia"}, "AST_r07": {"dur": 27, "ac": "#22a559", "brand": "astralixai.com · teste grátis sem criar conta", "scenes": [{"t": 0, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">3</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">cliques</div><div style=\"color:#aaa;font-size:36px\">pra ver uma IA atendendo</div></div>", "cap": "*3 cliques pra ver uma IA ^atendendo."}, {"t": 3, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;astralixai.com</div><div style=\"font-size:54px;line-height:1.45;color:#fff\">1 · Abra o site</div></div>", "cap": "Clique 1: abre o *site."}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;astralixai.com</div><div style=\"font-size:54px;line-height:1.45;color:#fff\">2 · Toque em <b style=\"color:#22a559\">testar grátis</b></div></div>", "cap": "Clique 2: *testar ^grátis."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;demo</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Quanto custa e como funciona?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Te explico! Qual é o seu tipo de negócio?</div></div>", "cap": "Clique 3: *converse ^como ^cliente."}, {"t": 14, "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">SEM</div><span style=\"color:#999;font-weight:500\">cadastro, cartão, reunião</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">COM</div>teste na hora</div></div>", "cap": "*Sem ^cadastro, sem cartão."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">💬</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">A partir de R$ 299,90/mês</div><div style=\"color:#aaa;font-size:36px\">quando você decidir</div></div>", "cap": "Gostou? Planos *a ^partir ^de ^R$299,90."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>DEMO</u> e eu te mando<br>o link direto</div>", "cap": "Comenta *DEMO e recebe o link."}], "caption": "Comenta DEMO que eu te mando o link direto 👇 Teste o assistente IA de WhatsApp da Astralix em 3 cliques, sem criar conta. Planos a partir de R$299,90/mês. #whatsappbusiness #chatbot #automacao #pequenosnegocios"}, "AST_r08": {"dur": 27, "ac": "#22a559", "brand": "astralixai.com · teste grátis sem criar conta", "scenes": [{"t": 0, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp · clínica</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Tem horário amanhã?</div></div>", "cap": "*“Tem horário amanhã?” ^Todo ^santo ^dia."}, {"t": 3, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">📞</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Recepção lotada</div><div style=\"color:#aaa;font-size:36px\">telefone + WhatsApp + balcão</div></div>", "cap": "Recepção não dá *conta ^de ^tudo."}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Tem horário amanhã?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Temos de manhã e à tarde. Qual prefere? Me passa seu nome?</div></div>", "cap": "A IA *responde e ^coleta ^os ^dados."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;pedido anotado (exemplo)</div><div class=mono>nome: Ana<br>turno: manhã<br>serviço: avaliação</div></div>", "cap": "Pedido *organizado ^pra ^equipe."}, {"t": 14, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">✅</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Sua equipe confirma</div><div style=\"color:#aaa;font-size:36px\">sem digitar tudo de novo</div></div>", "cap": "Sua equipe *só ^confirma."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🦷💇🐾</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Clínica, salão, pet</div><div style=\"color:#aaa;font-size:36px\">qualquer negócio com agenda</div></div>", "cap": "Clínica, *salão, ^pet ^shop."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>AGENDA</u> e eu te mando<br>o link da demo</div>", "cap": "Comenta *AGENDA que eu te mando."}], "caption": "Comenta AGENDA que eu te mando o link da demo 👇 “Tem horário amanhã?” respondido na hora, com nome e preferência anotados pra sua equipe confirmar. #clinica #agendamento #whatsappbusiness #atendimento"}, "AST_r09": {"dur": 27, "ac": "#22a559", "brand": "astralixai.com · teste grátis sem criar conta", "scenes": [{"t": 0, "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">MENU 1-2-3</div><span style=\"color:#999;font-weight:500\">robô engessado</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">ATENDENTE IA</div>entende a pergunta</div></div>", "cap": "*Menu ^1-2-3 vs. ^atendente ^com ^IA."}, {"t": 3, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;robô de menu</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Digite 1 para preços</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">quero saber se entrega no centro</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Opção inválida.</div></div>", "cap": "O menu *trava na ^primeira ^dúvida."}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;atendente IA (exemplo)</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">quero saber se entrega no centro</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Entregamos sim! Qual seu endereço?</div></div>", "cap": "A IA *entende ^frase ^solta."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;ela aprende com</div><div class=mono>seus produtos<br>suas regras<br>seu jeito de falar</div></div>", "cap": "Usa as *suas informações."}, {"t": 14, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🙋</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Quando precisa de você</div><div style=\"color:#aaa;font-size:36px\">ela avisa e passa a conversa</div></div>", "cap": "E sabe *quando ^te ^chamar."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧪</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Compare você mesmo</div><div style=\"color:#aaa;font-size:36px\">demo grátis, sem conta</div></div>", "cap": "Teste e *compare."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>ATENDENTE</u> e eu te mando<br>o link da demo</div>", "cap": "Comenta *ATENDENTE que eu te mando."}], "caption": "Comenta ATENDENTE que eu te mando o link da demo 👇 Robô de menu trava na primeira dúvida; um atendente IA entende a frase do cliente e responde com as suas informações. #chatbot #whatsapp #inteligenciaartificial #atendimentoaocliente"}, "AST_r10": {"dur": 27, "ac": "#22a559", "brand": "astralixai.com · teste grátis sem criar conta", "scenes": [{"t": 0, "v": "<div class=icon style=\"background:#0b3d2a\">🔁</div>", "cap": "As *mesmas ^5 ^perguntas, ^todo ^dia."}, {"t": 3, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;perguntas repetidas</div><div class=mono>1. qual o preço?<br>2. qual o horário?<br>3. onde fica?<br>4. tem entrega?<br>5. aceita cartão?</div></div>", "cap": "Você *responde ^tudo ^na ^mão."}, {"t": 6.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">⏱️</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Tempo perdido</div><div style=\"color:#aaa;font-size:36px\">copiando e colando</div></div>", "cap": "É tempo *que ^não ^volta."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;você cadastra 1 vez</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Preço, horário, endereço, entrega, pagamento.</div></div>", "cap": "Cadastre as respostas *uma ^vez."}, {"t": 14, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">aceita cartão?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Aceitamos cartão e PIX! Posso ajudar com mais algo?</div></div>", "cap": "A IA responde *na ^hora."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧠</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Você foca no que importa</div><div style=\"color:#aaa;font-size:36px\">vender, produzir, atender bem</div></div>", "cap": "Você foca *no ^que ^importa."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>FAQ</u> e eu te mando<br>o link da demo</div>", "cap": "Comenta *FAQ que eu te mando."}], "caption": "Comenta FAQ que eu te mando o link da demo 👇 Preço, horário, endereço, entrega, pagamento: cadastre uma vez e deixe a IA responder no WhatsApp. #whatsappbusiness #automacao #pequenosnegocios #empreendedorismo"}, "AST_r11": {"dur": 27, "ac": "#22a559", "brand": "astralixai.com · teste grátis sem criar conta", "scenes": [{"t": 0, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Qual o valor do kit?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">R$ 89 (exemplo)</div><div style=\"text-align:center;color:#888;font-size:28px;margin:10px 0\">visualizado ✓✓</div></div>", "cap": "*Visualizou ^e ^sumiu?"}, {"t": 3, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🔍</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">O problema</div><div style=\"color:#aaa;font-size:36px\">foi como a conversa terminou</div></div>", "cap": "O problema está *na ^sua ^resposta."}, {"t": 6.5, "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">SÓ O PREÇO</div><span style=\"color:#999;font-weight:500\">conversa morre</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">PREÇO + PERGUNTA</div>conversa continua</div></div>", "cap": "Só preço *encerra. ^Pergunta ^continua."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Qual o valor do kit?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">R$ 89 (exemplo). É pra presente ou pra você?</div></div>", "cap": "A IA *sempre ^devolve ^uma ^pergunta."}, {"t": 14, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">⚡</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Rápido e sem esquecer</div><div style=\"color:#aaa;font-size:36px\">mesmo com 20 conversas abertas</div></div>", "cap": "Mesmo com *várias conversas ^abertas."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧪</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Teste agora</div><div style=\"color:#aaa;font-size:36px\">grátis, sem criar conta</div></div>", "cap": "Teste *sem ^cadastro."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>TESTE</u> e eu te mando<br>o link da demo</div>", "cap": "Comenta *TESTE que eu te mando."}], "caption": "Comenta TESTE que eu te mando o link da demo 👇 Visualizou e sumiu? Terminar a conversa só com o preço encerra o papo; preço + uma pergunta mantém o cliente falando. #vendas #whatsapp #atendimentoaocliente #ia"}, "AST_r13": {"dur": 27, "ac": "#22a559", "brand": "astralixai.com · teste grátis sem criar conta", "scenes": [{"t": 0, "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">ALGUÉM SÓ PRO WHATSAPP</div><span style=\"color:#999;font-weight:500\">horário comercial</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">ASSISTENTE IA</div>R$ 299,90/mês · 24h</div></div>", "cap": "*R$299,90 por mês, ^24h ^por ^dia."}, {"t": 3, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧮</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Faça a sua conta</div><div style=\"color:#aaa;font-size:36px\">quantas horas você passa no WhatsApp?</div></div>", "cap": "Quantas *horas você passa ^respondendo?"}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo de conta</div><div class=mono>2h/dia × 30 dias<br>= 60h/mês (exemplo)</div></div>", "cap": "Faça a conta *do ^seu ^negócio."}, {"t": 10, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">⏳</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Esse tempo vale</div><div style=\"color:#aaa;font-size:36px\">pra vender, produzir, descansar</div></div>", "cap": "Esse tempo *vale ^dinheiro."}, {"t": 14, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🙋</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Não substitui você</div><div style=\"color:#aaa;font-size:36px\">tira o repetitivo da sua mão</div></div>", "cap": "Não *te ^substitui. Tira o ^repetitivo."}, {"t": 17.5, "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧪</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Teste antes de pagar</div><div style=\"color:#aaa;font-size:36px\">demo grátis, sem conta</div></div>", "cap": "Teste *antes ^de ^decidir."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>CONTA</u> e eu te mando<br>os planos + a demo</div>", "cap": "Comenta *CONTA que eu te mando."}], "caption": "Comenta CONTA que eu te mando os planos e o link da demo 👇 Assistente IA no WhatsApp a partir de R$299,90/mês, atendendo 24h. Faça a conta do tempo que você gasta respondendo. #whatsappbusiness #automacao #empreendedorismo #pequenosnegocios"}, "AST_r14": {"dur": 27, "ac": "#22a559", "brand": "astralixai.com · teste grátis sem criar conta", "scenes": [{"t": 0, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Qual o preço do celular?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Antes, preencha este formulário…</div></div>", "cap": "*3 mensagens que ^expulsam ^o ^cliente."}, {"t": 3, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;erro 1</div><div style=\"font-size:50px;line-height:1.45;color:#fff\">Formulário gigante antes de responder.</div></div>", "cap": "1: *formulário antes do preço."}, {"t": 6.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;erro 2</div><div style=\"font-size:50px;line-height:1.45;color:#fff\">Resposta seca, sem “oi”.</div></div>", "cap": "2: resposta *seca, ^sem ^tom."}, {"t": 10, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;erro 3</div><div style=\"font-size:50px;line-height:1.45;color:#fff\">Áudio de 3 minutos pra uma pergunta simples.</div></div>", "cap": "3: *áudio ^longo pra pergunta curta."}, {"t": 14, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Qual o preço do celular?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Oi! Sai R$ 1.299 (exemplo). Quer ver as cores?</div></div>", "cap": "A IA responde *no ^seu ^tom, direto."}, {"t": 17.5, "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;você define</div><div class=mono>tom: simpático<br>emoji: pouco<br>tamanho: curto</div></div>", "cap": "Você escolhe *o ^jeito ^de ^falar."}, {"t": 21.5, "v": "<div class=cta>Comenta <u>TOM</u> e eu te mando<br>o link da demo</div>", "cap": "Comenta *TOM que eu te mando."}], "caption": "Comenta TOM que eu te mando o link da demo 👇 Formulário antes do preço, resposta seca e áudio longo afastam o cliente. Configure o tom do seu assistente IA no WhatsApp. #atendimentoaocliente #whatsapp #vendas #ia"}}
+{
+ "ARE_r04": {
+  "dur": 27,
+  "ac": "#ff6a1a",
+  "brand": "O Guia Definitivo da IA · link na bio",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#2f7df6\">GOOGLE</div>3 palavras</div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#ff6a1a\">IA</div>3 frases</div></div>",
+    "cap": "*Google: 3 palavras. ^IA: 3 frases."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;o jeito Google</div><div style=\"font-size:60px;line-height:1.45;color:#fff\">“dieta rápida”</div></div>",
+    "cap": "Quem usa IA como *Google recebe ^resposta ^genérica."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧩</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Contexto + objetivo + formato</div><div style=\"color:#aaa;font-size:36px\">a fórmula de 3 frases</div></div>",
+    "cap": "A IA precisa de *contexto."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;frase 1 · contexto</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Tenho 42 anos, trabalho sentado e cozinho pouco.</div></div>",
+    "cap": "1: quem você *é ^e ^sua ^situação."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;frase 2 · objetivo</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Quero comer melhor sem gastar mais.</div></div>",
+    "cap": "2: o que você *quer."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;frase 3 · formato</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Me dê um cardápio de 7 dias em tabela.</div></div>",
+    "cap": "3: como você quer a *resposta."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>IA</u> e eu te mando<br>a fórmula das 3 frases</div>",
+    "cap": "Comenta *IA que eu te mando a fórmula."
+   }
+  ],
+  "caption": "Comenta IA que eu te mando a fórmula das 3 frases 👇 Pesquisa no Google é com palavras-chave; conversa com IA é com contexto, objetivo e formato. #inteligenciaartificial #chatgpt #iaparainiciantes #dicasdeia"
+ },
+ "ARE_r05": {
+  "dur": 27,
+  "ac": "#ff6a1a",
+  "brand": "O Guia Definitivo da IA · link na bio",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=icon>🚫💻</div>",
+    "cap": "*Zero código. ^3 passos pra começar com IA hoje."
+   },
+   {
+    "t": 3,
+    "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">VOCÊ ACHA</div><span style=\"color:#999;font-weight:500\">precisa saber programar</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">NA REAL</div>precisa saber pedir</div></div>",
+    "cap": "IA hoje se usa *conversando."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">1️⃣</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Crie a conta grátis</div><div style=\"color:#aaa;font-size:36px\">ChatGPT, Gemini ou Claude</div></div>",
+    "cap": "Passo 1: escolha *uma e ^pronto."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">2️⃣</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Escolha 1 tarefa real</div><div style=\"color:#aaa;font-size:36px\">um e-mail, uma lista, um resumo</div></div>",
+    "cap": "Passo 2: comece com algo *do ^seu ^dia."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">3️⃣</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Peça, leia, ajuste</div><div style=\"color:#aaa;font-size:36px\">“mais curto”, “mais simples”</div></div>",
+    "cap": "Passo 3: *converse até ficar bom."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">📘</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">O caminho completo</div><div style=\"color:#aaa;font-size:36px\">do primeiro prompt ao uso diário</div><div style=\"margin-top:24px\"><span class=chip style=\"background:#2f7df6\">iniciante</span><span class=chip style=\"background:#ff6a1a\">passo a passo</span></div></div>",
+    "cap": "O resto está no *guia, ^em ^português."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>GUIA</u> e eu te mando<br>o capítulo 1 grátis</div>",
+    "cap": "Comenta *GUIA e recebe o capítulo 1."
+   }
+  ],
+  "caption": "Comenta GUIA que eu te mando o capítulo 1 grátis 👇 Você não precisa programar pra usar IA: conta grátis, uma tarefa real e conversa até ficar bom. O Guia Definitivo da IA, R$149,99 no PIX, link na bio. #iaparainiciantes #chatgpt #inteligenciaartificial #aprenderia"
+ },
+ "ARE_r06": {
+  "dur": 27,
+  "ac": "#ff6a1a",
+  "brand": "O Guia Definitivo da IA · link na bio",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=icon>📅</div>",
+    "cap": "*5 tarefas da sua semana pra ^entregar ^à ^IA."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;segunda</div><div style=\"font-size:48px;line-height:1.45;color:#fff\">📧 Responder aquele e-mail chato</div></div>",
+    "cap": "1: *e-mails que você vive adiando."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;terça</div><div style=\"font-size:48px;line-height:1.45;color:#fff\">🛒 Lista de compras pelo cardápio</div></div>",
+    "cap": "2: *lista de compras a partir do cardápio."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;quarta</div><div style=\"font-size:48px;line-height:1.45;color:#fff\">📄 Resumir um PDF longo</div></div>",
+    "cap": "3: *resumir documento longo."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;quinta</div><div style=\"font-size:48px;line-height:1.45;color:#fff\">🗓️ Organizar a agenda da semana</div></div>",
+    "cap": "4: *organizar ^a ^agenda."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;sexta</div><div style=\"font-size:48px;line-height:1.45;color:#fff\">💡 Ideias pro fim de semana</div></div>",
+    "cap": "5: *ideias quando a cabeça trava."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>ROTINA</u> e eu te mando<br>os 5 prompts da semana</div>",
+    "cap": "Comenta *ROTINA que eu te mando."
+   }
+  ],
+  "caption": "Comenta ROTINA que eu te mando os 5 prompts da semana 👇 E-mail, compras, resumo, agenda e ideias: tarefas simples pra começar a usar IA no dia a dia. #chatgpt #rotina #produtividade #inteligenciaartificial"
+ },
+ "ARE_r07": {
+  "dur": 27,
+  "ac": "#ff6a1a",
+  "brand": "O Guia Definitivo da IA · link na bio",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">❌</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Erro nº 1</div><div style=\"color:#aaa;font-size:36px\">de quem começa com IA</div></div>",
+    "cap": "O *erro nº1 de quem começa com IA."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;ChatGPT</div><div style=\"font-size:48px;line-height:1.45;color:#ddd\">Aqui está seu texto: …</div><div style=\"font-size:40px;line-height:1.45;color:#e11d48\">✅ Aceitar e copiar</div></div>",
+    "cap": "Aceitar a *primeira resposta."
+   },
+   {
+    "t": 6.5,
+    "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">1 RESPOSTA</div><span style=\"color:#999;font-weight:500\">sem comparação</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">3 VERSÕES</div>você escolhe a melhor</div></div>",
+    "cap": "A primeira é *rascunho, ^não ^final."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;prompt</div><div style=\"font-size:44px;line-height:1.45;color:#ddd\">Me dê <b style=\"color:#ff6a1a\">3 versões</b> bem diferentes e diga qual você escolheria e por quê.</div></div>",
+    "cap": "Peça *3 versões diferentes."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;depois</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Junte o começo da 2 com o final da 3.</div></div>",
+    "cap": "Depois *misture o que ^gostou."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🎯</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Você no comando</div><div style=\"color:#aaa;font-size:36px\">a IA propõe, você decide</div></div>",
+    "cap": "Quem decide é *você."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>ERRO</u> e eu te mando<br>os 5 erros de iniciante</div>",
+    "cap": "Comenta *ERRO e recebe a lista."
+   }
+  ],
+  "caption": "Comenta ERRO que eu te mando os 5 erros mais comuns de iniciante 👇 O primeiro: aceitar a primeira resposta. Peça 3 versões e escolha. #chatgpt #iaparainiciantes #prompts #dicasdeia"
+ },
+ "ARE_r08": {
+  "dur": 27,
+  "ac": "#ff6a1a",
+  "brand": "O Guia Definitivo da IA · link na bio",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=icon>🎤</div>",
+    "cap": "*1 frase muda ^toda resposta da IA."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;o normal</div><div style=\"font-size:50px;line-height:1.45;color:#fff\">Você pergunta → a IA chuta</div></div>",
+    "cap": "Normalmente você *pergunta e ela ^adivinha."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;a frase</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Antes de responder, <b style=\"color:#ff6a1a\">me faça 5 perguntas</b> sobre o que eu preciso.</div></div>",
+    "cap": "Inverta: peça pra IA *te ^entrevistar."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Pra quem é o presente?</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Minha mãe, 60 anos</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Qual o orçamento?</div></div>",
+    "cap": "Ela pergunta *o ^que ^falta."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🎯</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Resposta sob medida</div><div style=\"color:#aaa;font-size:36px\">porque agora ela tem contexto</div></div>",
+    "cap": "E responde *sob ^medida."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;use para</div><div class=mono>currículo<br>viagem<br>presente<br>texto de venda</div></div>",
+    "cap": "Funciona pra *quase ^tudo."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>PERGUNTA</u> e eu te mando<br>a frase pronta pra copiar</div>",
+    "cap": "Comenta *PERGUNTA que eu te mando."
+   }
+  ],
+  "caption": "Comenta PERGUNTA que eu te mando a frase pronta 👇 Peça pra IA te fazer 5 perguntas antes de responder: a resposta sai sob medida. #chatgpt #prompts #inteligenciaartificial #iaparainiciantes"
+ },
+ "ARE_r09": {
+  "dur": 27,
+  "ac": "#ff6a1a",
+  "brand": "O Guia Definitivo da IA · link na bio",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Oi, preciso falar com você sobre o atraso…</div></div>",
+    "cap": "Aquela mensagem *difícil que você ^adia ^há ^dias."
+   },
+   {
+    "t": 3,
+    "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">SEM IA</div><span style=\"color:#999;font-weight:500\">30 min reescrevendo</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">COM IA</div>1 rascunho pra ajustar</div></div>",
+    "cap": "*Rascunho pronto em vez de ^tela ^branca."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;prompt</div><div style=\"font-size:44px;line-height:1.45;color:#ddd\">Escreva uma resposta <b style=\"color:#ff6a1a\">educada e firme</b>. Contexto: …</div></div>",
+    "cap": "Diga o *tom e ^o ^contexto."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;ajuste</div><div class=mono>+ curta<br>+ gentil<br>sem pedir desculpas demais</div></div>",
+    "cap": "Depois *ajuste ^em ^1 ^linha."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">✍️</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Você revisa e envia</div><div style=\"color:#aaa;font-size:36px\">a IA não manda nada por você</div></div>",
+    "cap": "Você *revisa e envia."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧠</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Menos ansiedade</div><div style=\"color:#aaa;font-size:36px\">mais clareza na hora de responder</div></div>",
+    "cap": "Menos *tempo travado."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>TEXTO</u> e eu te mando<br>o prompt das mensagens difíceis</div>",
+    "cap": "Comenta *TEXTO e recebe o prompt."
+   }
+  ],
+  "caption": "Comenta TEXTO que eu te mando o prompt das mensagens difíceis 👇 Use a IA pra sair da tela em branco: diga tom e contexto, ajuste e revise antes de enviar. #chatgpt #comunicacao #inteligenciaartificial #dicasdeia"
+ },
+ "ARE_r10": {
+  "dur": 27,
+  "ac": "#ff6a1a",
+  "brand": "O Guia Definitivo da IA · link na bio",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=icon>📚</div>",
+    "cap": "*300 páginas → ^1 mapa mental."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;ChatGPT</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Cole os trechos ou suas anotações do livro.</div></div>",
+    "cap": "Cole *trechos ou ^anotações."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;prompt</div><div style=\"font-size:44px;line-height:1.45;color:#ddd\">Organize em um <b style=\"color:#ff6a1a\">mapa mental</b>: ideia central, 5 ramos, 3 exemplos cada.</div></div>",
+    "cap": "Peça um *mapa mental em tópicos."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;resultado (exemplo)</div><div class=mono>● Hábitos<br>  ├ gatilho<br>  ├ rotina<br>  └ recompensa</div></div>",
+    "cap": "Sai assim, *estruturado."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;extra</div><div style=\"font-size:44px;line-height:1.45;color:#ddd\">Agora crie <b style=\"color:#ff6a1a\">10 perguntas</b> pra eu testar o que aprendi.</div></div>",
+    "cap": "Bônus: um *quiz pra ^fixar."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧠</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Estudar ficou visual</div><div style=\"color:#aaa;font-size:36px\">leia, resuma, revise</div></div>",
+    "cap": "Funciona pra *livro, ^aula ^e ^curso."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>MAPA</u> e eu te mando<br>os 2 prompts de estudo</div>",
+    "cap": "Comenta *MAPA que eu te mando."
+   }
+  ],
+  "caption": "Comenta MAPA que eu te mando os 2 prompts de estudo 👇 Cole trechos ou anotações e transforme em mapa mental + quiz. #chatgpt #estudos #mapamental #inteligenciaartificial"
+ },
+ "ARE_r11": {
+  "dur": 27,
+  "ac": "#ff6a1a",
+  "brand": "O Guia Definitivo da IA · link na bio",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#22a559\">CHATGPT</div>?</div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#2f7df6\">GEMINI · CLAUDE</div>?</div></div>",
+    "cap": "*ChatGPT, ^Gemini ou ^Claude?"
+   },
+   {
+    "t": 3,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🤷</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Pra começar, tanto faz</div><div style=\"color:#aaa;font-size:36px\">todos têm versão grátis</div></div>",
+    "cap": "Pra quem está começando: *tanto ^faz."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🔑</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">O que muda o resultado</div><div style=\"color:#aaa;font-size:36px\">é como você pede</div><div style=\"margin-top:24px\"><span class=chip style=\"background:#2f7df6\">contexto</span><span class=chip style=\"background:#5b4bdb\">objetivo</span><span class=chip style=\"background:#ff6a1a\">formato</span></div></div>",
+    "cap": "O que muda é *como ^você ^pede."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;mesmo prompt</div><div class=mono>ChatGPT  ✓<br>Gemini   ✓<br>Claude   ✓</div></div>",
+    "cap": "Um bom prompt funciona *nos ^três."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">📌</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Escolha 1 e use 7 dias</div><div style=\"color:#aaa;font-size:36px\">constância > ferramenta</div></div>",
+    "cap": "Escolha *uma e use por ^7 ^dias."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">📘</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Guia em português</div><div style=\"color:#aaa;font-size:36px\">pensado pra iniciante</div></div>",
+    "cap": "O passo a passo está no *guia."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>COMECE</u> e eu te mando<br>o plano de 7 dias</div>",
+    "cap": "Comenta *COMECE e recebe o plano."
+   }
+  ],
+  "caption": "Comenta COMECE que eu te mando o plano de 7 dias 👇 ChatGPT, Gemini ou Claude: pra começar, tanto faz. O que muda o resultado é como você pede. #chatgpt #gemini #claude #iaparainiciantes"
+ },
+ "AST_r06": {
+  "dur": 27,
+  "ac": "#22a559",
+  "brand": "astralixai.com · teste grátis sem criar conta",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp · 23:47</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Vocês abrem amanhã cedo?</div></div>",
+    "cap": "*23h47. Cliente chamou. ^Você ^dormindo."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">😴</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Resposta às 9h</div><div style=\"color:#aaa;font-size:36px\">quando ele já fechou com outro</div></div>",
+    "cap": "Você responde de *manhã…"
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo</div><div style=\"font-size:56px;line-height:1.45;color:#fff\">“Já resolvi, obrigado.”</div></div>",
+    "cap": "…e ele *já ^resolveu."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA · 23:47</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Vocês abrem amanhã cedo?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Abrimos às 8h! Quer que eu anote seu nome pra te esperar?</div></div>",
+    "cap": "Com IA, a resposta sai *na ^hora."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🌙</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">24h por dia</div><div style=\"color:#aaa;font-size:36px\">inclusive fim de semana</div></div>",
+    "cap": "Madrugada, *domingo, ^feriado."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧪</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Demo grátis</div><div style=\"color:#aaa;font-size:36px\">sem cadastro</div></div>",
+    "cap": "Teste *sem ^criar ^conta."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>MADRUGADA</u> e eu te mando<br>o link da demo</div>",
+    "cap": "Comenta *MADRUGADA que eu te mando."
+   }
+  ],
+  "caption": "Comenta MADRUGADA que eu te mando o link da demo 👇 Cliente chama fora do horário? O assistente IA da Astralix responde no WhatsApp 24h, com as informações que você configurou. #whatsapp #atendimento24h #pequenasempresas #ia"
+ },
+ "AST_r07": {
+  "dur": 27,
+  "ac": "#22a559",
+  "brand": "astralixai.com · teste grátis sem criar conta",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">3</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">cliques</div><div style=\"color:#aaa;font-size:36px\">pra ver uma IA atendendo</div></div>",
+    "cap": "*3 cliques pra ver uma IA ^atendendo."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;astralixai.com</div><div style=\"font-size:54px;line-height:1.45;color:#fff\">1 · Abra o site</div></div>",
+    "cap": "Clique 1: abre o *site."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;astralixai.com</div><div style=\"font-size:54px;line-height:1.45;color:#fff\">2 · Toque em <b style=\"color:#22a559\">testar grátis</b></div></div>",
+    "cap": "Clique 2: *testar ^grátis."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;demo</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Quanto custa e como funciona?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Te explico! Qual é o seu tipo de negócio?</div></div>",
+    "cap": "Clique 3: *converse ^como ^cliente."
+   },
+   {
+    "t": 14,
+    "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">SEM</div><span style=\"color:#999;font-weight:500\">cadastro, cartão, reunião</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">COM</div>teste na hora</div></div>",
+    "cap": "*Sem ^cadastro, sem cartão."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">💬</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">A partir de R$ 299,90/mês</div><div style=\"color:#aaa;font-size:36px\">quando você decidir</div></div>",
+    "cap": "Gostou? Planos *a ^partir ^de ^R$299,90."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>DEMO</u> e eu te mando<br>o link direto</div>",
+    "cap": "Comenta *DEMO e recebe o link."
+   }
+  ],
+  "caption": "Comenta DEMO que eu te mando o link direto 👇 Teste o assistente IA de WhatsApp da Astralix em 3 cliques, sem criar conta. Planos a partir de R$299,90/mês. #whatsappbusiness #chatbot #automacao #pequenosnegocios"
+ },
+ "AST_r08": {
+  "dur": 27,
+  "ac": "#22a559",
+  "brand": "astralixai.com · teste grátis sem criar conta",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp · clínica</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Tem horário amanhã?</div></div>",
+    "cap": "*“Tem horário amanhã?” ^Todo ^santo ^dia."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">📞</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Recepção lotada</div><div style=\"color:#aaa;font-size:36px\">telefone + WhatsApp + balcão</div></div>",
+    "cap": "Recepção não dá *conta ^de ^tudo."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Tem horário amanhã?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Temos de manhã e à tarde. Qual prefere? Me passa seu nome?</div></div>",
+    "cap": "A IA *responde e ^coleta ^os ^dados."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;pedido anotado (exemplo)</div><div class=mono>nome: Ana<br>turno: manhã<br>serviço: avaliação</div></div>",
+    "cap": "Pedido *organizado ^pra ^equipe."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">✅</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Sua equipe confirma</div><div style=\"color:#aaa;font-size:36px\">sem digitar tudo de novo</div></div>",
+    "cap": "Sua equipe *só ^confirma."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🦷💇🐾</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Clínica, salão, pet</div><div style=\"color:#aaa;font-size:36px\">qualquer negócio com agenda</div></div>",
+    "cap": "Clínica, *salão, ^pet ^shop."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>AGENDA</u> e eu te mando<br>o link da demo</div>",
+    "cap": "Comenta *AGENDA que eu te mando."
+   }
+  ],
+  "caption": "Comenta AGENDA que eu te mando o link da demo 👇 “Tem horário amanhã?” respondido na hora, com nome e preferência anotados pra sua equipe confirmar. #clinica #agendamento #whatsappbusiness #atendimento"
+ },
+ "AST_r09": {
+  "dur": 27,
+  "ac": "#22a559",
+  "brand": "astralixai.com · teste grátis sem criar conta",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">MENU 1-2-3</div><span style=\"color:#999;font-weight:500\">robô engessado</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">ATENDENTE IA</div>entende a pergunta</div></div>",
+    "cap": "*Menu ^1-2-3 vs. ^atendente ^com ^IA."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;robô de menu</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Digite 1 para preços</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">quero saber se entrega no centro</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Opção inválida.</div></div>",
+    "cap": "O menu *trava na ^primeira ^dúvida."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;atendente IA (exemplo)</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">quero saber se entrega no centro</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Entregamos sim! Qual seu endereço?</div></div>",
+    "cap": "A IA *entende ^frase ^solta."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;ela aprende com</div><div class=mono>seus produtos<br>suas regras<br>seu jeito de falar</div></div>",
+    "cap": "Usa as *suas informações."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🙋</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Quando precisa de você</div><div style=\"color:#aaa;font-size:36px\">ela avisa e passa a conversa</div></div>",
+    "cap": "E sabe *quando ^te ^chamar."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧪</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Compare você mesmo</div><div style=\"color:#aaa;font-size:36px\">demo grátis, sem conta</div></div>",
+    "cap": "Teste e *compare."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>ATENDENTE</u> e eu te mando<br>o link da demo</div>",
+    "cap": "Comenta *ATENDENTE que eu te mando."
+   }
+  ],
+  "caption": "Comenta ATENDENTE que eu te mando o link da demo 👇 Robô de menu trava na primeira dúvida; um atendente IA entende a frase do cliente e responde com as suas informações. #chatbot #whatsapp #inteligenciaartificial #atendimentoaocliente"
+ },
+ "AST_r10": {
+  "dur": 27,
+  "ac": "#22a559",
+  "brand": "astralixai.com · teste grátis sem criar conta",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=icon style=\"background:#0b3d2a\">🔁</div>",
+    "cap": "As *mesmas ^5 ^perguntas, ^todo ^dia."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;perguntas repetidas</div><div class=mono>1. qual o preço?<br>2. qual o horário?<br>3. onde fica?<br>4. tem entrega?<br>5. aceita cartão?</div></div>",
+    "cap": "Você *responde ^tudo ^na ^mão."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">⏱️</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Tempo perdido</div><div style=\"color:#aaa;font-size:36px\">copiando e colando</div></div>",
+    "cap": "É tempo *que ^não ^volta."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;você cadastra 1 vez</div><div style=\"font-size:46px;line-height:1.45;color:#ddd\">Preço, horário, endereço, entrega, pagamento.</div></div>",
+    "cap": "Cadastre as respostas *uma ^vez."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">aceita cartão?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Aceitamos cartão e PIX! Posso ajudar com mais algo?</div></div>",
+    "cap": "A IA responde *na ^hora."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧠</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Você foca no que importa</div><div style=\"color:#aaa;font-size:36px\">vender, produzir, atender bem</div></div>",
+    "cap": "Você foca *no ^que ^importa."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>FAQ</u> e eu te mando<br>o link da demo</div>",
+    "cap": "Comenta *FAQ que eu te mando."
+   }
+  ],
+  "caption": "Comenta FAQ que eu te mando o link da demo 👇 Preço, horário, endereço, entrega, pagamento: cadastre uma vez e deixe a IA responder no WhatsApp. #whatsappbusiness #automacao #pequenosnegocios #empreendedorismo"
+ },
+ "AST_r11": {
+  "dur": 27,
+  "ac": "#22a559",
+  "brand": "astralixai.com · teste grátis sem criar conta",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Qual o valor do kit?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">R$ 89 (exemplo)</div><div style=\"text-align:center;color:#888;font-size:28px;margin:10px 0\">visualizado ✓✓</div></div>",
+    "cap": "*Visualizou ^e ^sumiu?"
+   },
+   {
+    "t": 3,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🔍</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">O problema</div><div style=\"color:#aaa;font-size:36px\">foi como a conversa terminou</div></div>",
+    "cap": "O problema está *na ^sua ^resposta."
+   },
+   {
+    "t": 6.5,
+    "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">SÓ O PREÇO</div><span style=\"color:#999;font-weight:500\">conversa morre</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">PREÇO + PERGUNTA</div>conversa continua</div></div>",
+    "cap": "Só preço *encerra. ^Pergunta ^continua."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Qual o valor do kit?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">R$ 89 (exemplo). É pra presente ou pra você?</div></div>",
+    "cap": "A IA *sempre ^devolve ^uma ^pergunta."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">⚡</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Rápido e sem esquecer</div><div style=\"color:#aaa;font-size:36px\">mesmo com 20 conversas abertas</div></div>",
+    "cap": "Mesmo com *várias conversas ^abertas."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧪</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Teste agora</div><div style=\"color:#aaa;font-size:36px\">grátis, sem criar conta</div></div>",
+    "cap": "Teste *sem ^cadastro."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>TESTE</u> e eu te mando<br>o link da demo</div>",
+    "cap": "Comenta *TESTE que eu te mando."
+   }
+  ],
+  "caption": "Comenta TESTE que eu te mando o link da demo 👇 Visualizou e sumiu? Terminar a conversa só com o preço encerra o papo; preço + uma pergunta mantém o cliente falando. #vendas #whatsapp #atendimentoaocliente #ia"
+ },
+ "AST_r13": {
+  "dur": 27,
+  "ac": "#22a559",
+  "brand": "astralixai.com · teste grátis sem criar conta",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div style=\"display:flex;gap:40px\"><div class=card><div class=lab style=\"color:#e11d48\">ALGUÉM SÓ PRO WHATSAPP</div><span style=\"color:#999;font-weight:500\">horário comercial</span></div><div class=card style=\"background:#16161a;color:#fff\"><div class=lab style=\"color:#22a559\">ASSISTENTE IA</div>R$ 299,90/mês · 24h</div></div>",
+    "cap": "*R$299,90 por mês, ^24h ^por ^dia."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧮</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Faça a sua conta</div><div style=\"color:#aaa;font-size:36px\">quantas horas você passa no WhatsApp?</div></div>",
+    "cap": "Quantas *horas você passa ^respondendo?"
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo de conta</div><div class=mono>2h/dia × 30 dias<br>= 60h/mês (exemplo)</div></div>",
+    "cap": "Faça a conta *do ^seu ^negócio."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">⏳</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Esse tempo vale</div><div style=\"color:#aaa;font-size:36px\">pra vender, produzir, descansar</div></div>",
+    "cap": "Esse tempo *vale ^dinheiro."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🙋</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Não substitui você</div><div style=\"color:#aaa;font-size:36px\">tira o repetitivo da sua mão</div></div>",
+    "cap": "Não *te ^substitui. Tira o ^repetitivo."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win style=\"text-align:center\"><div style=\"font-size:90px\">🧪</div><div style=\"font-size:64px;font-weight:900;margin:10px 0\">Teste antes de pagar</div><div style=\"color:#aaa;font-size:36px\">demo grátis, sem conta</div></div>",
+    "cap": "Teste *antes ^de ^decidir."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>CONTA</u> e eu te mando<br>os planos + a demo</div>",
+    "cap": "Comenta *CONTA que eu te mando."
+   }
+  ],
+  "caption": "Comenta CONTA que eu te mando os planos e o link da demo 👇 Assistente IA no WhatsApp a partir de R$299,90/mês, atendendo 24h. Faça a conta do tempo que você gasta respondendo. #whatsappbusiness #automacao #empreendedorismo #pequenosnegocios"
+ },
+ "AST_r14": {
+  "dur": 27,
+  "ac": "#22a559",
+  "brand": "astralixai.com · teste grátis sem criar conta",
+  "scenes": [
+   {
+    "t": 0,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;WhatsApp</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Qual o preço do celular?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Antes, preencha este formulário…</div></div>",
+    "cap": "*3 mensagens que ^expulsam ^o ^cliente."
+   },
+   {
+    "t": 3,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;erro 1</div><div style=\"font-size:50px;line-height:1.45;color:#fff\">Formulário gigante antes de responder.</div></div>",
+    "cap": "1: *formulário antes do preço."
+   },
+   {
+    "t": 6.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;erro 2</div><div style=\"font-size:50px;line-height:1.45;color:#fff\">Resposta seca, sem “oi”.</div></div>",
+    "cap": "2: resposta *seca, ^sem ^tom."
+   },
+   {
+    "t": 10,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;erro 3</div><div style=\"font-size:50px;line-height:1.45;color:#fff\">Áudio de 3 minutos pra uma pergunta simples.</div></div>",
+    "cap": "3: *áudio ^longo pra pergunta curta."
+   },
+   {
+    "t": 14,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;exemplo · atendente IA</div><div style=\"background:#2a2a30;border-radius:22px 22px 22px 6px;padding:18px 26px;margin:12px 160px 12px 0;font-size:38px;line-height:1.35\">Qual o preço do celular?</div><div style=\"background:#1f6f4a;border-radius:22px 22px 6px 22px;padding:18px 26px;margin:12px 0 12px 160px;font-size:38px;line-height:1.35\">Oi! Sai R$ 1.299 (exemplo). Quer ver as cores?</div></div>",
+    "cap": "A IA responde *no ^seu ^tom, direto."
+   },
+   {
+    "t": 17.5,
+    "v": "<div class=win><div class=dots><i style=\"background:#ff5f57\"></i><i style=\"background:#febc2e\"></i><i style=\"background:#28c840\"></i>&nbsp;você define</div><div class=mono>tom: simpático<br>emoji: pouco<br>tamanho: curto</div></div>",
+    "cap": "Você escolhe *o ^jeito ^de ^falar."
+   },
+   {
+    "t": 21.5,
+    "v": "<div class=cta>Comenta <u>TOM</u> e eu te mando<br>o link da demo</div>",
+    "cap": "Comenta *TOM que eu te mando."
+   }
+  ],
+  "caption": "Comenta TOM que eu te mando o link da demo 👇 Formulário antes do preço, resposta seca e áudio longo afastam o cliente. Configure o tom do seu assistente IA no WhatsApp. #atendimentoaocliente #whatsapp #vendas #ia"
+ }
+}
