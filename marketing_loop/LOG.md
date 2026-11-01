@@ -21,3 +21,4 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - DMs: envoyés index 0,2,3,4,5,6. ÉCHECS: index 1 oscomparsasbarbearia (« não pode receber mensagem », abandonner), index 7 odhosodontologia (raccourci clavier a intercepté, RENVOYER). Prochain: index 7.
 - ATTENTION DM: si un popup « Atalhos de teclado » apparaît, Escape puis recliquer le champ.
 - QG: https://claude.ai/artifact/6vHCo4jhrz2chauRuDWist (slug 2fee1949-882e-4d85-94ac-14f1f1264b13). Mettre à jour marketing_loop/hq/data.json (kpi + feito) puis republier avec publish_files (slug, base_version via get_artifact, fichier data.json seul).
+- 03h15: publié ARE_r02 (PROMPT) sur @areiacurso, retiré du stock. Départements actifs: Boucle marketing (4x/j), Partenariats (15h43), AreiaPlay contenu & veille (11h37). Correctifs AreiaPlay (LGPD réservations, clubs non partenaires, marques fictives) demandés à Replit le 01/11 03h05.
