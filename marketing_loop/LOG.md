@@ -89,3 +89,12 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - ALERTE @areiacurso: réponse à miqueias_aurelio (post inventormiguel) -> « Não foi possível postar o comentário ». => PAUSE commentaires @areiacurso 24h (pas avant 03/11 03h). Les DMs de réponse marchent encore.
 - CROISSANCE @astralix_servicos: 1 commentaire OK (contaazul DfNrBbOCeZk, juros 15% / % fixa do faturamento). Suivis: rdstation, sebraerj. À 2h30 très peu de posts <24h (sebraesp, stone, sebraerj, rdstation: aucun).
 - Leads/ventes: 0.
+
+## 2026-11-02 (17h40-18h20 BRT, rattrapage du passage 13h)
+- PUBLIÉS (1/compte, 1er post du jour): @astralix_servicos render_v2/AST_v2_01.mp4 (ATENDENTE), @areiacurso render_v2/ARE_v2_01.mp4 (GUIA). Crop Original, sans erreur. => Passage 21h: PAS de nouvelle publication (écart < 5 h) ; prochaine publication 03/11 13h.
+- MESURE: @astralix_servicos 67 abonnés / 45 posts ; Reels récents 5, 4, 30, 4, 2, 35 -> toujours bridé. @areiacurso 31 abonnés (+1 brans_tech) / 35 posts ; Reels 79, 31, 55, 18 -> ARE_r04 47->79 : la portée remonte bien.
+- CONVERTIR: aucun commentaire/DM/pedido humain sur les deux comptes (Conta Azul et maestroprompts = messages auto). miqueias_aurelio a répondu à notre commentaire chez inventormiguel (pas de réponse : commentaires areiacurso en pause jusqu'au 03/11 03h).
+- CROISSANCE @astralix_servicos: 5 commentaires OK (contaazul DfPy2pQudHN Quanto Sobra/pró-labore, contaazul DfPeLBSEZip demissão/fatos, startseuniversity DfP0rXfF5QU, lydiaemilia_ DfPeacENYrN NFS-e, sebraesc DfPEvL9Dzhk ESG). Suivi: sebraesc. Aucune erreur.
+- ATTENTION: l'API /api/v1/users/web_profile_info renvoie 429 -> NE PLUS l'utiliser (risque de limitation). Trouver les posts <24h via le fil ?variant=following (balise time) ou les profils.
+- @areiacurso: aucun commentaire de croissance (pause), aucun follow.
+- Leads/ventes: 0.
