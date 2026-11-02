@@ -81,3 +81,11 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 ## RÈGLE PERMANENTE (01/11 17h) — FORMAT DES REELS
 - gen.py est OBSOLÈTE. Utiliser EXCLUSIVEMENT marketing_loop/gen2.py et appliquer marketing_loop/FICHE_VIRALE.md (hook à t=0 sans fondu, écran réel/simulé comme preuve, changement visuel toutes les 1,5-1,8 s, durée 15-23 s, CTA « Comenta MOT » en grand dans les 3 dernières s, boucle de fin, aucun son synthétique).
 - Les specs du stock specs_next.json (ancien format) doivent être RÉÉCRITS au format gen2 avant publication (écrans ChatGPT/WhatsApp, kind/msgs/stamp...). Exemples prêts: render_v2/ARE_v2_01.mp4 (@areiacurso, GUIA) et render_v2/AST_v2_01.mp4 (@astralix_servicos, ATENDENTE) -> à publier en premier (passage 13h du 02/11).
+
+## 2026-11-02 (02h35-02h50 BRT, passage nuit)
+- PUBLIÉ: rien (hors 13h/21h). Prochaine publication: 13h, render_v2/ARE_v2_01.mp4 (GUIA) et render_v2/AST_v2_01.mp4 (ATENDENTE).
+- MESURE: @areiacurso 30 abonnés / 34 posts ; Reels (récent->ancien) 47, 25, 53, 18, 9, 9, 17, 33 -> ARE_r04 passé de 14 à 47, ARE_r03 de 17 à 25 : portée qui remonte. @astralix_servicos 67 abonnés / 44 posts ; Reels 2, 4, 30, 4, 2, 34 -> AST_r06 2 vues, AST_r05 4 : toujours bridé.
+- CONVERTIR: DMs auto (réponses à nos commentaires) de maestroprompts, michella.ia, fabianocarvalhojr -> remerciés. ERREUR: le message pour Michela est d'abord parti chez Fabiano (liste réordonnée après envoi) -> excuse envoyée. RÈGLE: après chaque envoi, rouvrir la conversation via find() et non par coordonnées. Conta Azul = DM de bienvenue auto, pas de réponse. 0 pedido, 0 commentaire sur nos posts.
+- ALERTE @areiacurso: réponse à miqueias_aurelio (post inventormiguel) -> « Não foi possível postar o comentário ». => PAUSE commentaires @areiacurso 24h (pas avant 03/11 03h). Les DMs de réponse marchent encore.
+- CROISSANCE @astralix_servicos: 1 commentaire OK (contaazul DfNrBbOCeZk, juros 15% / % fixa do faturamento). Suivis: rdstation, sebraerj. À 2h30 très peu de posts <24h (sebraesp, stone, sebraerj, rdstation: aucun).
+- Leads/ventes: 0.
