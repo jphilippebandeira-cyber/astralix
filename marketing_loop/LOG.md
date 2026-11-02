@@ -98,3 +98,7 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - ATTENTION: l'API /api/v1/users/web_profile_info renvoie 429 -> NE PLUS l'utiliser (risque de limitation). Trouver les posts <24h via le fil ?variant=following (balise time) ou les profils.
 - @areiacurso: aucun commentaire de croissance (pause), aucun follow.
 - Leads/ventes: 0.
+## 2026-11-02 (passage LinkedIn + Gmail)
+- LINKEDIN: 1 post PT-BR (prompt ata de reunião, sans lien), 15 invitations sans note (aucun avertissement), 5 commentaires (Luiz H. Lobo, Leo Candido, Karen Abecia, Lucíola Coelho, Luciano Vasconcelos Filho). Aucun commentaire/message entrant. Détail: marketing_loop/linkedin.md.
+- GMAIL: 1 e-mail partenaire Astralixai (Catia Sintinella: questions site/planos, coûts, données, impôts + 8 propositions de logo) -> brouillon de réponse PT-BR créé (ne promet aucun chiffre; annonce doc écrit + appel démo).
+- À signaler: paiement Stripe ElevenLabs 10,17 € refusé à nouveau; vidIQ « aviso final » infos de facturation; code 2FA Hotmart reçu 01/11 20h17 UTC (vérifier que c'était bien JP).
