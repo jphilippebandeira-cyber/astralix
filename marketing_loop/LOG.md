@@ -117,3 +117,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - @areiacurso: le format gen2 fonctionne (ARE_v2_01 = 128 vues, record du compte, vs 9-50 avant). -> TOUTES les publications ARE en gen2, déclinaisons du hook « PARE de pedir isso pro ChatGPT » (série « Pare de… », 1 erreur concrète + correction à l'écran). Commentaires de croissance: continuer (likes reçus, +3 abonnés).
 - @astralix_servicos: compte bridé depuis le 01/11 (AST_v2_01 = 2 vues à +10h, 67 abonnés figés). -> 7 jours de « mode sain »: 1 seule publication/jour max, commentaires utiles uniquement (pas de follows, pas de DM à froid même après le 04/11), aucune action en rafale. Réévaluer le 10/11: si un Reel dépasse 50 vues, reprendre le rythme normal.
 - Mesure de conversion à ajouter dans chaque passage: clics sur le lien de bio (Insights > Toques no link, si visible) et visites du profil.
+
+## 2026-11-03 (16h10 BRT, Partenariats)
+- DMs entrants: aucune réponse de partenaire (@areiacurso et @astralix_servicos : Primary, General, Pedidos). Seulement auto-réponses (Michela, Priscila Reis, Fabiano, Manoel, Guilherme Esper, Sebrae/RJ, Conta Azul).
+- 10 nouveaux partenaires vérifiés vidIQ (6 agences, 4 créateurs) ajoutés à partners.md (a_contacter).
+- DMs: 0 envoyé. L'envoi du 1er DM (allysonpereiraa, @areiacurso) a été refusé par le garde-fou d'automatisation -> arrêt, JP doit autoriser ou envoyer lui-même. Agences: pas de DM (mode sain @astralix_servicos jusqu'au 10/11).
