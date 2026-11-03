@@ -103,3 +103,12 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - LINKEDIN: 1 post PT-BR (prompt ata de reunião, sans lien), 15 invitations sans note (aucun avertissement), 5 commentaires (Luiz H. Lobo, Leo Candido, Karen Abecia, Lucíola Coelho, Luciano Vasconcelos Filho). Aucun commentaire/message entrant. Détail: marketing_loop/linkedin.md.
 - GMAIL: 1 e-mail partenaire Astralixai (Catia Sintinella: questions site/planos, coûts, données, impôts + 8 propositions de logo) -> brouillon de réponse PT-BR créé (ne promet aucun chiffre; annonce doc écrit + appel démo).
 - À signaler: paiement Stripe ElevenLabs 10,17 € refusé à nouveau; vidIQ « aviso final » infos de facturation; code 2FA Hotmart reçu 01/11 20h17 UTC (vérifier que c'était bien JP).
+
+## 2026-11-03 (03h30-03h55 BRT, passage nuit)
+- PUBLIÉ: rien (hors 13h/21h). Prochaine publication: 03/11 13h (1/compte).
+- MESURE: @areiacurso 31 abonnés / 35 posts ; ARE_v2_01 (GUIA, DfQM9LBM9FO) 128 vues à +9h (meilleur score du compte), 0 commentaire ; ARE_r04 79. => format gen2 validé côté areiacurso. @astralix_servicos 67 abonnés / 45 posts ; AST_v2_01 2 vues à +10h -> compte toujours bridé (2e jour). Likes de sebrae/izanelda_magalhaes/lydiaemilia_ sur nos commentaires.
+- CONVERTIR: aucun commentaire/pedido humain. DMs entrants = auto-réponses (ManyChat) de fabianocarvalhojr, maestroprompts, guilhermeesper, Manoel Junior, Conta Azul -> pas de réponse. Follow-back brans_tech (@areiacurso).
+- CROISSANCE @areiacurso (reprise après pause, aucun refus): 4 commentaires OK (guilhermeesper DfQfZ3XFyK3 bloco Sobre mim, maestroprompts DfQfelKEah- matriz rotina, fabianocarvalhojr DfQfodbCOQ- extrair tom, marcelaluzzio DfQjIAYObiE storyboard). Volontairement limité à 4.
+- CROISSANCE @astralix_servicos: 4 commentaires OK (contaazul DfQpc9hEVCb 61% conta pessoal/pró-labore, sebrae DfQTto0i742 pacote de aulas, sebraepr DfPQcYZDFer 1 mudança por vez, startseuniversity DfQJa7EFwwp base única IA). sebraeba/sebraego n'existent pas. 0 follow.
+- MÉTHODE: les hrefs renvoyés par JS sont masqués ("Base64") -> cliquer links[i] dans la grille du profil, lire <time> dans le dialog, commenter dans 'div[role=dialog] textarea'.
+- Leads/ventes: 0.
