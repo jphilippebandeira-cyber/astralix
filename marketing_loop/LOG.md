@@ -133,3 +133,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Leads/ventes: 0.
 
 - 16h55: 2e déclenchement manuel (rattrapage 13h) reçu après coup -> passage déjà fait à 16h (carrousels c02 publiés, 15 commentaires). Aucune republication (max 2/jour, écart 5 h). Aucun nouvel entrant humain.
+
+## 2026-11-03 (passage LinkedIn + Gmail, 19h10 UTC)
+- LINKEDIN: 1 post PT-BR (prompt e-mail cliente irritado, AVEC lien are-ia.com), 15 invitations sans note (aucun avertissement), 4 commentaires (5e bloqué: « limite quotidienne de commentaires » -> arrêt). Aucun commentaire/message entrant. Détail: marketing_loop/linkedin.md.
+- GMAIL: aucun nouvel e-mail prospect/client/partenaire. Brouillon Catia (02/11) toujours en attente d'envoi par JP.
+- À signaler: Alerte sécurité Google 03/11 06h19 UTC: une app « Google and Youtube Channel » a reçu l'accès au compte Google -> vérifier que c'est bien JP (sinon révoquer dans myaccount.google.com/connections). vidIQ « aviso final » facturation toujours ouvert.
