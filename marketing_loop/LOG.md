@@ -131,3 +131,5 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - MÉTHODE FIABLE: fil ?variant=following -> lire t.closest('a').href des <article> (non masqués) -> naviguer vers /p/ID -> JS focus 'textarea' -> type -> Return -> vérifier texte présent. Les Reels du fil n'ont pas de champ commentaire inline.
 - Aucune erreur Instagram. DMs à froid toujours suspendus (essai possible à partir du 04/11).
 - Leads/ventes: 0.
+
+- 16h55: 2e déclenchement manuel (rattrapage 13h) reçu après coup -> passage déjà fait à 16h (carrousels c02 publiés, 15 commentaires). Aucune republication (max 2/jour, écart 5 h). Aucun nouvel entrant humain.
