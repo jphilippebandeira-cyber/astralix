@@ -112,3 +112,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - CROISSANCE @astralix_servicos: 4 commentaires OK (contaazul DfQpc9hEVCb 61% conta pessoal/pró-labore, sebrae DfQTto0i742 pacote de aulas, sebraepr DfPQcYZDFer 1 mudança por vez, startseuniversity DfQJa7EFwwp base única IA). sebraeba/sebraego n'existent pas. 0 follow.
 - MÉTHODE: les hrefs renvoyés par JS sont masqués ("Base64") -> cliquer links[i] dans la grille du profil, lire <time> dans le dialog, commenter dans 'div[role=dialog] textarea'.
 - Leads/ventes: 0.
+
+## DÉCISIONS STRATÉGIQUES (03/11 16h, analyse complète)
+- @areiacurso: le format gen2 fonctionne (ARE_v2_01 = 128 vues, record du compte, vs 9-50 avant). -> TOUTES les publications ARE en gen2, déclinaisons du hook « PARE de pedir isso pro ChatGPT » (série « Pare de… », 1 erreur concrète + correction à l'écran). Commentaires de croissance: continuer (likes reçus, +3 abonnés).
+- @astralix_servicos: compte bridé depuis le 01/11 (AST_v2_01 = 2 vues à +10h, 67 abonnés figés). -> 7 jours de « mode sain »: 1 seule publication/jour max, commentaires utiles uniquement (pas de follows, pas de DM à froid même après le 04/11), aucune action en rafale. Réévaluer le 10/11: si un Reel dépasse 50 vues, reprendre le rythme normal.
+- Mesure de conversion à ajouter dans chaque passage: clics sur le lien de bio (Insights > Toques no link, si visible) et visites du profil.
