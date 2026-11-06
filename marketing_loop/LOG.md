@@ -168,3 +168,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 ## 2026-11-06 (~04h UTC, passage LinkedIn + Gmail, créneau 05/11 déclenché en retard)
 - LINKEDIN: 1 post PT-BR (prompt fórmula Excel, SANS lien), 15 invitations sans note (aucun avertissement), 1 commentaire (2e bloqué: « limite quotidienne de commentaires » -> arrêt). Aucun commentaire/message entrant. Détail: linkedin.md.
 - GMAIL (03-06/11): aucun prospect/client/partenaire/affilié -> aucun brouillon. À signaler: Google « nouvelle connexion iPhone » 04/11 20h11 UTC + 2e autorisation « Google and Youtube Channel » 03/11 21h51 UTC + connexion Google à TemLance 04/11 -> vérifier myaccount.google.com/connections. Code 2FA Hotmart demandé 06/11 03h41 UTC (normal si JP se connectait). Revolut ferme les comptes crypto BR le 25/11 (vendre avant le 24/11). Mercado Bitcoin: incident de sécurité, retour progressif le 09/11.
+## 2026-11-06 01h05 BRT — Hotmart VÉRIFIÉ (Chrome de JP, session ouverte) + TikTok
+- Hotmart connecté. 3 produits : 8655898 (areIA FR, ancien, EUR 49,99), 8659404 (60 prompts), 8655836 « Domine a IA... » (offre Combo Essencial BRL R$149,00, ebook PT-BR actuel).
+- Programme d'affiliés du 8655836 DÉJÀ ACTIF et complet : affiliation 1 clic, commission 30 %, attribution éternelle, visible au marché, 20 tags SEO, texte de recrutement conforme (sans promesse de gain). 0 affilié actif, 0 vente, 0 clic sur 7 jours. => le levier n'est plus la config mais le recrutement de promoteurs / trafic.
+- TikTok Studio (Chrome) connecté sur le compte Astralix : 6 anciennes vidéos (sept.), 91-170 vues, lien Replit obsolète. App TikTok PWA non ouverte (aucune fenêtre).
+- Écran 2 (Retina) vide ; Chrome sur l'écran TYPEC.
