@@ -173,3 +173,4 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Programme d'affiliés du 8655836 DÉJÀ ACTIF et complet : affiliation 1 clic, commission 30 %, attribution éternelle, visible au marché, 20 tags SEO, texte de recrutement conforme (sans promesse de gain). 0 affilié actif, 0 vente, 0 clic sur 7 jours. => le levier n'est plus la config mais le recrutement de promoteurs / trafic.
 - TikTok Studio (Chrome) connecté sur le compte Astralix : 6 anciennes vidéos (sept.), 91-170 vues, lien Replit obsolète. App TikTok PWA non ouverte (aucune fenêtre).
 - Écran 2 (Retina) vide ; Chrome sur l'écran TYPEC.
+- 01h08 : TikTok nexoaiii programmé 09h30 via Metricool (id 418509117) : POV dono de clínica (CTA ATENDENTE, voix, isAigc). Téléchargements Chrome -> ~/Downloads ne passent plus après le 1er (voie Chrome/IG = 1 fichier à la fois, ré-essayer ; sinon Metricool pour Astralix).
