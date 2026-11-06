@@ -174,3 +174,9 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - TikTok Studio (Chrome) connecté sur le compte Astralix : 6 anciennes vidéos (sept.), 91-170 vues, lien Replit obsolète. App TikTok PWA non ouverte (aucune fenêtre).
 - Écran 2 (Retina) vide ; Chrome sur l'écran TYPEC.
 - 01h08 : TikTok nexoaiii programmé 09h30 via Metricool (id 418509117) : POV dono de clínica (CTA ATENDENTE, voix, isAigc). Téléchargements Chrome -> ~/Downloads ne passent plus après le 1er (voie Chrome/IG = 1 fichier à la fois, ré-essayer ; sinon Metricool pour Astralix).
+
+## 2026-11-06 02h30 BRT — Entonnoir ARE-IA corrigé SANS Replit
+- Checkout d'are-ia.com exige un compte -> remplacé comme lien d'achat par le checkout Hotmart (vérifié dans Chrome) : https://pay.hotmart.com/H107884362C?off=bb7j0mje&sck=ig_dm . R$149,00, Pix/carte/boleto/PayPal, sans compte (e-mail, nom, CPF, tél.). Offre Combo Essencial BRL.
+- Mesure : Reel ARE « PARE de pedir » = 2 vues à +1h30 ; anciens Reels @areiacurso 4-135 vues (34 abonnés). Réseau d'abonnés trop petit : le trafic doit venir des commentaires sur gros comptes (likes/réponses de sebrae, sebraerj, contaazul, VES obtenus) + Hotmart marché.
+- VES | Consultoria de Trainee e Estágio a répondu en auto à notre commentaire : cible/partenaire idéale ARE-IA (trainee).
+- Prompt de la boucle v3 mis à jour (route Chrome, lien Hotmart, priorité commentaires).
