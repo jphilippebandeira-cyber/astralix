@@ -154,3 +154,9 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Instagram connecté sur @astralix_servicos (pas @areiacurso : bascule = mot de passe, interdit). Hotmart : page de login, non connecté -> point 3 reste bloqué (JP doit se connecter lui-même).
 - Inbox : 0 vrai prospect. 2 non lus = réponses automatiques (Sebrae/RJ, Conta Azul) à nos commentaires. DM froids du 01/11 : 0 réponse.
 - Notifications : les commentaires de croissance fonctionnent comme visibilité : likes de @sebrae, @sebrae.delas, @ricardomantovaniassis ..., réponse publique de @sebraerj ("Que dica valiosa, @astralix_servicos"), @contaazur réponse. => continuer les commentaires ciblés acheteurs (8/passage, sans lien).
+
+## 2026-11-06 00h58 BRT — @areiacurso accessible (comptes mémorisés Instagram via « Trocar »)
+- Lead réel : @renatavieiramenez (entrepreneure, 1,3K abonnés) a commenté Guia/Guia/Prompt/Lista -> DM envoyé avec are-ia.com/amostra?utm_source=ig&utm_medium=dm + question qualifiante. A suivre.
+- @areiacurso : inbox = surtout des partages de créateurs IA (non acheteurs) ; Higgsfield (auto).
+- PUBLIÉ @areiacurso : Reel voix+motion « PARE de pedir melhore esse texto » (CTA GUIA, étiquette IA). Route documentée dans PIPELINE_SANS_VISAGE.md.
+- TikTok Studio connecté dans Chrome. Hotmart : déconnecté (pas de mot de passe saisi).

@@ -14,3 +14,12 @@ Résultat du test: Reel AST « POV salão 23h » 23 s, voix PT-BR + animations +
 - Pas d'écran réel avec ce pipeline: pour les formats « preuve à l'écran », prendre de vraies captures via Chrome (astralixai.com démo-chat, ChatGPT) puis les ajouter comme scènes image dans compose (il faut une URL HTTPS publique).
 - Réponse aux commentaires/DM: manuelle (Chrome) tant qu'aucun automate n'est branché.
 - Le visuel du 1er test n'a pas pu être relu image par image: toujours ouvrir le rendu (vidiq_get_images ne lit pas les vidéos) ou le vérifier dans Metricool avant l'heure de publication.
+
+## ROUTE VALIDÉE 06/11 00h55 : publier @areiacurso (sans Metricool) via Chrome
+1. vidIQ : voiceover -> 4x motion_graphics -> compose (poll job_poll).
+2. Chrome (onglet MCP) : navigate vers le videoUrl S3 ; javascript_tool : `const r=await fetch(location.href);const b=await r.blob();a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='nom.mp4';document.body.appendChild(a);a.click()` -> Chrome laisse le fichier complet sous `~/Downloads/.com.google.Chrome.XXXX` (nom temporaire).
+3. device_bash : `cd $HOME/mnt/Downloads && cp .com.google.Chrome.* nom.mp4` (prendre le plus récent).
+4. device_stage_files(/Users/jeanphi3010/Downloads/nom.mp4) -> /mnt/user-data/uploads/Downloads/nom.mp4.
+5. Instagram (basculer de compte : lien « Trocar » en haut à droite de l'accueil ; @areiacurso, @astralix_servicos et onix_glass sont mémorisés, aucun mot de passe) : Criar > Postar > find « file input » > file_upload(chemin /mnt/user-data/uploads/...) > cadre 9:16 > Avançar x2 > légende (mot-clé en 1re ligne) > rótulo de IA ON > Compartilhar (~30 s).
+Aucun upload via /Users/... : refusé. TikTok Studio (tiktok.com/tiktokstudio/upload) est connecté dans ce Chrome : même méthode.
+Premier Reel ARE-IA publié : « PARE de pedir melhore esse texto » (CTA GUIA), 06/11 ~00h58.
