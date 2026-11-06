@@ -149,3 +149,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - JP refuse de se montrer: production 100% connecteurs. PIPELINE_SANS_VISAGE.md créé et TESTÉ: voix PT-BR (vidIQ/ElevenLabs) + motion graphics + compose -> Metricool.
 - PROGRAMMÉS: Reel AST « POV salão 23h » -> Instagram @astralix_servicos 06/11 08h05 (Metricool id 418496373) et TikTok nexoaiii 06/11 12h30 (id 418496460). CTA mot-clé ATENDENTE.
 - À FAIRE par la boucle: répondre aux commentaires ATENDENTE (Chrome), envoyer astralixai.com?utm_source=ig&utm_medium=dm, mesurer à +1 h/+24 h via Metricool.
+
+## 2026-11-06 00h50 BRT — Chrome VÉRIFIÉ connecté (Claude in Chrome, 1 navigateur macOS)
+- Instagram connecté sur @astralix_servicos (pas @areiacurso : bascule = mot de passe, interdit). Hotmart : page de login, non connecté -> point 3 reste bloqué (JP doit se connecter lui-même).
+- Inbox : 0 vrai prospect. 2 non lus = réponses automatiques (Sebrae/RJ, Conta Azul) à nos commentaires. DM froids du 01/11 : 0 réponse.
+- Notifications : les commentaires de croissance fonctionnent comme visibilité : likes de @sebrae, @sebrae.delas, @ricardomantovaniassis ..., réponse publique de @sebraerj ("Que dica valiosa, @astralix_servicos"), @contaazur réponse. => continuer les commentaires ciblés acheteurs (8/passage, sans lien).
