@@ -144,3 +144,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - ÉTUDE VIRALE: voir VIRAL_PLAYBOOK.md (outliers BR <100K abonnés à 200K-2,7M vues). Cause principale de nos 100 vues : pas de voix/visage, écrans simulés, CTA tardif, sujets génériques, audience visée = créateurs d'IA.
 - FUNNEL vérifié dans le navigateur de l'app: are-ia.com OK (Essencial R$149,99 PIX, Novo Mundo R$249,99 PIX ; pas de prix carte) MAIS checkout/essencial exige de créer un compte (e-mail+mot de passe) avant de payer = fuite majeure. astralixai.com: démo-chat présente sur la home, pas d'essai gratuit, inscription obligatoire (téléphone+mot de passe) avant le plan à R$299,90.
 - HOTMART/Claude in Chrome: extension Chrome non connectée cette nuit (Mac réveillé, Chrome pas relié) -> point 3 en attente.
+
+## 2026-11-06 (00h-01h BRT, pipeline sans visage)
+- JP refuse de se montrer: production 100% connecteurs. PIPELINE_SANS_VISAGE.md créé et TESTÉ: voix PT-BR (vidIQ/ElevenLabs) + motion graphics + compose -> Metricool.
+- PROGRAMMÉS: Reel AST « POV salão 23h » -> Instagram @astralix_servicos 06/11 08h05 (Metricool id 418496373) et TikTok nexoaiii 06/11 12h30 (id 418496460). CTA mot-clé ATENDENTE.
+- À FAIRE par la boucle: répondre aux commentaires ATENDENTE (Chrome), envoyer astralixai.com?utm_source=ig&utm_medium=dm, mesurer à +1 h/+24 h via Metricool.
