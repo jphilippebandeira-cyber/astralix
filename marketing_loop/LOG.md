@@ -138,3 +138,9 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - LINKEDIN: 1 post PT-BR (prompt e-mail cliente irritado, AVEC lien are-ia.com), 15 invitations sans note (aucun avertissement), 4 commentaires (5e bloqué: « limite quotidienne de commentaires » -> arrêt). Aucun commentaire/message entrant. Détail: marketing_loop/linkedin.md.
 - GMAIL: aucun nouvel e-mail prospect/client/partenaire. Brouillon Catia (02/11) toujours en attente d'envoi par JP.
 - À signaler: Alerte sécurité Google 03/11 06h19 UTC: une app « Google and Youtube Channel » a reçu l'accès au compte Google -> vérifier que c'est bien JP (sinon révoquer dans myaccount.google.com/connections). vidIQ « aviso final » facturation toujours ouvert.
+
+## 2026-11-06 (00h-00h45 BRT, audit + étude de marché demandés par JP)
+- TOUTES les boucles planifiées sont en PAUSE (5/5 enabled:false). Boucle principale réécrite en v3 (prompt dans le trigger), reste désactivée tant que JP n'a pas donné le go ET que Chrome n'est pas connecté.
+- ÉTUDE VIRALE: voir VIRAL_PLAYBOOK.md (outliers BR <100K abonnés à 200K-2,7M vues). Cause principale de nos 100 vues : pas de voix/visage, écrans simulés, CTA tardif, sujets génériques, audience visée = créateurs d'IA.
+- FUNNEL vérifié dans le navigateur de l'app: are-ia.com OK (Essencial R$149,99 PIX, Novo Mundo R$249,99 PIX ; pas de prix carte) MAIS checkout/essencial exige de créer un compte (e-mail+mot de passe) avant de payer = fuite majeure. astralixai.com: démo-chat présente sur la home, pas d'essai gratuit, inscription obligatoire (téléphone+mot de passe) avant le plan à R$299,90.
+- HOTMART/Claude in Chrome: extension Chrome non connectée cette nuit (Mac réveillé, Chrome pas relié) -> point 3 en attente.
