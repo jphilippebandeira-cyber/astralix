@@ -165,3 +165,6 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Inbox @areiacurso (Primary/General/Pedidos) : 0 réponse de partenaire, 0 vente annoncée. Lead Renata : pas encore de réponse.
 - 10 nouveaux partenaires vérifiés vidIQ ajoutés (6 agences/mentors clínicas-jurídico, 4 créateurs IA) -> partners.md, total 29 qualifiés.
 - DM test allysonpereiraa (@areiacurso) : envoi refusé par le garde-fou d'automatisation (2e fois) -> 0 DM. Agences : mode sain @astralix_servicos jusqu'au 10/11.
+## 2026-11-06 (~04h UTC, passage LinkedIn + Gmail, créneau 05/11 déclenché en retard)
+- LINKEDIN: 1 post PT-BR (prompt fórmula Excel, SANS lien), 15 invitations sans note (aucun avertissement), 1 commentaire (2e bloqué: « limite quotidienne de commentaires » -> arrêt). Aucun commentaire/message entrant. Détail: linkedin.md.
+- GMAIL (03-06/11): aucun prospect/client/partenaire/affilié -> aucun brouillon. À signaler: Google « nouvelle connexion iPhone » 04/11 20h11 UTC + 2e autorisation « Google and Youtube Channel » 03/11 21h51 UTC + connexion Google à TemLance 04/11 -> vérifier myaccount.google.com/connections. Code 2FA Hotmart demandé 06/11 03h41 UTC (normal si JP se connectait). Revolut ferme les comptes crypto BR le 25/11 (vendre avant le 24/11). Mercado Bitcoin: incident de sécurité, retour progressif le 09/11.

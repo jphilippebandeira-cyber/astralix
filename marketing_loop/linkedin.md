@@ -6,7 +6,8 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - 01/11: méthode des 5 étapes (contexto, pesquisa, rascunho, revisão, formato) — AVEC lien
 - antérieurs: 4 partes do prompt (contexto/papel/tarefa/formato); o que nunca colar numa IA (LGPD); voz clonada 3 sinais; teste antigolpe 8 mensagens; Pix por engano/devolver; checklist plantão saúde; IA não é mágica é método; 26,5 % formés (Serasa 2026); appel afiliados 30 % Hotmart; + posts FR
 - 02/11: prompt de ata de reunião (4 blocos + [A DEFINIR] + e-mail de follow-up) — SANS lien
-- 03/11: prompt e-mail de cliente irritado (3 passos + [CONFIRMAR] + LGPD) — AVEC lien amostra grátis (prochain post: sans lien)
+- 03/11: prompt e-mail de cliente irritado (3 passos + [CONFIRMAR] + LGPD) — AVEC lien amostra grátis
+- 06/11: prompt fórmula Excel (descrever colunas, SOMASES x SUMIFS, testar em 3 linhas, colar o erro) — SANS lien (prochain post: AVEC lien)
 
 ## Astuces techniques
 - Composer et commentaires = éditeur tiptap/ProseMirror. La frappe `type` ne marche pas: coller via JS (ClipboardEvent paste, text/html avec <p> par ligne et <p><br></p> pour les lignes vides). Pour vider: cmd+a puis Delete (Mac).
@@ -29,3 +30,12 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - ALERTE: limite quotidienne de commentaires atteinte (compte jeune). Prochain passage: max 3 commentaires, espacés.
 - Mots-clés utilisés: + gerente de agência IA; coordenador financeiro IA; RH treinamento e desenvolvimento IA; gestor de equipe ChatGPT. Prochaine fois: gerente PJ banco, analista de crédito, professor universitário IA, supervisor administrativo.
 - Astuce: innerText des boutons = zero-width space -> utiliser aria-label. Commenter: find() le bouton Commenter du post, clic, puis coller dans document.activeElement et cliquer le bouton « Commenter » le plus proche.
+
+## 2026-11-06 (passage planifié, ~04h UTC — déclenché en retard, créneau du 05/11)
+- POST: prompt fórmula Excel (descrever colunas sem colar dados/LGPD, idioma SOMASES x SUMIFS e separador, testar em 3 linhas, colar mensagem de erro), SANS lien. Publié (toast « Le post a bien été publié »).
+- Entrant: aucun commentaire, aucun message (seul LinkedIn Team). Post ata 02/11: 140 impressions; profil vu 314 fois cette semaine.
+- INVITATIONS (15, sans note, aucun avertissement; vérifié dans « Envoyées »): gerente PJ banco IA (Wellington A., Welton Ronald S. Jr, Enrico C.), analista de crédito IA (Silas Alves, Raphaela Paturalski, Daniel Moreti, Lucas Fugimura), professor universitário administração IA (Ailton Santos, Nanachara Sperb, Patrícia Sena, Bruno Aguilar da Cunha), supervisor administrativo ChatGPT (Giovanna Ciancio, Huber Mendes, Leticia Donici), assistente de gerência banco IA (Alicia Barbosa).
+- COMMENTAIRES: 1/5 — Felipe Barroso (IAGen + portfolio: « quais competências isso comprova e qual evidência falta? »). 2e (Diego Mendonca) REFUSÉ: « limite quotidienne de commentaires » -> ARRÊT.
+- ALERTE: limite de commentaires atteinte dès le 2e commentaire (fenêtre glissante probable). Prochain passage: max 2 commentaires, et seulement si > 24 h depuis le dernier (06/11 ~04h UTC).
+- Mots-clés utilisés: + gerente PJ banco IA; analista de crédito IA; professor universitário administração IA; supervisor administrativo ChatGPT; assistente de gerência banco IA. Prochaine fois: analista de investimentos, gerente comercial, recrutador, controller, estudante de economia.
+- Astuce: la fonction JS d'invitation (aria-label « Inviter… » + bouton « Envoyer sans note » dans les shadowRoots) doit être redéfinie après chaque navigation.
