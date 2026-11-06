@@ -21,7 +21,14 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 | vitoroliveiraconsultor | 2026-11-03 | a_contacter | « Comercial para Médicos », +400 clínicas (20,6k, vérifié) | 0 | R$0 |
 | ceciliamkt2026 | 2026-11-03 | a_contacter | Google Ads + GMN pour négocios locais, tuto « anúncio no Perfil da Empresa » (4,8k) | 0 | R$0 |
 | eurafamaya | 2026-11-03 | a_contacter | marketing/vendas en réseaux pour petits négocios, 1,4k posts (22k) | 0 | R$0 |
+| camiladourado.mkt | 2026-11-06 | a_contacter | « Marketing e Vendas para Clínicas », marketing pour doutoras, @sunshine.aceleradora (9,6k) | 0 | R$0 |
+| deboracskrobot | 2026-11-06 | a_contacter | mentora de clínicas, « +70 clínicas mentoradas », Método Patrimônio Lucrativo (5,1k, vérifiée) | 0 | R$0 |
+| eusoukarinacosta | 2026-11-06 | a_contacter | mentora de esteticistas, « digital como canal de aquisição de pacientes » (15,4k) | 0 | R$0 |
+| marketing.juridico.ap | 2026-11-06 | a_contacter | Ana Paula, marketing jurídico « com estratégia, IA e ética », outil Mkt Jurídico IA (46,5k, vérifiée) | 0 | R$0 |
+| leidereiss | 2026-11-06 | a_contacter | posicionamento + tráfego pago, « empresários invisíveis → autoridade » (8,4k) | 0 | R$0 |
+| cortex.vr | 2026-11-06 | a_contacter | Lucas, videomaker « marketing inteligente » pour empresas, Itapeva-SP (2,3k) | 0 | R$0 |
 
+Écartés 06/11 : o.brunosoares (vend sa propre formation IA), sofiacnario (design), connecton.tech (réparation PC), amandabortoletti (lifestyle).
 Écartés : vinicius.iat (vend son propre curso IAT), samuellorenzettii (perfil/vendas, pas IA), dionelbogorni (vend son propre app d'agenda = concurrent), geronimo.actis (hispanophone, Argentine), claudiateston (branding, pas tráfego).
 
 ## Ebook ARE-IA (micro-créateurs IA / produtividade) — DM depuis @areiacurso
@@ -36,6 +43,10 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 | decifrandoia | 2026-11-03 | a_contacter | Bárbara Araújo, « IA aplicada ao trabalho e aos negócios », reel prompt algoritmo Instagram ~830k (24,9k, vérifiée) | 0 | R$0 |
 | dayann.ia | 2026-11-03 | a_contacter | « IA na prática », reel ChatGPT melhorar fotos ~950k ; vend un pack de comandos R$19,90 (47k) | 0 | R$0 |
 | olopeszz.ia | 2026-11-03 | a_contacter | reel « 4 comandos de IA pra fotos » ~820k vues avec 3k abonnés ; biblioteca Ritmo30 (3k, vérifié) | 0 | R$0 |
+| eric.novomomento | 2026-11-06 | a_contacter | « Te ensino a editar os seus vídeos com IA », reel ~1,7M vues (8,8k, vérifié) | 0 | R$0 |
+| tonyareda | 2026-11-06 | a_contacter | « Prompting a better world with IA », reel « Alfred » ~1,5M vues, TikTok 400k (26,2k, vérifié) | 0 | R$0 |
+| mariidicas_ | 2026-11-06 | a_contacter | « Te ajudo a conseguir seu próximo emprego com IA », reel ~1,8M vues (13,6k) | 0 | R$0 |
+| renanvalentefinancas | 2026-11-06 | a_contacter | CFP, mestrado em IA (Flórida), série « Dinheiro com IA » (13k, vérifié) | 0 | R$0 |
 
 ## Déjà contactés AVANT ce registre (ne jamais recontacter à froid)
 
@@ -50,7 +61,9 @@ Agence (@astralix_servicos) : « Oi <nome>! <observation vraie>. Sou da Astralix
 - 2026-11-03 : 1er DM (allysonpereiraa) tapé mais l'envoi a été refusé par le garde-fou d'automatisation (« Real-World Transactions ») -> AUCUN DM envoyé. Il faut que JP autorise l'envoi de DMs par l'automatisation, ou les envoie lui-même avec les textes ci-dessus. Le widget DM affichait aussi « No internet connection » (socket IG).
 - @astralix_servicos en « mode sain » jusqu'au 10/11 (décision 03/11) -> pas de DM à froid aux agences avant cette date, même si l'envoi est débloqué.
 
+- 2026-11-06 : 2e essai (allysonpereiraa depuis @areiacurso, profil > Enviar mensagem > texte tapé) -> Entrée refusée à nouveau par le garde-fou (« Real-World Transactions »). Brouillon effacé. AUCUN DM envoyé. Inbox @areiacurso : 0 réponse partenaire (Primary/General/Pedidos).
+
 ## Totaux
-- Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 19 (11 agences, 8 créateurs) · DMs envoyés : 0
+- Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 29 (17 agences, 12 créateurs) · DMs envoyés : 0
 - Clients Astralixai apportés : 0 · Ventes ebook apportées : 0
 - Commission due : R$0

@@ -160,3 +160,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - @areiacurso : inbox = surtout des partages de créateurs IA (non acheteurs) ; Higgsfield (auto).
 - PUBLIÉ @areiacurso : Reel voix+motion « PARE de pedir melhore esse texto » (CTA GUIA, étiquette IA). Route documentée dans PIPELINE_SANS_VISAGE.md.
 - TikTok Studio connecté dans Chrome. Hotmart : déconnecté (pas de mot de passe saisi).
+
+## 2026-11-06 (passage Partenariats, ~01h BRT)
+- Inbox @areiacurso (Primary/General/Pedidos) : 0 réponse de partenaire, 0 vente annoncée. Lead Renata : pas encore de réponse.
+- 10 nouveaux partenaires vérifiés vidIQ ajoutés (6 agences/mentors clínicas-jurídico, 4 créateurs IA) -> partners.md, total 29 qualifiés.
+- DM test allysonpereiraa (@areiacurso) : envoi refusé par le garde-fou d'automatisation (2e fois) -> 0 DM. Agences : mode sain @astralix_servicos jusqu'au 10/11.
