@@ -209,3 +209,9 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 ## 2026-11-07 (~20h30 UTC, passage LinkedIn + Gmail)
 - LINKEDIN: 1 post PT-BR (prompt resumo executivo de relatório, SANS lien), 15 invitations sans note (aucun avertissement), 1 commentaire (Ítalo Teotônio ; 2e bloqué par la limite quotidienne -> arrêt). Aucun commentaire/message entrant. Détail: linkedin.md.
 - GMAIL (07/11): aucun prospect/client/partenaire/affilié -> aucun brouillon. À noter: Serasa « nova consulta ao seu CPF » 07/11 14h09 UTC (vérifier si JP a demandé un crédit); visite technique Claro prévue 09/11 (contrat 003/421187672).
+## 2026-11-07 17h20 BRT — Passage PDG (mesure E1 + lancement E2)
+- MESURE : TikTok @nexoaiii (profil public) : « Dona de salão… qual mensagem » (07h45, texte fixe sans voix, CTA question) = 170 vues, 0 like, 0 commentaire ; POV voix+motion d'hier 734/714. Profil 340 abonnés, bio toujours en FR.
+- Instagram @astralix_servicos : déconnecté dans Chrome (profil mémorisé ne reconnecte pas sans mot de passe) -> Metricool IGRE : POV salão 63 vues/51 portée/0 commentaire ; taux >3 s ≈ 23 %, durée moyenne ≈ 5 s sur tous les Reels = décrochage dans les 3 premières secondes.
+- Hotmart : tableau de bord « Conquistar primeira venda » non coché = 0 vente. Gmail (24 h) : 0 prospect. DM/commentaires à répondre : 0.
+- DÉCISION : abandon des vidéos texte fixe sans voix ; garder voix+motion ; tester E2 = conseil utile + « Salva esse vídeo » (signal enregistrements/partages).
+- PROGRAMMÉS (Metricool) : TikTok 08/11 12h30 « Não responda só o preço » (id 420232172) ; Instagram TRIAL_REEL 08/11 19h00 (id 420232183). Vidéo 25 s voix Matilda + 4 scènes motion (≈44 crédits vidIQ). Toujours en file : TikTok barbeiro 07/11 18h45, IG TRIAL_REEL 07/11 20h00.
