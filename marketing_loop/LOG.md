@@ -206,3 +206,6 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 ## 2026-11-07 20h20 UTC — Partenariats
 - Instagram toujours DÉCONNECTÉ dans Chrome (login exige le mot de passe de JP) -> inbox illisible, 0 DM, 0 kit.
 - +10 partenaires vérifiés vidIQ : 6 gestores/marketing negócios locais (joaogregorioads, guilherme.trafegoads, macielsilvamkt, deboramayraoficial, beatrizbmkt, emilykoch.mkt) + 4 créateurs IA/produtividade (nathcfalcao, bah_dicas03, sougiovane, iisaacqueiroz) -> 49 qualifiés. Actifs 0, commission due R$0.
+## 2026-11-07 (~20h30 UTC, passage LinkedIn + Gmail)
+- LINKEDIN: 1 post PT-BR (prompt resumo executivo de relatório, SANS lien), 15 invitations sans note (aucun avertissement), 1 commentaire (Ítalo Teotônio ; 2e bloqué par la limite quotidienne -> arrêt). Aucun commentaire/message entrant. Détail: linkedin.md.
+- GMAIL (07/11): aucun prospect/client/partenaire/affilié -> aucun brouillon. À noter: Serasa « nova consulta ao seu CPF » 07/11 14h09 UTC (vérifier si JP a demandé un crédit); visite technique Claro prévue 09/11 (contrat 003/421187672).

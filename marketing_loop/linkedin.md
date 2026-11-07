@@ -8,7 +8,8 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - 02/11: prompt de ata de reunião (4 blocos + [A DEFINIR] + e-mail de follow-up) — SANS lien
 - 03/11: prompt e-mail de cliente irritado (3 passos + [CONFIRMAR] + LGPD) — AVEC lien amostra grátis
 - 06/11: prompt fórmula Excel (descrever colunas, SOMASES x SUMIFS, testar em 3 linhas, colar o erro) — SANS lien
-- 07/11: prompt preparar conversa de feedback difícil (fatos x interpretações, roteiro, 3 reações prováveis, [EXEMPLO?], LGPD) — AVEC lien amostra grátis (prochain post: SANS lien)
+- 07/11: prompt preparar conversa de feedback difícil (fatos x interpretações, roteiro, 3 reações prováveis, [EXEMPLO?], LGPD) — AVEC lien amostra grátis
+- 07/11 (20h UTC): prompt resumo executivo de relatório longo (5 linhas, 3 números com origem, o que o relatório não responde, [VERIFICAR], LGPD) — SANS lien (prochain post: AVEC lien)
 
 ## Astuces techniques
 - Composer et commentaires = éditeur tiptap/ProseMirror. La frappe `type` ne marche pas: coller via JS (ClipboardEvent paste, text/html avec <p> par ligne et <p><br></p> pour les lignes vides). Pour vider: cmd+a puis Delete (Mac).
@@ -48,3 +49,11 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - COMMENTAIRES: 0 — volontairement sautés: < 24 h depuis le dernier (06/11 ~04h UTC) et limite quotidienne atteinte 2 passages de suite. Prochain passage (>24 h): max 2 commentaires espacés.
 - Mots-clés utilisés: + recrutador IA; analista de investimentos IA; gerente comercial ChatGPT; estudante de economia IA. Prochaine fois: controller, coordenador de RH, gerente de operações, professor de ensino técnico, analista de compliance.
 - Astuce: fonction JS inviteN(n) (clic « Inviter… » + « Envoyer sans note » en shadow DOM + détection d'avertissement) à redéfinir après chaque navigation; 4 invitations par mot-clé.
+
+## 2026-11-07 (passage planifié, ~20h30 UTC)
+- POST: prompt resumo executivo de relatório longo (3 parties, origine des chiffres, [VERIFICAR], LGPD/versão corporativa), SANS lien. Toast « Le post a bien été publié ».
+- Entrant: aucun commentaire sur nos posts, aucun message (seuls InMail sponsorisé CX Leaders + LinkedIn Team). Impressions: feedback 07/11 = 12, Excel 06/11 = 14, e-mail cliente 03/11 = 34. 17 vues du profil.
+- INVITATIONS (15, sans note, aucun avertissement): controller IA (Gabrielle Lyra — 1 seul résultat), coordenador de RH inteligência artificial (Monique Anazário, Derek da Cruz Silva, Julia D., Arnaldo Soares), gerente de operações IA (Alex Lopes, Barbara Santiago, Bruno Alves, Bianca Villani Petrosink Aguirre), analista de compliance IA (Rafael Augusto Silva Lanaro, Bianca Dias Ferreira, Solange Schmidt, Eliel Souza), professor ensino técnico inteligência artificial (Mario Augusto Ferrari, Laís Ribeiro).
+- COMMENTAIRES: 1 — Ítalo Teotônio (« Em 2027 quem não sabe IA está de fora »: dado 91 % Korn Ferry + praticar numa tarefa repetitiva + saber conferir). 2e (Maxsuel Fernando, prompt plano de estudos) REFUSÉ: « limite quotidienne de commentaires » -> ARRÊT.
+- CONSTAT: la limite tombe au 2e commentaire même après > 40 h. Le compte semble plafonné à ~1 commentaire/jour -> prochain passage: 1 seul commentaire, le plus qualitatif.
+- Mots-clés utilisés: + controller IA (peu de résultats); coordenador de RH inteligência artificial; gerente de operações IA; analista de compliance IA; professor ensino técnico inteligência artificial. Prochaine fois: analista financeiro IA, gerente de projetos IA, secretária executiva IA, estudante de contabilidade IA, consultor de RH ChatGPT.
