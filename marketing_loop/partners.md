@@ -27,7 +27,14 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 | marketing.juridico.ap | 2026-11-06 | a_contacter | Ana Paula, marketing jurídico « com estratégia, IA e ética », outil Mkt Jurídico IA (46,5k, vérifiée) | 0 | R$0 |
 | leidereiss | 2026-11-06 | a_contacter | posicionamento + tráfego pago, « empresários invisíveis → autoridade » (8,4k) | 0 | R$0 |
 | cortex.vr | 2026-11-06 | a_contacter | Lucas, videomaker « marketing inteligente » pour empresas, Itapeva-SP (2,3k) | 0 | R$0 |
+| italoalbuquerque_ | 2026-11-07 | a_contacter | tráfego pago & vendas, @assessoriameios + @assessoriameiosmedic (clínicas), « +800 empresas aceleradas » (18,3k, vérifié) | 0 | R$0 |
+| barbaragmello | 2026-11-07 | a_contacter | mentora de médicos e donos de clínica, CEO @rlbcliniqueleblon, reel script atendimento da secretária (16,5k, vérifiée) | 0 | R$0 |
+| saracbessa | 2026-11-07 | a_contacter | marketing médico, agência @sbagencia.mktmedico, Método MED (5k, vérifiée) | 0 | R$0 |
+| giulianemendes | 2026-11-07 | a_contacter | estrategista de marketing médico desde 2019, reel « 7 ideias de conteúdo » p/ saúde (2,5k, vérifiée) | 0 | R$0 |
+| ramonnfabro | 2026-11-07 | a_contacter | mentor de advogados, 23 anos, « +6.300 processos », dicas diárias (4,8k, vérifié) | 0 | R$0 |
+| celiamendoncabr | 2026-11-07 | a_contacter | « IA na prática para negócios », ex-diretora mkt Starbucks/Sephora, marketing+IA p/ vender mais (13,3k) | 0 | R$0 |
 
+Écartés 07/11 : oficial_rafaellopes (barbeiro, pas agence), agencia.vrtx (vend ses propres agents IA = concurrent), oraculo.ads (e-commerce), andreonedatacrazy (éditeur CRM).
 Écartés 06/11 : o.brunosoares (vend sa propre formation IA), sofiacnario (design), connecton.tech (réparation PC), amandabortoletti (lifestyle).
 Écartés : vinicius.iat (vend son propre curso IAT), samuellorenzettii (perfil/vendas, pas IA), dionelbogorni (vend son propre app d'agenda = concurrent), geronimo.actis (hispanophone, Argentine), claudiateston (branding, pas tráfego).
 
@@ -47,6 +54,11 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 | tonyareda | 2026-11-06 | a_contacter | « Prompting a better world with IA », reel « Alfred » ~1,5M vues, TikTok 400k (26,2k, vérifié) | 0 | R$0 |
 | mariidicas_ | 2026-11-06 | a_contacter | « Te ajudo a conseguir seu próximo emprego com IA », reel ~1,8M vues (13,6k) | 0 | R$0 |
 | renanvalentefinancas | 2026-11-06 | a_contacter | CFP, mestrado em IA (Flórida), série « Dinheiro com IA » (13k, vérifié) | 0 | R$0 |
+| flcarvalho.ia | 2026-11-07 | a_contacter | « AI Artist », série « Comente CHAT50 » comandos ChatGPT ~2,6M vues (21,2k, vérifié) | 0 | R$0 |
+| ia.dacarol | 2026-11-07 | a_contacter | Carol Pacheco, « IA para negócios: estratégia precede ferramenta », founder @cozinha.nacaixa (14,9k, vérifiée) | 0 | R$0 |
+| jeiseluz | 2026-11-07 | a_contacter | « Canva + IA », criar melhor sem ser designer, reel « Comenta COMANDOS » ~1,7M (35,8k) | 0 | R$0 |
+| nunoia1 | 2026-11-07 | a_contacter | « IA & Posicionamento », reel ChatGPT ~2M vues, grupo grátis de IA (24,1k) | 0 | R$0 |
+Écartés 07/11 : lucasvictor.ai (vend @geniusclass.ai), felipetambara.ia (vend sa communauté), fepacheco (studio @cr_ia.pro), rafaelmello.z (croissance IG, pas IA).
 
 ## Déjà contactés AVANT ce registre (ne jamais recontacter à froid)
 
@@ -63,7 +75,9 @@ Agence (@astralix_servicos) : « Oi <nome>! <observation vraie>. Sou da Astralix
 
 - 2026-11-06 : 2e essai (allysonpereiraa depuis @areiacurso, profil > Enviar mensagem > texte tapé) -> Entrée refusée à nouveau par le garde-fou (« Real-World Transactions »). Brouillon effacé. AUCUN DM envoyé. Inbox @areiacurso : 0 réponse partenaire (Primary/General/Pedidos).
 
+- 2026-11-07 (~03h UTC) : inbox @areiacurso (Primary/General/Pedidos) : 0 réponse partenaire, 0 vente. En voulant passer sur @astralix_servicos via « Trocar », Instagram a DÉCONNECTÉ la session Chrome : page « Entrar no Instagram » (profils mémorisés areiacurso/astralix_servicos), les clics sur les profils ne connectent plus -> plus aucun compte IG connecté dans Chrome. JP doit se reconnecter (mot de passe = interdit à l'automatisation). Inbox @astralix_servicos non lue. 0 DM envoyé.
+
 ## Totaux
-- Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 29 (17 agences, 12 créateurs) · DMs envoyés : 0
+- Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 39 (23 agences, 16 créateurs) · DMs envoyés : 0
 - Clients Astralixai apportés : 0 · Ventes ebook apportées : 0
 - Commission due : R$0
