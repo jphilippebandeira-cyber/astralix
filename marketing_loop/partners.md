@@ -34,6 +34,14 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 | ramonnfabro | 2026-11-07 | a_contacter | mentor de advogados, 23 anos, « +6.300 processos », dicas diárias (4,8k, vérifié) | 0 | R$0 |
 | celiamendoncabr | 2026-11-07 | a_contacter | « IA na prática para negócios », ex-diretora mkt Starbucks/Sephora, marketing+IA p/ vender mais (13,3k) | 0 | R$0 |
 
+| joaogregorioads | 2026-11-07 | a_contacter | João Gregório, « Marketing para Negócios Locais », Meta+Google Ads, reel « R$7 alcança 3 mil pessoas? » ~1,6M vues (9,7k, vérifié) | 0 | R$0 |
+| guilherme.trafegoads | 2026-11-07 | a_contacter | Guilherme Araújo, « Ajudo negócios locais a atrair clientes », reel « meu amigo foi demitido » ~920k (29,5k) | 0 | R$0 |
+| macielsilvamkt | 2026-11-07 | a_contacter | Maciel Silva, sócio @goldassessoria.mkt, « +R$6mi em vendas », reel « sacada genial de marketing » cafés ~1,5M (11k, vérifié) | 0 | R$0 |
+| deboramayraoficial | 2026-11-07 | a_contacter | Debora Mayra, « Social Media Beauty », mentora de salões, @deboramayrastudio, reel « cadeira chique não paga as contas » ~960k (7,5k) | 0 | R$0 |
+| beatrizbmkt | 2026-11-07 | a_contacter | Beatriz Lima, marketing de conteúdo p/ negócios, reel « Viraliza / Vende » ~700k (42,5k, vérifiée) | 0 | R$0 |
+| emilykoch.mkt | 2026-11-07 | a_contacter | Emily, estrategista de marketing/TikTok, reel automação ManyChat (responder DM automático) ~3,6M (19k, vérifiée) | 0 | R$0 |
+
+Écartés 07/11 (soir) : tamyres_oliveiranails (nail designer à Lisbonne), diegocastro.adv (vend son logiciel @juridiqsoftware), gabrieltomaz.ia (vend des automatisations IA).
 Écartés 07/11 : oficial_rafaellopes (barbeiro, pas agence), agencia.vrtx (vend ses propres agents IA = concurrent), oraculo.ads (e-commerce), andreonedatacrazy (éditeur CRM).
 Écartés 06/11 : o.brunosoares (vend sa propre formation IA), sofiacnario (design), connecton.tech (réparation PC), amandabortoletti (lifestyle).
 Écartés : vinicius.iat (vend son propre curso IAT), samuellorenzettii (perfil/vendas, pas IA), dionelbogorni (vend son propre app d'agenda = concurrent), geronimo.actis (hispanophone, Argentine), claudiateston (branding, pas tráfego).
@@ -58,6 +66,10 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 | ia.dacarol | 2026-11-07 | a_contacter | Carol Pacheco, « IA para negócios: estratégia precede ferramenta », founder @cozinha.nacaixa (14,9k, vérifiée) | 0 | R$0 |
 | jeiseluz | 2026-11-07 | a_contacter | « Canva + IA », criar melhor sem ser designer, reel « Comenta COMANDOS » ~1,7M (35,8k) | 0 | R$0 |
 | nunoia1 | 2026-11-07 | a_contacter | « IA & Posicionamento », reel ChatGPT ~2M vues, grupo grátis de IA (24,1k) | 0 | R$0 |
+| nathcfalcao | 2026-11-07 | a_contacter | Nath, « WorkTech », testa ferramentas p/ otimizar tempo, reel reunião gravada/transcrita ~1M (13,6k) ; déjà affiliée Anotar | 0 | R$0 |
+| bah_dicas03 | 2026-11-07 | a_contacter | Bárbara, « IA • produtividade • negócios », reel « chefe sem noção » ~2,1M (7,4k) ; déjà affiliée Anotar | 0 | R$0 |
+| sougiovane | 2026-11-07 | a_contacter | Giovane, designer, « arte com IA sem cara de IA », « Comenta PROMPT », reel ~94k fixé (5,5k) | 0 | R$0 |
+| iisaacqueiroz | 2026-11-07 | a_contacter | Isaac Queiroz, marketing/conteúdo, reel ChatGPT mapas mentais de livros ~1M (24,3k, vérifié) | 0 | R$0 |
 Écartés 07/11 : lucasvictor.ai (vend @geniusclass.ai), felipetambara.ia (vend sa communauté), fepacheco (studio @cr_ia.pro), rafaelmello.z (croissance IG, pas IA).
 
 ## Déjà contactés AVANT ce registre (ne jamais recontacter à froid)
@@ -75,9 +87,10 @@ Agence (@astralix_servicos) : « Oi <nome>! <observation vraie>. Sou da Astralix
 
 - 2026-11-06 : 2e essai (allysonpereiraa depuis @areiacurso, profil > Enviar mensagem > texte tapé) -> Entrée refusée à nouveau par le garde-fou (« Real-World Transactions »). Brouillon effacé. AUCUN DM envoyé. Inbox @areiacurso : 0 réponse partenaire (Primary/General/Pedidos).
 
+- 2026-11-07 20h UTC : Instagram TOUJOURS déconnecté dans Chrome (page « Entrar no Instagram », clic sur le profil mémorisé areiacurso sans effet). Inbox non lisible, 0 DM. +10 partenaires vérifiés vidIQ ajoutés (49 qualifiés).
 - 2026-11-07 (~03h UTC) : inbox @areiacurso (Primary/General/Pedidos) : 0 réponse partenaire, 0 vente. En voulant passer sur @astralix_servicos via « Trocar », Instagram a DÉCONNECTÉ la session Chrome : page « Entrar no Instagram » (profils mémorisés areiacurso/astralix_servicos), les clics sur les profils ne connectent plus -> plus aucun compte IG connecté dans Chrome. JP doit se reconnecter (mot de passe = interdit à l'automatisation). Inbox @astralix_servicos non lue. 0 DM envoyé.
 
 ## Totaux
-- Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 39 (23 agences, 16 créateurs) · DMs envoyés : 0
+- Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 49 (29 agences, 20 créateurs) · DMs envoyés : 0
 - Clients Astralixai apportés : 0 · Ventes ebook apportées : 0
 - Commission due : R$0

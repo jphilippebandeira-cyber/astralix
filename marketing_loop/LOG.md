@@ -202,3 +202,7 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - NOUVEAU : Metricool accepte instagramData.type = TRIAL_REEL (Reel d'essai montré d'abord aux NON-abonnés) -> plus besoin de Chrome pour ce test. Premier essai programmé.
 - PROGRAMMÉS (Metricool) : TikTok 07/11 07h45 « Dona de salão... qual mensagem » (id 419639822) ; Instagram TRIAL_REEL 07/11 20h00 même vidéo (id 419639827) ; TikTok 07/11 18h45 « Barbeiro, áudio de 2 min » (voix+motion, CTA question).
 - À MESURER à +24 h : commentaires/vues TikTok des 2 vidéos vs 731 de référence ; vues du Trial Reel (non-abonnés) vs ≈40.
+
+## 2026-11-07 20h20 UTC — Partenariats
+- Instagram toujours DÉCONNECTÉ dans Chrome (login exige le mot de passe de JP) -> inbox illisible, 0 DM, 0 kit.
+- +10 partenaires vérifiés vidIQ : 6 gestores/marketing negócios locais (joaogregorioads, guilherme.trafegoads, macielsilvamkt, deboramayraoficial, beatrizbmkt, emilykoch.mkt) + 4 créateurs IA/produtividade (nathcfalcao, bah_dicas03, sougiovane, iisaacqueiroz) -> 49 qualifiés. Actifs 0, commission due R$0.
