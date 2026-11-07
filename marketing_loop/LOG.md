@@ -194,3 +194,6 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 ## 2026-11-07 ~03h UTC — Partenariats
 - Inbox @areiacurso : 0 réponse partenaire/vente. Bascule vers @astralix_servicos -> Instagram DÉCONNECTÉ dans Chrome (écran « Entrar no Instagram », reconnexion impossible sans mot de passe). 0 DM.
 - +10 partenaires vérifiés vidIQ (6 marketing clínicas/médico/advocacia/negócios, 4 créateurs IA) -> 39 qualifiés. Actifs 0, commission due R$0.
+## 2026-11-07 (~03h UTC, passage LinkedIn + Gmail)
+- LINKEDIN: 1 post PT-BR (prompt feedback difícil, AVEC lien amostra), 15 invitations sans note (aucun avertissement), 0 commentaire (sauté: <24 h + limite atteinte aux 2 derniers passages). Aucun commentaire/message entrant. Détail: linkedin.md.
+- GMAIL (06-07/11): aucun prospect/client/partenaire/affilié -> aucun brouillon. À signaler: GitHub « Claude requesting updated permissions » 06/11 08h38 UTC (à accepter si voulu); connexion Google -> binance.com 06/11 05h27 UTC; Revolut: carte de crédit garantie activée + commande de carte 06/11; abonnements X Plus + Grok R$40,90 (06/11); Binance: nouveaux frais possibles; inscription TFSports (pedido 3866068) confirmée.

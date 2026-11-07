@@ -7,7 +7,8 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - antérieurs: 4 partes do prompt (contexto/papel/tarefa/formato); o que nunca colar numa IA (LGPD); voz clonada 3 sinais; teste antigolpe 8 mensagens; Pix por engano/devolver; checklist plantão saúde; IA não é mágica é método; 26,5 % formés (Serasa 2026); appel afiliados 30 % Hotmart; + posts FR
 - 02/11: prompt de ata de reunião (4 blocos + [A DEFINIR] + e-mail de follow-up) — SANS lien
 - 03/11: prompt e-mail de cliente irritado (3 passos + [CONFIRMAR] + LGPD) — AVEC lien amostra grátis
-- 06/11: prompt fórmula Excel (descrever colunas, SOMASES x SUMIFS, testar em 3 linhas, colar o erro) — SANS lien (prochain post: AVEC lien)
+- 06/11: prompt fórmula Excel (descrever colunas, SOMASES x SUMIFS, testar em 3 linhas, colar o erro) — SANS lien
+- 07/11: prompt preparar conversa de feedback difícil (fatos x interpretações, roteiro, 3 reações prováveis, [EXEMPLO?], LGPD) — AVEC lien amostra grátis (prochain post: SANS lien)
 
 ## Astuces techniques
 - Composer et commentaires = éditeur tiptap/ProseMirror. La frappe `type` ne marche pas: coller via JS (ClipboardEvent paste, text/html avec <p> par ligne et <p><br></p> pour les lignes vides). Pour vider: cmd+a puis Delete (Mac).
@@ -39,3 +40,11 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - ALERTE: limite de commentaires atteinte dès le 2e commentaire (fenêtre glissante probable). Prochain passage: max 2 commentaires, et seulement si > 24 h depuis le dernier (06/11 ~04h UTC).
 - Mots-clés utilisés: + gerente PJ banco IA; analista de crédito IA; professor universitário administração IA; supervisor administrativo ChatGPT; assistente de gerência banco IA. Prochaine fois: analista de investimentos, gerente comercial, recrutador, controller, estudante de economia.
 - Astuce: la fonction JS d'invitation (aria-label « Inviter… » + bouton « Envoyer sans note » dans les shadowRoots) doit être redéfinie après chaque navigation.
+
+## 2026-11-07 (passage planifié, ~03h UTC)
+- POST: prompt pour préparer une conversation de feedback difficile (gestores), AVEC lien are-ia.com (amostra grátis) en fin de post. Vérifié dans le fil (« maintenant »).
+- Entrant: aucun commentaire sur nos posts, aucun message (seul InMail sponsorisé Zenvia/CX Leaders, ignoré). Post e-mail cliente 03/11: 34 impressions; Excel 06/11: 10 impressions; ata 02/11: 141.
+- INVITATIONS (15, sans note, aucun avertissement, statut « En attente » vérifié): recrutador IA (Arthur Matos, Ricardo Rodrigues, Bárbara Zimerman, Amanda Simão), analista de investimentos IA (João Paulo Leite Bezerra, Bruno Armond Freire, Maria Izabela Gomes, Rafael Lima), gerente comercial ChatGPT (Rogério Comparini Cintra, Carolina Sá, Saulo Siardo, Daniela Pereira), estudante de economia IA (Kaike Ferreira, Marcela Gamberine, Camila Oliveira).
+- COMMENTAIRES: 0 — volontairement sautés: < 24 h depuis le dernier (06/11 ~04h UTC) et limite quotidienne atteinte 2 passages de suite. Prochain passage (>24 h): max 2 commentaires espacés.
+- Mots-clés utilisés: + recrutador IA; analista de investimentos IA; gerente comercial ChatGPT; estudante de economia IA. Prochaine fois: controller, coordenador de RH, gerente de operações, professor de ensino técnico, analista de compliance.
+- Astuce: fonction JS inviteN(n) (clic « Inviter… » + « Envoyer sans note » en shadow DOM + détection d'avertissement) à redéfinir après chaque navigation; 4 invitations par mot-clé.
