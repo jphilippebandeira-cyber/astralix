@@ -20,5 +20,5 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 
 ## Problèmes ouverts
 - Bio @nexoaiii en français (psychologie) sans lien : à corriger dès qu'un accès au compte est possible.
-- Instagram déconnecté dans Chrome selon la tâche Partenariats : vérifier ; sinon utiliser Metricool.
+- Instagram : RÉSOLU 07/11 — basculer via Mensagens > menu du compte > Trocar de conta (pas via la page de login).
 - Hotmart : 0 vente / 0 affilié -> recruter des affiliés par canaux publics.

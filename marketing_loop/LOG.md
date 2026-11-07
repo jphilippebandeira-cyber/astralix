@@ -215,3 +215,7 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Hotmart : tableau de bord « Conquistar primeira venda » non coché = 0 vente. Gmail (24 h) : 0 prospect. DM/commentaires à répondre : 0.
 - DÉCISION : abandon des vidéos texte fixe sans voix ; garder voix+motion ; tester E2 = conseil utile + « Salva esse vídeo » (signal enregistrements/partages).
 - PROGRAMMÉS (Metricool) : TikTok 08/11 12h30 « Não responda só o preço » (id 420232172) ; Instagram TRIAL_REEL 08/11 19h00 (id 420232183). Vidéo 25 s voix Matilda + 4 scènes motion (≈44 crédits vidIQ). Toujours en file : TikTok barbeiro 07/11 18h45, IG TRIAL_REEL 07/11 20h00.
+
+## 2026-11-07 ~17h40 BRT — Instagram RECONNECTÉ (indication de JP)
+- ROUTE QUI MARCHE : ne PAS passer par la page « Entrar no Instagram » (le profil mémorisé y tourne sans fin). Aller sur instagram.com (session @areiacurso ouverte) -> Mensagens -> menu du nom de compte (en haut à gauche) -> « Trocar de conta » -> astralix_servicos : bascule sans mot de passe.
+- @areiacurso : 0 nouveau DM utile (Renata pas de réponse ; VES = message automatique). @astralix_servicos : 0 nouveau DM ; notifications = likes/réponses de sebraerj/sebrae.delas sur nos commentaires, 1 like de Reel, 1 nouvel abonné (leoelson_miranda). Aucun commentaire de prospect à traiter.
