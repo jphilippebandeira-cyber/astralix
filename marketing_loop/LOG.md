@@ -180,3 +180,10 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Mesure : Reel ARE « PARE de pedir » = 2 vues à +1h30 ; anciens Reels @areiacurso 4-135 vues (34 abonnés). Réseau d'abonnés trop petit : le trafic doit venir des commentaires sur gros comptes (likes/réponses de sebrae, sebraerj, contaazul, VES obtenus) + Hotmart marché.
 - VES | Consultoria de Trainee e Estágio a répondu en auto à notre commentaire : cible/partenaire idéale ARE-IA (trainee).
 - Prompt de la boucle v3 mis à jour (route Chrome, lien Hotmart, priorité commentaires).
+
+## 2026-11-06 23h15 BRT — AUDIT COMPLET demandé par JP (0 vente partout)
+- CAUSE #1 (processus) : la boucle principale v3 n'a PAS tourné depuis le 03/11 (dernier run échoué USAGE_LIMIT_REACHED, puis mise en pause pour l'audit ; suspension device_absent). Réactivée 06/11 23h09. Les 3 posts Astralix du jour (IG 08h05, TikTok 09h30 et 12h30) sont bien PUBLISHED via Metricool.
+- MESURE : IG Astralix 69 abonnés/47 posts ; Reel POV salão (08h05) = 41 vues / 31 portée / 1 like / 0 commentaire ; Reels 1-6/11 : 4 à 44 vues. TikTok : Metricool ne renvoie pas de métriques (rows vides) -> lire TikTok Studio dans Chrome. ARE-IA : 34 abonnés, Reels 2-135 vues. Hotmart : 0 vente, 0 affilié, 0 clic. vidIQ : aucun IG/YouTube connecté (pas de publication directe), 4 361 crédits.
+- DIAGNOSTIC : le goulot est la DISTRIBUTION (≈40 vues/Reel, 0 commentaire mot-clé) et non le produit/le lien. Tout ce qui est publié ne touche presque que nos 30-70 abonnés.
+- LEVIERS À TESTER (priorité) : (1) Reels « Trial » (essai) Instagram = montrés uniquement aux NON-abonnés -> activer via Chrome au partage ; (2) texte à l'écran + légende avec mots-clés recherchés (« atendimento whatsapp salão », « prompt chatgpt trabalho ») pour la recherche IG ; (3) commentaires de croissance sur gros comptes (seul levier avec réponses publiques) ; (4) TikTok : mesurer via Studio, répéter le format qui dépasse 100 vues ; (5) recruter des affiliés Hotmart via posts publics/marketplace.
+- Lien d'achat ARE-IA = Hotmart sans compte (déjà dans le prompt de boucle).
