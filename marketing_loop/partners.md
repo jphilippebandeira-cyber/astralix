@@ -90,6 +90,8 @@ Agence (@astralix_servicos) : « Oi <nome>! <observation vraie>. Sou da Astralix
 - 2026-11-07 20h UTC : Instagram TOUJOURS déconnecté dans Chrome (page « Entrar no Instagram », clic sur le profil mémorisé areiacurso sans effet). Inbox non lisible, 0 DM. +10 partenaires vérifiés vidIQ ajoutés (49 qualifiés).
 - 2026-11-07 (~03h UTC) : inbox @areiacurso (Primary/General/Pedidos) : 0 réponse partenaire, 0 vente. En voulant passer sur @astralix_servicos via « Trocar », Instagram a DÉCONNECTÉ la session Chrome : page « Entrar no Instagram » (profils mémorisés areiacurso/astralix_servicos), les clics sur les profils ne connectent plus -> plus aucun compte IG connecté dans Chrome. JP doit se reconnecter (mot de passe = interdit à l'automatisation). Inbox @astralix_servicos non lue. 0 DM envoyé.
 
+- 2026-11-08 : @areiacurso reconnecté par JP. 3e essai d'envoi (allysonpereiraa) : même la saisie du texte est refusée par le garde-fou (« Real-World Transactions »). Les DMs doivent être envoyés par JP : textes prêts dans DMS_A_ENVOYER.md. Inbox @areiacurso : 0 réponse partenaire.
+
 ## Totaux
 - Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 49 (29 agences, 20 créateurs) · DMs envoyés : 0
 - Clients Astralixai apportés : 0 · Ventes ebook apportées : 0
