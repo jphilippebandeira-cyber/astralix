@@ -225,3 +225,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - DIAGNOSTIC : la question ne déclenche aucun commentaire (2/2 échecs) -> abandonnée ; seul le hook POV dépasse 700 vues ; aucune vidéo ne donne de chemin vers la vente (pas de lien en bio TikTok).
 - ACTIONS : E2 Instagram 08/11 19h converti TRIAL_REEL -> REEL (sinon échec certain ; E2 non reprogrammé). E3 produit (voix Matilda 24 s + 4 scènes motion, carte finale astralixai.com, ≈44 crédits vidIQ) et programmé TikTok 08/11 18h45 (id 420477466).
 - À FAIRE PAR JP (2 min, débloque la conversion TikTok) : app TikTok > @nexoaiii > Modifier le profil > bio PT-BR « Atendimento no WhatsApp com IA 24h para clínicas, salões e barbearias 👇 » + site astralixai.com.
+## 2026-11-08 ~05h30 UTC — Session avec JP (« trouve d'autres moyens, automatise »)
+- Recherche : algorithme LinkedIn 2026 (documents PDF en tête, liens externes pénalisés, 1re heure, 7-9h mar-jeu) + concurrents Hotmart (pages faibles, angle « par situation de travail » libre). Détail : experiments.md E2.
+- CONSTRUIT : générateur de carrousels PDF LinkedIn (marketing_loop/linkedin_docs/build.py + decks.json) et 3 decks : D1 banco 7 prompts, D2 primeiro emprego, D3 5 erros de prompt.
+- PROGRAMMÉ (LinkedIn natif) : D1 mar. 10/11 08:00, D3 mer. 11/11 08:00. D2 refusé : « nombre maximal de posts pour aujourd'hui » -> le compte non vérifié est plafonné ; la tâche LinkedIn le programmera.
+- AUTOMATISATION : prompt de la tâche « Département LinkedIn ARE-IA & Gmail » réécrit (documents programmés 08h, 1 commentaire/jour, mesure des impressions, file d'attente). Tentative de passer la boucle v3 de 4 à 2 passages/jour (échecs USAGE_LIMIT_REACHED) REFUSÉE par le garde-fou -> à faire par JP.

@@ -11,7 +11,16 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - 07/11: prompt preparar conversa de feedback difícil (fatos x interpretações, roteiro, 3 reações prováveis, [EXEMPLO?], LGPD) — AVEC lien amostra grátis
 - 07/11 (20h UTC): prompt resumo executivo de relatório longo (5 linhas, 3 números com origem, o que o relatório não responde, [VERIFICAR], LGPD) — SANS lien (prochain post: AVEC lien)
 
+## File d'attente DOCUMENTS (PDF carrousel, marketing_loop/linkedin_docs/, généré par build.py depuis decks.json)
+- D1_banco_7_prompts — PROGRAMMÉ mar. 10/11 08:00
+- D3_5_erros_prompt — PROGRAMMÉ mer. 11/11 08:00
+- D2_primeiro_emprego — À PROGRAMMER pour jeu. 12/11 08:00 (refusé le 08/11 : « nombre maximal de posts pour aujourd'hui »)
+- Prochains sujets (non faits) : RH/recrutamento, vendas/comercial, atendimento ao cliente, gestor de equipe 1:1, estudante TCC/estudos, analista financeiro.
+
 ## Astuces techniques
+- DOCUMENT : composer > « + » > Document. L'input file n'existe pas dans le DOM : surcharger HTMLInputElement.prototype.click (capturer l'input type=file, l'attacher au body avec aria-label « captured file input », ne pas ouvrir le sélecteur), cliquer « Choisir un fichier » via JS, find « captured file input », puis file_upload depuis /mnt/user-data/outputs/. Titre (≤58 car.) > Terminé > coller la légende.
+- PROGRAMMER : icône horloge à gauche de Publier ; date JJ/MM/AAAA, heure en tapant 8:00 puis clic dans la liste ; « Publication à … » confirme ; Confirmer > Programmer. Fuseau du navigateur = Brasília.
+- LIMITE : compte non vérifié -> 1 post/jour (y compris programmés créés le même jour ?) et ~1 commentaire/jour. Toast « Procédez à la vérification » : la vérification d'identité LinkedIn (action JP) lèverait ces limites.
 - Composer et commentaires = éditeur tiptap/ProseMirror. La frappe `type` ne marche pas: coller via JS (ClipboardEvent paste, text/html avec <p> par ligne et <p><br></p> pour les lignes vides). Pour vider: cmd+a puis Delete (Mac).
 - Modale d'invitation « Ajouter une note ? » est dans un shadow DOM: bouton « Envoyer sans note » via element.shadowRoot. Liens d'invitation: aria-label « Inviter X à rejoindre votre réseau ».
 - Commentaire: clic sur bouton « Commenter » du post (find), puis coller dans l'éditeur focalisé et cliquer « Commenter » voisin.

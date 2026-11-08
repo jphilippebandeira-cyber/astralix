@@ -34,3 +34,13 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 - Bio @nexoaiii en français (psychologie) sans lien : à corriger dès qu'un accès au compte est possible.
 - Instagram : RÉSOLU 07/11 — basculer via Mensagens > menu du compte > Trocar de conta (pas via la page de login).
 - Hotmart : 0 vente / 0 affilié -> recruter des affiliés par canaux publics.
+
+## E2 (08/11) — LinkedIn : documents PDF programmés à 08h au lieu de posts texte à 11-17h
+- Constat : posts texte = 10 à 141 impressions (moyenne récente ≈ 20) ; limite 1 commentaire/jour et 1 post/jour (compte non vérifié).
+- Hypothèse (études 2026 sur l'algorithme, non vérifiables mais convergentes) : le document PDF est le format le plus diffusé ; liens externes = moins de portée ; la 1re heure compte, 7-9h mar-jeu est le meilleur créneau.
+- Test : D1 (banco) mar. 10/11 08:00, D3 (5 erros) mer. 11/11 08:00, D2 (primeiro emprego) jeu. 12/11. Aucun lien dans la légende (are-ia.com sur la dernière page).
+- À mesurer à +48 h : impressions vs médiane texte (≈20) ; si ×3 ou plus -> 100 % documents.
+
+## Concurrence (08/11, marketplace Hotmart)
+- Ebooks IA concurrents (« Guia de IA Aplicada para Profissões », « IA Descomplicada ») : pages sans auteur, sans preuve, promesse générique « transforme sua carreira ». Beaucoup d'autres vendent « lucrar com IA » (promesse de revenu, que nous n'utilisons pas).
+- Angle libre pour ARE-IA : prompts PAR SITUATION DE TRAVAIL concrète (banco, RH, primeiro emprego) + règle LGPD/sigilo systématique = crédible pour banque et entreprises. Les decks LinkedIn suivent cet angle.
