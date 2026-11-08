@@ -28,6 +28,13 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 - À mesurer : vues vs 714 (le hook tient-il ?) ; recherches/visites (DM, Gmail, formulaire) ; commentaires.
 - Décision : si ≥ 600 vues -> série POV par métier (clínica, salão, barbearia, pet shop) avec la même carte finale ; si < 300 -> c'est le sujet clínica déjà vu (fatigue) -> changer de métier.
 
+## E4 (09/11) — Hook d'ACTUALITÉ au lieu de POV (Astralix)
+- Constat veille (vidIQ outliers BR, 08/11) : les vidéos « news qui touche le petit patron » (changement WhatsApp 01/10, règles MEI) font 300K-2,8M vues, 36 à 880x la médiane des créateurs ; le POV relatable « você tem um negócio próprio » aussi.
+- Hypothèse : un fait vérifié et récent (« O WhatsApp Business agora tem IA da Meta », lancée au Brésil le 24/02/2026, sources Canaltech/Forbes) + ce qu'elle ne couvre pas (agenda, áudio, Pix = fonctions réelles d'Astralix) attire plus que le POV et répond d'avance à l'objection « pourquoi payer ? ».
+- Test : TikTok 09/11 12h30 (id 420488494) + Instagram REEL 09/11 19h (id 420488500). Même voix/format que E3 ; seule la nature du hook change.
+- À mesurer : vues TikTok vs E3 (POV) ; commentaires ; visites/DM.
+- Décision : news > POV de 50 % -> 1 vidéo actu/semaine (veille vidIQ) ; sinon on garde POV.
+
 ## Problèmes ouverts
 - Instagram TRIAL_REEL refusé par Meta (seuil d'abonnés non atteint) : ne plus programmer de TRIAL_REEL.
 - Les commentaires sur gros comptes (sebrae, sebraerj…) reçoivent 3-7 likes chacun = plus d'interactions que nos propres Reels : canal de visibilité n°1 sur Instagram.
