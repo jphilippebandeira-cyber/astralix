@@ -219,3 +219,9 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 ## 2026-11-07 ~17h40 BRT — Instagram RECONNECTÉ (indication de JP)
 - ROUTE QUI MARCHE : ne PAS passer par la page « Entrar no Instagram » (le profil mémorisé y tourne sans fin). Aller sur instagram.com (session @areiacurso ouverte) -> Mensagens -> menu du nom de compte (en haut à gauche) -> « Trocar de conta » -> astralix_servicos : bascule sans mot de passe.
 - @areiacurso : 0 nouveau DM utile (Renata pas de réponse ; VES = message automatique). @astralix_servicos : 0 nouveau DM ; notifications = likes/réponses de sebraerj/sebrae.delas sur nos commentaires, 1 like de Reel, 1 nouvel abonné (leoelson_miranda). Aucun commentaire de prospect à traiter.
+
+## 2026-11-07 21h45-23h BRT — Passage PDG (rattrapage 21h17 demandé par JP)
+- MESURE : TikTok @nexoaiii : « Barbeiro » (voix+motion+question, 18h45) = 256 vues, 0 like/commentaire/favori ; « Dona de salão » 246 ; POV 734/714. Profil 340 abonnés, bio toujours en FR. Instagram TRIAL_REEL 20h00 = ERREUR Meta (seuil d'abonnés non atteint) -> non publié. Instagram @astralix_servicos : 0 nouveau DM (Primary/Pedidos), notifications = likes/réponses sebraerj sur nos commentaires (3-7 likes par commentaire), 1 like de Reel. Hotmart : 0 vente (08/10-07/11).
+- DIAGNOSTIC : la question ne déclenche aucun commentaire (2/2 échecs) -> abandonnée ; seul le hook POV dépasse 700 vues ; aucune vidéo ne donne de chemin vers la vente (pas de lien en bio TikTok).
+- ACTIONS : E2 Instagram 08/11 19h converti TRIAL_REEL -> REEL (sinon échec certain ; E2 non reprogrammé). E3 produit (voix Matilda 24 s + 4 scènes motion, carte finale astralixai.com, ≈44 crédits vidIQ) et programmé TikTok 08/11 18h45 (id 420477466).
+- À FAIRE PAR JP (2 min, débloque la conversion TikTok) : app TikTok > @nexoaiii > Modifier le profil > bio PT-BR « Atendimento no WhatsApp com IA 24h para clínicas, salões e barbearias 👇 » + site astralixai.com.
