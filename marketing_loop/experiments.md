@@ -1,4 +1,11 @@
 # Journal des expériences (le PDG lit ceci AVANT chaque passage et le met à jour APRÈS)
+
+## >>> À LIRE EN PREMIER (08/11) : marketing_loop/STRATEGIE_8NOV.md
+Diagnostic, concurrence (programme partenaires du marché à 10 % vs nos 20-30 %), règles de contenu TikTok 2026 et file d'expériences E4-E8 à exécuter dans l'ordre.
+Rappels : TRIAL_REEL refusé par Meta (seuil d'abonnés) -> REEL uniquement ; CTA « question » abandonné (2/2 échecs, 251-282 vues vs 734 pour les POV voix+motion).
+Instagram : passer par instagram.com/direct/inbox/ -> menu du nom de compte -> « Trocar de conta » ; @areiacurso demande un mot de passe (08/11) -> fermer la fenêtre, ne pas se connecter.
+Économie : la boucle a échoué le 08/11 00h43 (USAGE_LIMIT_REACHED) ; limiter les appels (browser_batch, pas de captures inutiles).
+Page partenaires : marketing_loop/parceiros/index.html (artifact privé, à rendre public par JP).
 Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 
 ## E1 (07/11) — CTA « question » au lieu de « Comenta MOT » (Astralix)
@@ -34,6 +41,8 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 - Test : TikTok 09/11 12h30 (id 420488494) + Instagram REEL 09/11 19h (id 420488500). Même voix/format que E3 ; seule la nature du hook change.
 - À mesurer : vues TikTok vs E3 (POV) ; commentaires ; visites/DM.
 - Décision : news > POV de 50 % -> 1 vidéo actu/semaine (veille vidIQ) ; sinon on garde POV.
+## E1 — RÉSULTAT (08/11)
+- Question : 251 (salão) et 282 (barbeiro) vues, 0 commentaire. POV voix+motion : 734/714. Conclusion : la question fait baisser la rétention ; abandon.
 
 ## Problèmes ouverts
 - Instagram TRIAL_REEL refusé par Meta (seuil d'abonnés non atteint) : ne plus programmer de TRIAL_REEL.
