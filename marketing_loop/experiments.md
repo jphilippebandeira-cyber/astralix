@@ -1,7 +1,7 @@
 # Journal des expériences (le PDG lit ceci AVANT chaque passage et le met à jour APRÈS)
 
 ## >>> À LIRE EN PREMIER (08/11) : marketing_loop/STRATEGIE_8NOV.md
-Diagnostic, concurrence (programme partenaires du marché à 10 % vs nos 20-30 %), règles de contenu TikTok 2026 et file d'expériences E4-E8 à exécuter dans l'ordre.
+Diagnostic, concurrence (programme partenaires du marché à 10 % vs nos 20-30 %), règles de contenu TikTok 2026 et file d’expériences S1-S5 (après l’E4 en cours) à exécuter dans l’ordre.
 Rappels : TRIAL_REEL refusé par Meta (seuil d'abonnés) -> REEL uniquement ; CTA « question » abandonné (2/2 échecs, 251-282 vues vs 734 pour les POV voix+motion).
 Instagram : passer par instagram.com/direct/inbox/ -> menu du nom de compte -> « Trocar de conta » ; @areiacurso demande un mot de passe (08/11) -> fermer la fenêtre, ne pas se connecter.
 Économie : la boucle a échoué le 08/11 00h43 (USAGE_LIMIT_REACHED) ; limiter les appels (browser_batch, pas de captures inutiles).

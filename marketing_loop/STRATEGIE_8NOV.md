@@ -23,12 +23,12 @@
 - Répondre à chaque commentaire (idéalement en vidéo) ; publier 30-60 min avant le pic.
 - Référence : < 1 000 abonnés, 500-2 000 vues/vidéo = bon.
 
-## File d'expériences (une variable à la fois, la boucle les exécute dans l'ordre)
-- E4 « Recherche » : 3 vidéos POV dont le 1er écran = la recherche Google/TikTok exacte (« atendente whatsapp para salão »), 15-20 s, fin = « demo grátis: astralixai.com ». Mesure : vues à 24 h vs 734.
-- E5 « Comparatif » : vidéo « Quanto custa uma secretária vs atendente no WhatsApp » avec chiffres VÉRIFIÉS (salaire secrétaire : source publique citée) -> R$299,90. Mesure : commentaires.
-- E6 « Partenaires inbound » : page Programa de Parceiros (artifact, à rendre publique par JP) + 1 post LinkedIn/Instagram « 20 % recorrente, 2x o mercado » dirigé aux gestores de tráfego. Mesure : candidatures.
-- E7 « Commentaires d'autorité » : 5 commentaires/jour utiles sous les posts de Sebrae, Conta Azul, gestores (déjà 3-7 likes/commentaire) -> visites profil.
-- E8 (dès le 10/11) : DMs partenaires @astralix_servicos avec l'argument « 2x a comissão do mercado » (max 10/jour).
+## File d’expériences S1-S5 (une variable à la fois, la boucle les exécute dans l'ordre)
+- S1 « Recherche » : 3 vidéos POV dont le 1er écran = la recherche Google/TikTok exacte (« atendente whatsapp para salão »), 15-20 s, fin = « demo grátis: astralixai.com ». Mesure : vues à 24 h vs 734.
+- S2 « Comparatif » : vidéo « Quanto custa uma secretária vs atendente no WhatsApp » avec chiffres VÉRIFIÉS (salaire secrétaire : source publique citée) -> R$299,90. Mesure : commentaires.
+- S3 « Partenaires inbound » : page Programa de Parceiros (artifact, à rendre publique par JP) + 1 post LinkedIn/Instagram « 20 % recorrente, 2x o mercado » dirigé aux gestores de tráfego. Mesure : candidatures.
+- S4 « Commentaires d’autorité » : 5 commentaires/jour utiles sous les posts de Sebrae, Conta Azul, gestores (déjà 3-7 likes/commentaire) -> visites profil.
+- S5 (dès le 10/11) : DMs partenaires @astralix_servicos avec l'argument « 2x a comissão do mercado » (max 10/jour).
 
 ## Actions qui demandent JP (bloquent la conversion)
 1. Bio TikTok @nexoaiii en PT-BR + lien astralixai.com (2 min dans l'app).
