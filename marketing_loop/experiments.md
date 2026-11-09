@@ -60,3 +60,8 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 ## Concurrence (08/11, marketplace Hotmart)
 - Ebooks IA concurrents (« Guia de IA Aplicada para Profissões », « IA Descomplicada ») : pages sans auteur, sans preuve, promesse générique « transforme sua carreira ». Beaucoup d'autres vendent « lucrar com IA » (promesse de revenu, que nous n'utilisons pas).
 - Angle libre pour ARE-IA : prompts PAR SITUATION DE TRAVAIL concrète (banco, RH, primeiro emprego) + règle LGPD/sigilo systématique = crédible pour banque et entreprises. Les decks LinkedIn suivent cet angle.
+
+## Diagnostic 08/11 21h45 BRT — la mesure à +3 h était trompeuse
+- Hypothèse (E1) : la question tue la rétention. Résultat : « Barbeiro » (voix+motion+question) passe de 282 à 738 vues en 48 h ; seul le texte fixe sans voix reste à 265. E2 (conseil + « salva ») = 469 à +33 h.
+- Conclusion : la variable gagnante est VOIX+MOTION, pas le hook POV ; TikTok redistribue sur 24-48 h. Le sujet barbearia est le meilleur performer avec le POV salão/clínica. Toujours 0 commentaire/0 DM -> les vues ne convertissent pas (bio FR sans lien).
+- Décision : (1) mesurer chaque vidéo à +48 h avant de conclure ; (2) E5 = POV + barbearia (doubler le sujet gagnant) TikTok 10/11 18h45 + IG 19h30 ; (3) E3 clínica à remesurer le 10/11 ; (4) bloquant n°1 inchangé : bio TikTok PT-BR + astralixai.com (action JP).
