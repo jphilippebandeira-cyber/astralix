@@ -31,4 +31,48 @@ Oi Nath! Seu reel da reunião gravada e transcrita foi genial, e você testa fer
 10. instagram.com/bah_dicas03
 Oi Bárbara! O reel da "chefe sem noção" ficou ótimo, e o seu foco em IA pra ter menos trabalho e mais resultado combina com o nosso ebook. Sou do @areiacurso ("O Guia Definitivo da IA"): parceiros ganham 40% de cada venda confirmada, por Pix, sem custo. Posso te mandar o material?
 
-Agences (@astralix_servicos) : à partir du 10/11, Claude préparera la même liste avec l'argument « 20 % recorrente desde o 1º cliente ».
+## Ajout 09/11 — créateurs (depuis @areiacurso)
+
+11. instagram.com/vitorbohn.ia
+Oi Vitor! Sua "dica brutal de prompt" pra analisar os concorrentes foi muito boa, e o foco em IA pra autônomo sem enrolação combina com o nosso ebook. Sou do @areiacurso ("O Guia Definitivo da IA"): parceiros ganham 40% de cada venda confirmada, por Pix, sem custo. Posso te mandar o material?
+
+12. instagram.com/samuelmarquesdigital
+Oi Samuel! Seu reel de treinar o ChatGPT pra escrever como você (em vez de "melhore esse texto") é exatamente o tipo de uso que a gente ensina. Sou do @areiacurso: temos o ebook "O Guia Definitivo da IA" e estou montando um grupo pequeno de parceiros. 40% de cada venda confirmada, por Pix, sem custo. Posso te mandar o material?
+
+13. instagram.com/eng.lucasmendess
+Oi Lucas! Muito legal ver IA aplicada à engenharia de verdade, seus reels fixados passaram de 100 mil views. Sou do @areiacurso: temos o ebook "O Guia Definitivo da IA" e estou montando um grupo pequeno de parceiros. 40% de cada venda confirmada, pago por Pix, sem custo pra você. Posso te mandar o material?
+
+14. instagram.com/iativar.lider
+Oi Nathalia! Gostei da sua ideia da IA como "duplo estratégico" do negócio. Sou do @areiacurso: temos o ebook "O Guia Definitivo da IA" e estou montando um grupo pequeno de parceiros. 40% de cada venda confirmada, pago por Pix, sem custo pra você. Posso te mandar o material?
+
+## Agences — depuis @astralix_servicos, À PARTIR DU 10/11 (fin du « mode sain »), max 10/jour
+
+A1. instagram.com/guylherme_pedro
+Oi Guylherme! 300 clínicas ativas na @in.sideodonto é muita coisa, e toda clínica sofre com WhatsApp sem resposta fora do horário. Sou da Astralixai, assistente de IA no WhatsApp que atende e organiza os horários (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente enquanto o cliente ficar assinante, desde o 1º cliente, e 30% a partir de 10 ativos, por Pix todo dia 10. Posso te mandar o material?
+
+A2. instagram.com/tatiivallecilo
+Oi Tati! Vi que a @purpledigitalrj já trabalha anúncios de Instagram, Google e WhatsApp pra negócios. Sou da Astralixai, assistente de IA que responde o WhatsApp e organiza os agendamentos (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A3. instagram.com/joaogregorioads
+Oi João! Seu reel do "R$7 alcança 3 mil pessoas?" mostra bem o tráfego pra negócio local. O problema é quando o lead chega no WhatsApp e ninguém responde. Sou da Astralixai, assistente de IA que atende e agenda na hora (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A4. instagram.com/andradeoficials
+Oi! "IA + Marketing para Barbeiros" e agenda cheia na @newmanbarbershopoficial, você fala a língua do barbeiro. Sou da Astralixai, assistente de IA no WhatsApp que responde e organiza os horários (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A5. instagram.com/deboramayraoficial
+Oi Debora! Seu reel "cadeira chique não paga as contas" é a realidade de muito salão. Sou da Astralixai, assistente de IA que responde o WhatsApp do salão na hora e organiza a agenda (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A6. instagram.com/guilherme.trafegoads
+Oi Guilherme! Você ajuda negócio local a atrair cliente; a gente cuida da parte de responder esse cliente no WhatsApp na hora. Sou da Astralixai, assistente de IA que atende e agenda (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A7. instagram.com/trafegocomisrael_
+Oi Israel! 8 anos de tráfego + processo comercial e a @tmclinicas, você sabe que lead sem resposta rápida esfria. Sou da Astralixai, assistente de IA que responde o WhatsApp na hora e organiza os agendamentos (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A8. instagram.com/_amandaventurin
+Oi Amanda! Seu reel "paciente solto na clínica está errado" é sobre atendimento, e o atendimento começa no WhatsApp. Sou da Astralixai, assistente de IA que responde na hora e organiza os pedidos de horário (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A9. instagram.com/vitoroliveiraconsultor
+Oi Vitor! Comercial pra médicos em +400 clínicas é muita experiência. Sou da Astralixai, assistente de IA que responde o WhatsApp da clínica na hora e organiza os agendamentos (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A10. instagram.com/ceciliamkt2026
+Oi Cecília! Seu tutorial de anúncio no Perfil da Empresa (GMN) é ótimo. Quando o cliente clica e chama no WhatsApp, a Astralixai responde na hora e organiza o horário (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?

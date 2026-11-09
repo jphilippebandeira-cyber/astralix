@@ -12,10 +12,10 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 |---|---|---|---|---|---|
 | guylherme_pedro | 2026-11-01 | a_contacter | fondateur @in.sideodonto, « 300 clínicas ativas », implantodontistes (10k) | 0 | R$0 |
 | tatiivallecilo | 2026-11-01 | a_contacter | CEO @purpledigitalrj, anúncios « Instagram, Google e WhatsApp » pour négocios (18,7k) | 0 | R$0 |
-| joaogregorioads | 2026-11-01 | a_contacter | tráfego pago pour négocios locais, Meta + Google Ads (9,2k) | 0 | R$0 |
+| joaogregorioads | 2026-11-01 | a_contacter | João Gregório, « Marketing para Negócios Locais », Meta+Google Ads, reel « R$7 alcança 3 mil pessoas? » ~1,6M vues (9,7k, vérifié) | 0 | R$0 |
 | andradeoficials | 2026-11-01 | a_contacter | dono @newmanbarbershopoficial, « IA + Marketing para Barbeiros », agenda cheia (6k) | 0 | R$0 |
-| deboramayraoficial | 2026-11-01 | a_contacter | social media beauty, fondatrice @deboramayrastudio (7,4k) | 0 | R$0 |
-| guilherme.trafegoads | 2026-11-03 | a_contacter | « Ajudo negócios locais a atrair clientes », estratégia + anúncios (29,5k) | 0 | R$0 |
+| deboramayraoficial | 2026-11-01 | a_contacter | Debora Mayra, « Social Media Beauty », mentora de salões, @deboramayrastudio, reel « cadeira chique não paga as contas » ~960k (7,5k) | 0 | R$0 |
+| guilherme.trafegoads | 2026-11-03 | a_contacter | Guilherme Araújo, « Ajudo negócios locais a atrair clientes », reel « meu amigo foi demitido » ~920k (29,5k) | 0 | R$0 |
 | trafegocomisrael_ | 2026-11-03 | a_contacter | 8 ans de tráfego + processo comercial, +400 clients, gère @tmclinicas (21,1k) | 0 | R$0 |
 | _amandaventurin | 2026-11-03 | a_contacter | CEO @timefordoc, gestion de clínicas, reel « Paciente solto na clínica está ERRADO » (17,2k) | 0 | R$0 |
 | vitoroliveiraconsultor | 2026-11-03 | a_contacter | « Comercial para Médicos », +400 clínicas (20,6k, vérifié) | 0 | R$0 |
@@ -33,14 +33,16 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 | giulianemendes | 2026-11-07 | a_contacter | estrategista de marketing médico desde 2019, reel « 7 ideias de conteúdo » p/ saúde (2,5k, vérifiée) | 0 | R$0 |
 | ramonnfabro | 2026-11-07 | a_contacter | mentor de advogados, 23 anos, « +6.300 processos », dicas diárias (4,8k, vérifié) | 0 | R$0 |
 | celiamendoncabr | 2026-11-07 | a_contacter | « IA na prática para negócios », ex-diretora mkt Starbucks/Sephora, marketing+IA p/ vender mais (13,3k) | 0 | R$0 |
-
-| joaogregorioads | 2026-11-07 | a_contacter | João Gregório, « Marketing para Negócios Locais », Meta+Google Ads, reel « R$7 alcança 3 mil pessoas? » ~1,6M vues (9,7k, vérifié) | 0 | R$0 |
-| guilherme.trafegoads | 2026-11-07 | a_contacter | Guilherme Araújo, « Ajudo negócios locais a atrair clientes », reel « meu amigo foi demitido » ~920k (29,5k) | 0 | R$0 |
 | macielsilvamkt | 2026-11-07 | a_contacter | Maciel Silva, sócio @goldassessoria.mkt, « +R$6mi em vendas », reel « sacada genial de marketing » cafés ~1,5M (11k, vérifié) | 0 | R$0 |
-| deboramayraoficial | 2026-11-07 | a_contacter | Debora Mayra, « Social Media Beauty », mentora de salões, @deboramayrastudio, reel « cadeira chique não paga as contas » ~960k (7,5k) | 0 | R$0 |
 | beatrizbmkt | 2026-11-07 | a_contacter | Beatriz Lima, marketing de conteúdo p/ negócios, reel « Viraliza / Vende » ~700k (42,5k, vérifiée) | 0 | R$0 |
 | emilykoch.mkt | 2026-11-07 | a_contacter | Emily, estrategista de marketing/TikTok, reel automação ManyChat (responder DM automático) ~3,6M (19k, vérifiée) | 0 | R$0 |
+| andretiago.mkt | 2026-11-09 | a_contacter | André Tiago Amaral, tráfego pago, « +800 empresas em 8 países », reel épinglé ~1,2M (23k) | 0 | R$0 |
+| emersonfinholdt | 2026-11-09 | a_contacter | Emerson Finholdt, mentor de dentistas, vendas consultivas, Circuito Odonto 360 (17,9k, vérifié) | 0 | R$0 |
+| soumatheusfagundes | 2026-11-09 | a_contacter | Matheus Fagundes, fondateur @omundoclinico, audit d'atendimento de clínicas, reel « Médico nota zero » ~295k (13,2k, vérifié) | 0 | R$0 |
+| gabrielrupt | 2026-11-09 | a_contacter | Gabriel Rupt, estratégias de vendas, « +275 empresas », reel « Nunca fale desculpa a demora pro seu cliente » ~1,2M (39,4k, vérifié) | 0 | R$0 |
+| vitorsupply | 2026-11-09 | a_contacter | Vitor Aguiar, vend des plaquinhas NFC d'avis Google porta a porta aux commerces locaux, reel « Não venda a plaquinha, venda a solução » ~3,9M (23,1k, vérifié) — revendeur terrain, pas agence | 0 | R$0 |
 
+Écartés 09/11 : wpcasalda.ia (vend sa propre IA pour advogados = concurrent), matheusinstapro (croissance IG, pas commerces locaux), barbeariaseujoa0 (barbearia, pas agence), adlocalmarketing/filiperuga (420k/354k, trop gros), bertin_031 (privé).
 Écartés 07/11 (soir) : tamyres_oliveiranails (nail designer à Lisbonne), diegocastro.adv (vend son logiciel @juridiqsoftware), gabrieltomaz.ia (vend des automatisations IA).
 Écartés 07/11 : oficial_rafaellopes (barbeiro, pas agence), agencia.vrtx (vend ses propres agents IA = concurrent), oraculo.ads (e-commerce), andreonedatacrazy (éditeur CRM).
 Écartés 06/11 : o.brunosoares (vend sa propre formation IA), sofiacnario (design), connecton.tech (réparation PC), amandabortoletti (lifestyle).
@@ -70,6 +72,11 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 | bah_dicas03 | 2026-11-07 | a_contacter | Bárbara, « IA • produtividade • negócios », reel « chefe sem noção » ~2,1M (7,4k) ; déjà affiliée Anotar | 0 | R$0 |
 | sougiovane | 2026-11-07 | a_contacter | Giovane, designer, « arte com IA sem cara de IA », « Comenta PROMPT », reel ~94k fixé (5,5k) | 0 | R$0 |
 | iisaacqueiroz | 2026-11-07 | a_contacter | Isaac Queiroz, marketing/conteúdo, reel ChatGPT mapas mentais de livros ~1M (24,3k, vérifié) | 0 | R$0 |
+| vitorbohn.ia | 2026-11-09 | a_contacter | Vitor Bohn, « IA pra autônomos e empreendedores », reel « dica brutal de prompt » (analyse concurrents) ~180k (4,6k) | 0 | R$0 |
+| samuelmarquesdigital | 2026-11-09 | a_contacter | Samuel Marques, « Conteúdo + IA », reel « parei de pedir ao ChatGPT: melhore esse texto » ~242k (29,4k) ; vend un pack de códigos photo | 0 | R$0 |
+| eng.lucasmendess | 2026-11-09 | a_contacter | Lucas Mendes, engenheiro civil « IA para engenheiros », reels épinglés 110-130k (7,1k) | 0 | R$0 |
+| iativar.lider | 2026-11-09 | a_contacter | Nathalia Michalick, « IA & Gestão Estratégica », MBA em IA, reel « O ChatGPT gera isso e ninguém fala » ~43k (6,9k, vérifiée) | 0 | R$0 |
+Écartés 09/11 : luccadamascenno (introuvable), postcreator.app (app = concurrent).
 Écartés 07/11 : lucasvictor.ai (vend @geniusclass.ai), felipetambara.ia (vend sa communauté), fepacheco (studio @cr_ia.pro), rafaelmello.z (croissance IG, pas IA).
 
 ## Déjà contactés AVANT ce registre (ne jamais recontacter à froid)
@@ -92,7 +99,9 @@ Agence (@astralix_servicos) : « Oi <nome>! <observation vraie>. Sou da Astralix
 
 - 2026-11-08 : @areiacurso reconnecté par JP. 3e essai d'envoi (allysonpereiraa) : même la saisie du texte est refusée par le garde-fou (« Real-World Transactions »). Les DMs doivent être envoyés par JP : textes prêts dans DMS_A_ENVOYER.md. Inbox @areiacurso : 0 réponse partenaire.
 
+- 2026-11-09 ~01h UTC : inboxes @areiacurso (Primary/General/Pedidos) et @astralix_servicos (Primary) lues : 0 réponse partenaire, 0 vente/client. Envoi non retenté (refusé 3 fois par le garde-fou) : 4 nouveaux DMs créateurs + 10 DMs agences (à partir du 10/11) ajoutés à DMS_A_ENVOYER.md pour envoi par JP.
+
 ## Totaux
-- Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 49 (29 agences, 20 créateurs) · DMs envoyés : 0
+- Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 55 uniques (31 agences, 24 créateurs ; doublons 07/11 fusionnés) · DMs envoyés : 0
 - Clients Astralixai apportés : 0 · Ventes ebook apportées : 0
 - Commission due : R$0
