@@ -65,3 +65,15 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 - Hypothèse (E1) : la question tue la rétention. Résultat : « Barbeiro » (voix+motion+question) passe de 282 à 738 vues en 48 h ; seul le texte fixe sans voix reste à 265. E2 (conseil + « salva ») = 469 à +33 h.
 - Conclusion : la variable gagnante est VOIX+MOTION, pas le hook POV ; TikTok redistribue sur 24-48 h. Le sujet barbearia est le meilleur performer avec le POV salão/clínica. Toujours 0 commentaire/0 DM -> les vues ne convertissent pas (bio FR sans lien).
 - Décision : (1) mesurer chaque vidéo à +48 h avant de conclure ; (2) E5 = POV + barbearia (doubler le sujet gagnant) TikTok 10/11 18h45 + IG 19h30 ; (3) E3 clínica à remesurer le 10/11 ; (4) bloquant n°1 inchangé : bio TikTok PT-BR + astralixai.com (action JP).
+
+## Diagnostic 13/11 — le plafond des ~730 vues
+- Hypothèse E3/E4/E5 (hook POV clínica / actu IA Meta / POV barbearia) -> résultat à +3-5 jours : 707, 728, 715 vues ; E2 conseil 755 ; toutes les vidéos voix+motion s'arrêtent entre 707 et 755, 0 commentaire, 0-2 likes. Instagram : 5-37 plays.
+- Conclusion : le SUJET du hook ne change rien. ~730 = le premier lot de test TikTok ; aucune vidéo ne passe au 2e lot -> problème de rétention dans les 1-2 premières secondes, pas d'angle. Indice visible : les miniatures de nos 7 vidéos sont des dégradés sombres VIDES (le texte apparaît en fondu après l'image 0). Les outliers BR de la semaine (alvespatrick_ 147K, eupauloleme 262K, brunoluissmkt 785K) ont TOUS le texte du hook à l'écran + la voix dès l'image 0.
+- Décision : E6 = une seule variable, la PREMIÈRE IMAGE (hook statique, gros, fond jaune contrasté, visible à 0 s). Même sujet barbearia que E5 (715) pour comparer proprement.
+
+## E6 (13/11) — Hook visible dès l'image 0 (Astralix)
+- Test : TikTok 13/11 12h30 (id 426450536), IG REEL 19h (id 426450546). Seule différence vs E5 : scène 1 statique jaune, texte complet à 0 s.
+- À mesurer à +48 h (15/11) : vues TikTok vs plafond 707-755 ; likes ; plays IG vs 5.
+- Décision : ≥ 1 000 vues -> toutes les vidéos avec hook statique à l'image 0 ; sinon la variable suivante = format « tutoriel pratique WhatsApp gratuit » (type alvespatrick_ : Evento, mensagem de ausência pour les feriados) avec Astralix en fin de vidéo.
+- Veille vidIQ 13/11 (outliers BR 30 j) : tutoriels pratiques « problème -> fonction gratuite » (lembrete por Evento WhatsApp 147K ; Google Business Profile barbearia en 3D 262K) et sketchs relatables (« como é ser empresário » 437K TikTok). Format faceless animé possible (eupauloleme).
+- Note : demande de contact IG « Pedro Fafá » sur la marque Astralix non trouvée à l'INPI = probable prestataire d'enregistrement ; non répondu ; décision d'enregistrer la marque = JP.
