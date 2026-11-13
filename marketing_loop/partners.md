@@ -42,6 +42,14 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 | gabrielrupt | 2026-11-09 | a_contacter | Gabriel Rupt, estratégias de vendas, « +275 empresas », reel « Nunca fale desculpa a demora pro seu cliente » ~1,2M (39,4k, vérifié) | 0 | R$0 |
 | vitorsupply | 2026-11-09 | a_contacter | Vitor Aguiar, vend des plaquinhas NFC d'avis Google porta a porta aux commerces locaux, reel « Não venda a plaquinha, venda a solução » ~3,9M (23,1k, vérifié) — revendeur terrain, pas agence | 0 | R$0 |
 
+| odair.robsonn | 2026-11-13 | a_contacter | Odair Robson, « Te ensino a anunciar teu negócio sozinho », +R$7M gerenciados em anúncios desde 2018, reel 09/11 ~209k (14,5k, vérifié) | 0 | R$0 |
+| eupauloleme | 2026-11-13 | a_contacter | Paulo Leme, « Crio sites que trazem clientes », dicas Google+IA p/ negócios, reel animé barbearia no Google Maps ~262k (21,9k, vérifié) | 0 | R$0 |
+| joandre.ferraz | 2026-11-13 | a_contacter | Joandre, « 15 anos de Finanças + 6 de MKT = CFO do MKT », « MKT que gera lucro » (3,8k, vérifié) | 0 | R$0 |
+| dr.victornastri | 2026-11-13 | a_contacter | Dr. Victor Nastri, dentista e mentor de dentistas (57,4k, vérifié) | 0 | R$0 |
+| arthurbotelhop | 2026-11-13 | a_contacter | Arthur Botelho, « como ter uma agência que não quebra », +300 empresas, 8 ans, @ads.infinite (forme des agences = multiplicateur ; @ia.orbe = logiciel de gestion d'agence, pas concurrent) (18,4k, vérifié) | 0 | R$0 |
+| jamilefernandez | 2026-11-13 | a_contacter | Jamile Fernandez, agence @veddudigital, fondatrice de la Comunidade SMAM (social medias) (26,7k, vérifiée) | 0 | R$0 |
+
+Écartés 13/11 : ideivan_lima (lojas de roupa), descomplica.kaio (vendas/distribution), josneipopadiuk (humour vendas), doc4u.mentoria (106k, trop gros), fernandoalvaric (créateurs de contenu), joao.ciodaro (introuvable).
 Écartés 09/11 : wpcasalda.ia (vend sa propre IA pour advogados = concurrent), matheusinstapro (croissance IG, pas commerces locaux), barbeariaseujoa0 (barbearia, pas agence), adlocalmarketing/filiperuga (420k/354k, trop gros), bertin_031 (privé).
 Écartés 07/11 (soir) : tamyres_oliveiranails (nail designer à Lisbonne), diegocastro.adv (vend son logiciel @juridiqsoftware), gabrieltomaz.ia (vend des automatisations IA).
 Écartés 07/11 : oficial_rafaellopes (barbeiro, pas agence), agencia.vrtx (vend ses propres agents IA = concurrent), oraculo.ads (e-commerce), andreonedatacrazy (éditeur CRM).
@@ -76,6 +84,11 @@ Statuts : `a_contacter` (vérifié vidIQ, DM pas encore envoyé) · `dm_envoye` 
 | samuelmarquesdigital | 2026-11-09 | a_contacter | Samuel Marques, « Conteúdo + IA », reel « parei de pedir ao ChatGPT: melhore esse texto » ~242k (29,4k) ; vend un pack de códigos photo | 0 | R$0 |
 | eng.lucasmendess | 2026-11-09 | a_contacter | Lucas Mendes, engenheiro civil « IA para engenheiros », reels épinglés 110-130k (7,1k) | 0 | R$0 |
 | iativar.lider | 2026-11-09 | a_contacter | Nathalia Michalick, « IA & Gestão Estratégica », MBA em IA, reel « O ChatGPT gera isso e ninguém fala » ~43k (6,9k, vérifiée) | 0 | R$0 |
+| fernanndods | 2026-11-13 | a_contacter | Fernando DS, « Conteúdo, crescimento e venda com IA », reel « editor de vídeo com IA sem pagar curso » ~720k (12,2k, vérifié) ; a son programme « Usina de conteúdo » | 0 | R$0 |
+| bentoads | 2026-11-13 | a_contacter | Bento (Nerdoverse), « Tecnologia, IA e Games », reel prompt « Departamento de TI no seu PC com IA » ~238k, parcerias ouvertes (30,6k, vérifié) | 0 | R$0 |
+| moniqueoliverugc | 2026-11-13 | a_contacter | Monique, « Dicas e truques de vídeo de IA », prompts/fluxos, reel épinglé ~150k (5,9k) | 0 | R$0 |
+| careerbyjulia | 2026-11-13 | a_contacter | Júlia, currículo/vagas, reel outil IA p/ currículo ~900k (4,6k) | 0 | R$0 |
+Écartés 13/11 : ubrunosouza (vend IA Creators Academy), marcoslevic (vend sa Cápsula IA), eusouoluizeduardoo (croissance IG), dekovkn (vidéo corretores), mayacartertech (anglophone, partenaire Higgsfield).
 Écartés 09/11 : luccadamascenno (introuvable), postcreator.app (app = concurrent).
 Écartés 07/11 : lucasvictor.ai (vend @geniusclass.ai), felipetambara.ia (vend sa communauté), fepacheco (studio @cr_ia.pro), rafaelmello.z (croissance IG, pas IA).
 
@@ -101,7 +114,9 @@ Agence (@astralix_servicos) : « Oi <nome>! <observation vraie>. Sou da Astralix
 
 - 2026-11-09 ~01h UTC : inboxes @areiacurso (Primary/General/Pedidos) et @astralix_servicos (Primary) lues : 0 réponse partenaire, 0 vente/client. Envoi non retenté (refusé 3 fois par le garde-fou) : 4 nouveaux DMs créateurs + 10 DMs agences (à partir du 10/11) ajoutés à DMS_A_ENVOYER.md pour envoi par JP.
 
+- 2026-11-13 ~02h UTC : le compte Chrome ex-@areiacurso s'affiche désormais « dramesfruites » (mêmes conversations : VES, Renata…) et vidIQ ne trouve plus @areiacurso -> le handle a été renommé. Les DMs/kits qui disent « annonce tes ventes à @areiacurso » renvoient vers un compte inexistant : JP doit confirmer le handle ebook. Inboxes dramesfruites + @astralix_servicos (Primary/General/Pedidos) : 0 réponse partenaire. Pedidos astralix : 1 démarchage « registro de marca no INPI » (Pedro Fafá) = pas un partenaire, non répondu. Envoi DM non retenté (3 refus du garde-fou) ; 10 nouveaux DMs dans DMS_A_ENVOYER.md.
+
 ## Totaux
-- Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 55 uniques (31 agences, 24 créateurs ; doublons 07/11 fusionnés) · DMs envoyés : 0
+- Partenaires actifs : 0 · Qualifiés (vérifiés vidIQ) : 65 uniques (37 agences, 28 créateurs) · DMs envoyés : 0
 - Clients Astralixai apportés : 0 · Ventes ebook apportées : 0
 - Commission due : R$0

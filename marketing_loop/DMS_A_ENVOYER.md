@@ -76,3 +76,35 @@ Oi Vitor! Comercial pra médicos em +400 clínicas é muita experiência. Sou da
 
 A10. instagram.com/ceciliamkt2026
 Oi Cecília! Seu tutorial de anúncio no Perfil da Empresa (GMN) é ótimo. Quando o cliente clica e chama no WhatsApp, a Astralixai responde na hora e organiza o horário (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+## Ajout 13/11 — ⚠️ @areiacurso semble renommé « dramesfruites » : remplacer « @areiacurso » par le bon handle ebook avant d'envoyer les DMs créateurs.
+
+A11. instagram.com/odair.robsonn
+Oi Odair! Você ensina o dono de negócio a anunciar sozinho; o passo seguinte é responder rápido quem chama no WhatsApp depois do anúncio. Sou da Astralixai, assistente de IA que atende e organiza os agendamentos no WhatsApp (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A12. instagram.com/eupauloleme
+Oi Paulo! Seu vídeo da barbearia no mapa do Google ficou muito bom. Quando esse cliente do Google chama no WhatsApp, a Astralixai responde na hora e organiza o horário (demo grátis sem conta em astralixai.com). Parceria pra quem já atende negócio local: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A13. instagram.com/joandre.ferraz
+Oi Joandre! Gostei do "MKT que gera lucro", visão de CFO aplicada ao marketing. Sou da Astralixai, assistente de IA no WhatsApp que atende e agenda clientes de pequenas empresas (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente enquanto o cliente ficar assinante, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A14. instagram.com/dr.victornastri
+Oi Dr. Victor! Você mentora dentistas, e muita agenda se perde no WhatsApp sem resposta fora do horário. Sou da Astralixai, assistente de IA que responde o paciente na hora e organiza os pedidos de horário (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º consultório indicado, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A15. instagram.com/arthurbotelhop
+Oi Arthur! Curto sua linha de "agência que não quebra"; receita recorrente é o que segura a agência. Sou da Astralixai, assistente de IA no WhatsApp que atende e agenda clientes de pequenas empresas (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+A16. instagram.com/jamilefernandez
+Oi Jamile! A comunidade SMAM reúne muita social media que atende negócio local. Sou da Astralixai, assistente de IA que responde o WhatsApp do cliente na hora e organiza os agendamentos (demo grátis sem conta em astralixai.com). Parceria: 20% recorrente desde o 1º cliente, 30% a partir de 10 ativos, Pix todo dia 10. Posso te mandar o material?
+
+15. instagram.com/fernanndods
+Oi Fernando! Seu reel do editor de vídeo com IA sem pagar curso explodiu, merecido. Sou do @areiacurso: temos o ebook "O Guia Definitivo da IA" e estou montando um grupo pequeno de parceiros. 40% de cada venda confirmada, pago por Pix, sem custo pra você. Posso te mandar o material?
+
+16. instagram.com/bentoads
+Oi Bento! O prompt do "departamento de TI no seu PC" ficou muito útil. Sou do @areiacurso: temos o ebook "O Guia Definitivo da IA" e estou montando um grupo pequeno de parceiros. 40% de cada venda confirmada, pago por Pix, sem custo pra você. Posso te mandar o material?
+
+17. instagram.com/moniqueoliverugc
+Oi Monique! Adoro como você mostra os fluxos e bastidores dos vídeos de IA. Sou do @areiacurso: temos o ebook "O Guia Definitivo da IA" e estou montando um grupo pequeno de parceiros. 40% de cada venda confirmada, pago por Pix, sem custo pra você. Posso te mandar o material?
+
+18. instagram.com/careerbyjulia
+Oi Júlia! Seu vídeo da ferramenta de IA pro currículo ajudou muita gente. Sou do @areiacurso: temos o ebook "O Guia Definitivo da IA", com uma parte de IA na carreira, e estou montando um grupo pequeno de parceiros. 40% de cada venda confirmada, por Pix, sem custo. Posso te mandar o material?
