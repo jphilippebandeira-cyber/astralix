@@ -77,3 +77,14 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 - Décision : ≥ 1 000 vues -> toutes les vidéos avec hook statique à l'image 0 ; sinon la variable suivante = format « tutoriel pratique WhatsApp gratuit » (type alvespatrick_ : Evento, mensagem de ausência pour les feriados) avec Astralix en fin de vidéo.
 - Veille vidIQ 13/11 (outliers BR 30 j) : tutoriels pratiques « problème -> fonction gratuite » (lembrete por Evento WhatsApp 147K ; Google Business Profile barbearia en 3D 262K) et sketchs relatables (« como é ser empresário » 437K TikTok). Format faceless animé possible (eupauloleme).
 - Note : demande de contact IG « Pedro Fafá » sur la marque Astralix non trouvée à l'INPI = probable prestataire d'enregistrement ; non répondu ; décision d'enregistrer la marque = JP.
+
+## Point 13/11 20h30 BRT
+- E6 (hook visible image 0) -> 253 vues à +8 h : dans la même courbe que les précédentes à ce stade ; conclusion reportée à +48 h (15/11). Pas de nouvelle conclusion aujourd'hui.
+- 0 commentaire / 0 DM / 0 vente sur 9 vidéos : la conversion reste nulle quel que soit le hook ; bloquant inchangé = bio TikTok FR sans lien (action JP).
+
+## E7 (14/11) — Format TUTORIEL gratuit vs POV (Astralix)
+- Hypothèse : les outliers BR (alvespatrick_ 147K, revistapegn feriado 1,1M) sont des tutoriels « problème -> fonction gratuite ». Un tutoriel utile et daté (feriado 20/11, Dia da Consciência Negra, férié national depuis la loi 14.759/2023) génère des enregistrements/partages et passe le 1er lot TikTok.
+- Variable testée : le format (tutoriel concret), hook image 0 jaune conservé de E6.
+- Test : TikTok 14/11 12h30 (id 427578799), IG REEL 19h (id 427578820).
+- À mesurer à +48 h (16/11) : vues vs plafond ~730 et vs E6 ; favoris/partages (>2 = signal) ; plays IG.
+- Décision : si E7 > 1 000 vues ou ≥ 3 favoris -> 1 tutoriel gratuit/semaine (veille vidIQ pour les sujets) ; sinon on revient au POV et on teste la durée (12-15 s).
