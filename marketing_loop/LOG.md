@@ -267,3 +267,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - LinkedIn: D2 « primeiro emprego » programmé ven. 13/11 08:00 ; 15 invitations sans note ; 1 commentaire (Leo Candido, Gemini 4 Hydrogen) ; 0 commentaire/message entrant.
 - MESURE: documents D1 ≈0 et D3 = 1 impression vs textes récents 8-16 -> le format document programmé ne porte pas pour l'instant ; prochain test: document publié en direct.
 - Gmail (4 j): 0 prospect/client/partenaire, 0 brouillon. Alerte Santander anti-golpe WhatsApp (info générique, pas d'action). Google: connexions « Se connecter avec Google » à kikochat.app (10/11) et TrendStory (08/11) -> à vérifier par JP si inconnues.
+
+## 2026-11-13 ~23h15 UTC — Passage LinkedIn + Gmail
+- LinkedIn: 3 posts déjà programmés (16, 18, 20/11 08:30, autre session) -> rien créé ; D4 RH/recrutamento prêt en file. 15 invitations sans note (bandeau limite de recherches mensuelles apparu) ; 1 commentaire (Ronie Oliveira Reyes) ; 0 entrant.
+- MESURE: D2 document = 6 impressions (+12 h), D3 = 5 vs textes 8-16.
+- Gmail: 0 prospect/client/partenaire, 0 brouillon. ⚠️ Hotmart 13/11: incident de sécurité (accès non autorisé du 12/10) touchant nom, e-mail, volume transactionnel, appareil du compte AREIAPLAY ; aucun mouvement de fonds. GitHub 13/11: l'app Claude demande des permissions supplémentaires (à valider par JP).

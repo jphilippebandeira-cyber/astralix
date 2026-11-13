@@ -1,35 +1,240 @@
 {
  "D1_banco_7_prompts": [
-  {"t":"cover","num":"7","title":"prompts para quem trabalha em banco","sub":"Atendimento, carteira e rotina de agência. Salve e teste amanhã."},
-  {"k":"Antes de tudo","title":"A regra de ouro","p":["Nada de nome, CPF, conta, saldo ou dado de cliente em ferramenta pública de IA.","Use a ferramenta aprovada pelo seu banco ou descreva a situação sem identificar ninguém (LGPD e sigilo bancário)."]},
-  {"k":"1 · Explicar um produto","title":"Linguagem simples, sem jargão","box":"Explique <b>[produto, ex.: CDB com liquidez diária]</b> para um cliente sem conhecimento financeiro, em 5 frases curtas. Inclua 1 exemplo com valores fictícios e 1 risco ou limite que ele precisa saber.","tip":"Confira taxas e regras no material oficial antes de usar."},
-  {"k":"2 · E-mail difícil","title":"Responder sem prometer o que não pode","box":"Reescreva esta resposta para um cliente insatisfeito: tom educado e direto, reconheça o problema em 1 frase, diga o próximo passo e o prazo. Onde faltar informação, escreva <b>[CONFIRMAR]</b>. Rascunho: [cole sem dados pessoais]"},
-  {"k":"3 · Roteiro de ligação","title":"Preparar a conversa de carteira","box":"Monte um roteiro de 2 minutos para ligar para um cliente PJ de <b>[segmento]</b> que não movimenta a conta há 60 dias: abertura, 2 perguntas abertas, como ouvir a resposta e um próximo passo sem pressão."},
-  {"k":"4 · Normativo longo","title":"Resumo que você consegue conferir","box":"Resuma este normativo interno em: o que muda, para quem, a partir de quando e o que eu preciso fazer diferente. Cite o trecho de onde tirou cada ponto. Se algo não estiver claro, escreva <b>[VERIFICAR]</b>."},
-  {"k":"5 · Checklist","title":"Nunca mais esquecer um documento","box":"Crie um checklist em tópicos para <b>[processo, ex.: abertura de conta PJ]</b> com base na lista de exigências que vou colar. Separe: documentos, conferências e pontos de atenção."},
-  {"k":"6 · Reunião","title":"Pauta e ata em 5 minutos","box":"Transforme estas anotações soltas em uma ata: decisões, responsáveis, prazos e pendências marcadas como <b>[A DEFINIR]</b>. Depois, escreva o e-mail de follow-up em 5 linhas."},
-  {"k":"7 · Sua carreira","title":"Preparar para certificação ou promoção","box":"Sou <b>[cargo]</b> e quero <b>[ex.: passar na CPA-20 / virar gerente PJ]</b>. Monte um plano de 4 semanas, 30 minutos por dia, com 1 exercício prático por semana e como medir se aprendi."},
-  {"t":"end","title":"A IA prepara. A decisão continua sendo sua.","p":["Mais prompts organizados por situação de trabalho no guia.","Amostra grátis em are-ia.com"]}
+  {
+   "t": "cover",
+   "num": "7",
+   "title": "prompts para quem trabalha em banco",
+   "sub": "Atendimento, carteira e rotina de agência. Salve e teste amanhã."
+  },
+  {
+   "k": "Antes de tudo",
+   "title": "A regra de ouro",
+   "p": [
+    "Nada de nome, CPF, conta, saldo ou dado de cliente em ferramenta pública de IA.",
+    "Use a ferramenta aprovada pelo seu banco ou descreva a situação sem identificar ninguém (LGPD e sigilo bancário)."
+   ]
+  },
+  {
+   "k": "1 · Explicar um produto",
+   "title": "Linguagem simples, sem jargão",
+   "box": "Explique <b>[produto, ex.: CDB com liquidez diária]</b> para um cliente sem conhecimento financeiro, em 5 frases curtas. Inclua 1 exemplo com valores fictícios e 1 risco ou limite que ele precisa saber.",
+   "tip": "Confira taxas e regras no material oficial antes de usar."
+  },
+  {
+   "k": "2 · E-mail difícil",
+   "title": "Responder sem prometer o que não pode",
+   "box": "Reescreva esta resposta para um cliente insatisfeito: tom educado e direto, reconheça o problema em 1 frase, diga o próximo passo e o prazo. Onde faltar informação, escreva <b>[CONFIRMAR]</b>. Rascunho: [cole sem dados pessoais]"
+  },
+  {
+   "k": "3 · Roteiro de ligação",
+   "title": "Preparar a conversa de carteira",
+   "box": "Monte um roteiro de 2 minutos para ligar para um cliente PJ de <b>[segmento]</b> que não movimenta a conta há 60 dias: abertura, 2 perguntas abertas, como ouvir a resposta e um próximo passo sem pressão."
+  },
+  {
+   "k": "4 · Normativo longo",
+   "title": "Resumo que você consegue conferir",
+   "box": "Resuma este normativo interno em: o que muda, para quem, a partir de quando e o que eu preciso fazer diferente. Cite o trecho de onde tirou cada ponto. Se algo não estiver claro, escreva <b>[VERIFICAR]</b>."
+  },
+  {
+   "k": "5 · Checklist",
+   "title": "Nunca mais esquecer um documento",
+   "box": "Crie um checklist em tópicos para <b>[processo, ex.: abertura de conta PJ]</b> com base na lista de exigências que vou colar. Separe: documentos, conferências e pontos de atenção."
+  },
+  {
+   "k": "6 · Reunião",
+   "title": "Pauta e ata em 5 minutos",
+   "box": "Transforme estas anotações soltas em uma ata: decisões, responsáveis, prazos e pendências marcadas como <b>[A DEFINIR]</b>. Depois, escreva o e-mail de follow-up em 5 linhas."
+  },
+  {
+   "k": "7 · Sua carreira",
+   "title": "Preparar para certificação ou promoção",
+   "box": "Sou <b>[cargo]</b> e quero <b>[ex.: passar na CPA-20 / virar gerente PJ]</b>. Monte um plano de 4 semanas, 30 minutos por dia, com 1 exercício prático por semana e como medir se aprendi."
+  },
+  {
+   "t": "end",
+   "title": "A IA prepara. A decisão continua sendo sua.",
+   "p": [
+    "Mais prompts organizados por situação de trabalho no guia.",
+    "Amostra grátis em are-ia.com"
+   ]
+  }
  ],
  "D2_primeiro_emprego": [
-  {"t":"cover","num":"6","title":"tarefas do primeiro emprego que a IA te ajuda a fazer melhor","sub":"Para estagiário, trainee e quem está começando."},
-  {"k":"1 · Entender a empresa","title":"Chegar na primeira semana sabendo o básico","box":"Vou colar o texto público do site da empresa. Explique em 10 tópicos: o que ela vende, para quem, principais concorrentes citados e 5 perguntas inteligentes que eu posso fazer ao meu gestor."},
-  {"k":"2 · Siglas e jargões","title":"Montar o seu glossário","box":"Liste em uma tabela as siglas deste texto, o significado e um exemplo de uso no dia a dia. Marque com <b>[?]</b> as que podem ter mais de um sentido, para eu confirmar com o time."},
-  {"k":"3 · E-mail para o gestor","title":"Claro, curto e sem rodeio","box":"Reescreva este e-mail para o meu gestor em até 6 linhas: contexto em 1 frase, o que eu preciso, até quando, e uma proposta de solução. Rascunho: [cole aqui]"},
-  {"k":"4 · Excel","title":"Fórmula sem passar vergonha","box":"Uso Excel em português. Colunas: [descreva, sem dados reais]. Quero [resultado]. Me dê a fórmula, explique cada parte e diga como testar em 3 linhas."},
-  {"k":"5 · Apresentação","title":"Do documento aos slides","box":"Transforme este texto em uma apresentação de 6 slides: título de cada slide como frase de conclusão, 3 tópicos no máximo por slide e 1 pergunta que o público provavelmente vai fazer."},
-  {"k":"6 · Feedback","title":"Pedir e usar feedback de verdade","box":"Me ajude a pedir feedback ao meu gestor depois de 30 dias: 3 perguntas específicas sobre o meu trabalho e como transformar a resposta em 2 metas para o próximo mês."},
-  {"k":"Cuidado","title":"O que não colar na IA","p":["Dados de clientes, informações internas sigilosas e documentos confidenciais.","Na dúvida, pergunte qual ferramenta a empresa aprova."]},
-  {"t":"end","title":"Quem aprende a pedir e a conferir sai na frente.","p":["Guia completo com prompts por situação de trabalho.","Amostra grátis em are-ia.com"]}
+  {
+   "t": "cover",
+   "num": "6",
+   "title": "tarefas do primeiro emprego que a IA te ajuda a fazer melhor",
+   "sub": "Para estagiário, trainee e quem está começando."
+  },
+  {
+   "k": "1 · Entender a empresa",
+   "title": "Chegar na primeira semana sabendo o básico",
+   "box": "Vou colar o texto público do site da empresa. Explique em 10 tópicos: o que ela vende, para quem, principais concorrentes citados e 5 perguntas inteligentes que eu posso fazer ao meu gestor."
+  },
+  {
+   "k": "2 · Siglas e jargões",
+   "title": "Montar o seu glossário",
+   "box": "Liste em uma tabela as siglas deste texto, o significado e um exemplo de uso no dia a dia. Marque com <b>[?]</b> as que podem ter mais de um sentido, para eu confirmar com o time."
+  },
+  {
+   "k": "3 · E-mail para o gestor",
+   "title": "Claro, curto e sem rodeio",
+   "box": "Reescreva este e-mail para o meu gestor em até 6 linhas: contexto em 1 frase, o que eu preciso, até quando, e uma proposta de solução. Rascunho: [cole aqui]"
+  },
+  {
+   "k": "4 · Excel",
+   "title": "Fórmula sem passar vergonha",
+   "box": "Uso Excel em português. Colunas: [descreva, sem dados reais]. Quero [resultado]. Me dê a fórmula, explique cada parte e diga como testar em 3 linhas."
+  },
+  {
+   "k": "5 · Apresentação",
+   "title": "Do documento aos slides",
+   "box": "Transforme este texto em uma apresentação de 6 slides: título de cada slide como frase de conclusão, 3 tópicos no máximo por slide e 1 pergunta que o público provavelmente vai fazer."
+  },
+  {
+   "k": "6 · Feedback",
+   "title": "Pedir e usar feedback de verdade",
+   "box": "Me ajude a pedir feedback ao meu gestor depois de 30 dias: 3 perguntas específicas sobre o meu trabalho e como transformar a resposta em 2 metas para o próximo mês."
+  },
+  {
+   "k": "Cuidado",
+   "title": "O que não colar na IA",
+   "p": [
+    "Dados de clientes, informações internas sigilosas e documentos confidenciais.",
+    "Na dúvida, pergunte qual ferramenta a empresa aprova."
+   ]
+  },
+  {
+   "t": "end",
+   "title": "Quem aprende a pedir e a conferir sai na frente.",
+   "p": [
+    "Guia completo com prompts por situação de trabalho.",
+    "Amostra grátis em are-ia.com"
+   ]
+  }
  ],
  "D3_5_erros_prompt": [
-  {"t":"cover","num":"5","title":"erros que fazem a IA te dar uma resposta ruim","sub":"E o conserto de cada um, em 1 linha."},
-  {"k":"Erro 1","title":"Pedir sem contexto","p":["\"Escreve um e-mail para o cliente.\"","Conserto: diga quem é o cliente, o que aconteceu e o que você quer que ele faça depois de ler."]},
-  {"k":"Erro 2","title":"Não dizer o formato","p":["A IA devolve 4 parágrafos quando você queria 3 linhas.","Conserto: \"em até 5 linhas\", \"em tabela\", \"em tópicos\"."]},
-  {"k":"Erro 3","title":"Aceitar a primeira resposta","p":["A primeira versão é rascunho.","Conserto: \"mais curto\", \"tom mais formal\", \"tire os clichês\", \"me dê 3 opções\"."]},
-  {"k":"Erro 4","title":"Deixar a IA inventar","p":["Sem a informação, ela completa com chute: prazo, valor, nome de lei.","Conserto: \"se faltar informação, escreva [CONFIRMAR]\"."]},
-  {"k":"Erro 5","title":"Colar dado sensível","p":["CPF, conta, saúde, dado de cliente: fora.","Conserto: descreva a situação sem identificar ninguém ou use a ferramenta aprovada pela empresa."]},
-  {"k":"Resumo","title":"O prompt que funciona","box":"<b>Contexto</b> (quem, o quê, por quê) + <b>Tarefa</b> (o que fazer) + <b>Formato</b> (tamanho, estrutura, tom) + <b>Regra</b> (\"se faltar, escreva [CONFIRMAR]\")"},
-  {"t":"end","title":"IA não é mágica. É método.","p":["Método completo e prompts prontos no guia.","Amostra grátis em are-ia.com"]}
+  {
+   "t": "cover",
+   "num": "5",
+   "title": "erros que fazem a IA te dar uma resposta ruim",
+   "sub": "E o conserto de cada um, em 1 linha."
+  },
+  {
+   "k": "Erro 1",
+   "title": "Pedir sem contexto",
+   "p": [
+    "\"Escreve um e-mail para o cliente.\"",
+    "Conserto: diga quem é o cliente, o que aconteceu e o que você quer que ele faça depois de ler."
+   ]
+  },
+  {
+   "k": "Erro 2",
+   "title": "Não dizer o formato",
+   "p": [
+    "A IA devolve 4 parágrafos quando você queria 3 linhas.",
+    "Conserto: \"em até 5 linhas\", \"em tabela\", \"em tópicos\"."
+   ]
+  },
+  {
+   "k": "Erro 3",
+   "title": "Aceitar a primeira resposta",
+   "p": [
+    "A primeira versão é rascunho.",
+    "Conserto: \"mais curto\", \"tom mais formal\", \"tire os clichês\", \"me dê 3 opções\"."
+   ]
+  },
+  {
+   "k": "Erro 4",
+   "title": "Deixar a IA inventar",
+   "p": [
+    "Sem a informação, ela completa com chute: prazo, valor, nome de lei.",
+    "Conserto: \"se faltar informação, escreva [CONFIRMAR]\"."
+   ]
+  },
+  {
+   "k": "Erro 5",
+   "title": "Colar dado sensível",
+   "p": [
+    "CPF, conta, saúde, dado de cliente: fora.",
+    "Conserto: descreva a situação sem identificar ninguém ou use a ferramenta aprovada pela empresa."
+   ]
+  },
+  {
+   "k": "Resumo",
+   "title": "O prompt que funciona",
+   "box": "<b>Contexto</b> (quem, o quê, por quê) + <b>Tarefa</b> (o que fazer) + <b>Formato</b> (tamanho, estrutura, tom) + <b>Regra</b> (\"se faltar, escreva [CONFIRMAR]\")"
+  },
+  {
+   "t": "end",
+   "title": "IA não é mágica. É método.",
+   "p": [
+    "Método completo e prompts prontos no guia.",
+    "Amostra grátis em are-ia.com"
+   ]
+  }
+ ],
+ "D4_rh_recrutamento": [
+  {
+   "t": "cover",
+   "num": "6",
+   "title": "prompts para quem trabalha com RH e recrutamento",
+   "sub": "Vaga, triagem, entrevista e onboarding. Salve e teste na próxima vaga."
+  },
+  {
+   "k": "Antes de tudo",
+   "title": "Currículo é dado pessoal",
+   "p": [
+    "Não cole currículos com nome, CPF, telefone, endereço ou foto em ferramenta pública de IA.",
+    "Use a ferramenta aprovada pela empresa ou anonimize (LGPD). E a decisão final sobre pessoas é sempre sua, não da IA."
+   ]
+  },
+  {
+   "k": "1 · Descrição de vaga",
+   "title": "Clara, inclusiva e sem lista infinita",
+   "box": "Escreva a descrição da vaga de <b>[cargo]</b> para <b>[área/empresa, sem nome]</b>: 3 frases sobre o desafio, 5 responsabilidades, separe <b>obrigatório</b> de <b>desejável</b> (no máximo 4 cada). Linguagem neutra em gênero e sem jargão interno.",
+   "tip": "Peça em seguida: “o que nesta vaga pode afastar bons candidatos?”"
+  },
+  {
+   "k": "2 · Critérios de triagem",
+   "title": "Decidir o que importa antes de ler currículos",
+   "box": "Com base nesta descrição de vaga, monte uma matriz de triagem com 5 critérios observáveis, o que conta como evidência de cada um e o peso de 1 a 3. Não inclua idade, gênero, foto, endereço ou instituição de ensino como critério."
+  },
+  {
+   "k": "3 · Roteiro de entrevista",
+   "title": "Perguntas comportamentais com régua",
+   "box": "Crie 6 perguntas de entrevista por competência para <b>[cargo]</b> no formato situação–ação–resultado. Para cada uma: o que seria uma resposta forte, uma fraca e 1 pergunta de aprofundamento."
+  },
+  {
+   "k": "4 · Devolutiva",
+   "title": "Responder quem não passou, com respeito",
+   "box": "Escreva uma mensagem curta de devolutiva para candidato não aprovado na etapa de <b>[etapa]</b>: agradeça, seja honesto sem detalhar comparações, deixe a porta aberta para vagas futuras. Tom humano, máximo 6 linhas."
+  },
+  {
+   "k": "5 · Onboarding",
+   "title": "Primeira semana sem improviso",
+   "box": "Monte o plano da primeira semana de um(a) <b>[cargo]</b>: dia a dia, quem a pessoa encontra, o que ela precisa acessar e 1 entrega pequena até sexta. Marque com <b>[CONFIRMAR]</b> o que depende de TI ou do gestor."
+  },
+  {
+   "k": "6 · Pesquisa interna",
+   "title": "Ler comentários abertos sem se perder",
+   "box": "Agrupe estes comentários anônimos da pesquisa de clima em até 6 temas, com a quantidade aproximada de cada um e 1 citação representativa. Separe elogios, críticas e sugestões. Não tente identificar autores."
+  },
+  {
+   "k": "Cuidado",
+   "title": "IA ajuda a organizar, não a decidir",
+   "p": [
+    "Ferramentas de IA podem reproduzir vieses. Revise cada critério e cada texto antes de usar.",
+    "Nunca deixe a IA aprovar ou reprovar candidatos sozinha."
+   ]
+  },
+  {
+   "t": "end",
+   "title": "RH que pede bem e confere tudo ganha tempo para as pessoas.",
+   "p": [
+    "Guia completo com prompts por situação de trabalho.",
+    "Amostra grátis em are-ia.com"
+   ]
+  }
  ]
 }

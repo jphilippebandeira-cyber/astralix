@@ -15,8 +15,10 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - D1_banco_7_prompts — PROGRAMMÉ mar. 10/11 08:00
 - D3_5_erros_prompt — PROGRAMMÉ mer. 11/11 08:00
 - D2_primeiro_emprego — PROGRAMMÉ ven. 13/11 08:00 (programmé le 13/11 ~02h UTC)
-- FILE VIDE -> prochain passage : créer un nouveau deck (RH/recrutamento ou vendas en priorité).
-- Prochains sujets (non faits) : RH/recrutamento, vendas/comercial, atendimento ao cliente, gestor de equipe 1:1, estudante TCC/estudos, analista financeiro.
+- D4_rh_recrutamento (10 pages, créé 13/11) — EN FILE, non programmé (créneau lun. 16/11 déjà pris).
+- PROGRAMMÉS PAR UNE AUTRE SESSION (vus 13/11, ne pas répéter) : lun. 16/11 08:30 « 5 regras de LGPD para usar ChatGPT na empresa » (doc 7 p.) ; mer. 18/11 08:30 « Treinar a equipe em IA: faça a conta » (doc) ; ven. 20/11 08:30 « Trainee 2027: 3 prompts » (lien are-ia.com).
+- Prochain créneau libre : mar. 17/11 ou jeu. 19/11 08:00 -> D4.
+- Prochains sujets (non faits) : vendas/comercial, atendimento ao cliente, gestor de equipe 1:1, estudante TCC/estudos, analista financeiro.
 
 ## Astuces techniques
 - DOCUMENT : composer > « + » > Document. L'input file n'existe pas dans le DOM : surcharger HTMLInputElement.prototype.click (capturer l'input type=file, l'attacher au body avec aria-label « captured file input », ne pas ouvrir le sélecteur), cliquer « Choisir un fichier » via JS, find « captured file input », puis file_upload depuis /mnt/user-data/outputs/. Titre (≤58 car.) > Terminé > coller la légende.
@@ -77,3 +79,12 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - Mots-clés utilisés: + analista financeiro IA; gerente de projetos IA; secretária executiva IA; estudante de contabilidade IA; consultor de RH ChatGPT. Prochaine fois: analista de marketing IA, coordenador comercial, gerente de loja, analista de dados júnior, professor de ensino médio IA.
 - Astuce NOUVELLE: le paste ClipboardEvent ne marche plus dans le composer -> utiliser l'API tiptap: `el=document.querySelector('.tiptap.ProseMirror'); el.editor.commands.setContent({type:'doc',content:[{type:'paragraph',content:[texte, {type:'hardBreak'}, ...]}]}, true)` (schéma = paragraph + hardBreak seulement ; plusieurs <p> sont fusionnés). Idem pour les commentaires.
 - Popup « Premium » à fermer à l'ouverture du fil (X en haut à droite).
+
+## 2026-11-13 (passage planifié, ~23h15 UTC = 20h15 BRT)
+- POST: « Programmé (3) » -> lun. 16/11, mer. 18/11, ven. 20/11 à 08:30 (créés hors de cette tâche) -> RIEN créé. D4_rh_recrutamento généré (10 p., contrôlé) et mis en file pour mar. 17/11 08:00.
+- MESURE (page Activité): D2 primeiro emprego (document programmé, 13/11 08h) = 6 à +12 h ; D3 5 erros (document) = 5 ; resumo executivo (texte) = 8 ; feedback (texte) = 16 ; Excel (texte) = 16 ; ata = 147. D1 banco n'apparaît plus dans l'Activité (jamais publié ou supprimé ?). CONSTAT: documents 5-6 vs textes 8-16 -> pas d'avantage document sur ce compte.
+- Entrant: 0 commentaire, 0 message ; invitation reçue = seulement newsletter Fernando Terra (ignorée). Edileide Carvalho (invitée 13/11) a consulté le profil.
+- INVITATIONS (15, sans note, aucun avertissement): analista de marketing IA (Felipe Honorato, Bruna Almeida, Gabriela Dupilar), coordenador comercial IA (Silas Oliveira, Raul Medeiros, Fabio Aleixo), gerente de loja IA (Alexandre Albuquerque, Loriel Carvalho, Carlos Cavalcante), analista de dados júnior IA (Carlos Jayme, Renato Bras), professor ensino médio inteligência artificial (Rafael Ferreira, Raphael Leal, Luiz Felipe Santoro), analista de atendimento IA (Thamires Santiago).
+- ⚠️ BANDEAU « Vous avez atteint votre limite de recherches mensuelles » (recherche Personnes) apparu après la 6e recherche : les résultats restent visibles en partie (profils « Utilisateur LinkedIn » masqués). Prochains passages: alternative = onglet « Réseau » > suggestions (Personnes que vous pourriez connaître) filtrées sur titres brésiliens pertinents.
+- COMMENTAIRE (1): Ronie Oliveira Reyes (post Reuters/Fed sur l'impact IA sur juniors, 7 h): IA fait le 1er rascunho, le júnior confère/corrige/explique ; feedback du sênior. Publié sans toast de limite (~21 h après le précédent).
+- Mots-clés utilisés: + analista de marketing IA; coordenador comercial IA; gerente de loja IA; analista de dados júnior IA; professor ensino médio IA; analista de atendimento IA.
