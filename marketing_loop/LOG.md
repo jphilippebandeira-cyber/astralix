@@ -272,3 +272,7 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - LinkedIn: 3 posts déjà programmés (16, 18, 20/11 08:30, autre session) -> rien créé ; D4 RH/recrutamento prêt en file. 15 invitations sans note (bandeau limite de recherches mensuelles apparu) ; 1 commentaire (Ronie Oliveira Reyes) ; 0 entrant.
 - MESURE: D2 document = 6 impressions (+12 h), D3 = 5 vs textes 8-16.
 - Gmail: 0 prospect/client/partenaire, 0 brouillon. ⚠️ Hotmart 13/11: incident de sécurité (accès non autorisé du 12/10) touchant nom, e-mail, volume transactionnel, appareil du compte AREIAPLAY ; aucun mouvement de fonds. GitHub 13/11: l'app Claude demande des permissions supplémentaires (à valider par JP).
+## 2026-11-13 ~23h30 UTC — Partenariats
+- Inboxes « dramesfruites » (ex-@areiacurso) + @astralix_servicos (Primary/General/Pedidos) : 0 réponse partenaire, 0 client/vente.
+- +10 partenaires vérifiés vidIQ : agences alvespatrick_, suacedmarketing, leandromendes.digital, alaniobezerra, dudabambill, heliocosta.jr ; créateurs euranysousa, mariacarolinamariano, casadoclaude.ia, digoplemos. 14 écartés (concurrents/hors cible).
+- DMs non retentés (3 refus du garde-fou) : A17-A22 + 19-22 ajoutés à DMS_A_ENVOYER.md. Actifs 0, commission due R$0.
