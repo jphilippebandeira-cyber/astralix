@@ -14,7 +14,8 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 ## File d'attente DOCUMENTS (PDF carrousel, marketing_loop/linkedin_docs/, généré par build.py depuis decks.json)
 - D1_banco_7_prompts — PROGRAMMÉ mar. 10/11 08:00
 - D3_5_erros_prompt — PROGRAMMÉ mer. 11/11 08:00
-- D2_primeiro_emprego — À PROGRAMMER pour jeu. 12/11 08:00 (refusé le 08/11 : « nombre maximal de posts pour aujourd'hui »)
+- D2_primeiro_emprego — PROGRAMMÉ ven. 13/11 08:00 (programmé le 13/11 ~02h UTC)
+- FILE VIDE -> prochain passage : créer un nouveau deck (RH/recrutamento ou vendas en priorité).
 - Prochains sujets (non faits) : RH/recrutamento, vendas/comercial, atendimento ao cliente, gestor de equipe 1:1, estudante TCC/estudos, analista financeiro.
 
 ## Astuces techniques
@@ -66,3 +67,13 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - COMMENTAIRES: 1 — Ítalo Teotônio (« Em 2027 quem não sabe IA está de fora »: dado 91 % Korn Ferry + praticar numa tarefa repetitiva + saber conferir). 2e (Maxsuel Fernando, prompt plano de estudos) REFUSÉ: « limite quotidienne de commentaires » -> ARRÊT.
 - CONSTAT: la limite tombe au 2e commentaire même après > 40 h. Le compte semble plafonné à ~1 commentaire/jour -> prochain passage: 1 seul commentaire, le plus qualitatif.
 - Mots-clés utilisés: + controller IA (peu de résultats); coordenador de RH inteligência artificial; gerente de operações IA; analista de compliance IA; professor ensino técnico inteligência artificial. Prochaine fois: analista financeiro IA, gerente de projetos IA, secretária executiva IA, estudante de contabilidade IA, consultor de RH ChatGPT.
+
+## 2026-11-13 (passage planifié, ~02h UTC = 12/11 23h BRT)
+- POST: « Programmé (0) » -> D2_primeiro_emprego (9 pages, titre « Primeiro emprego: 6 tarefas que a IA te ajuda a fazer ») PROGRAMMÉ ven. 13/11 08:00 (toast « Post programmé »). Légende: accroche + 6 tâches + cuidado LGPD + question + 4 hashtags, sans lien.
+- MESURE (page Activité, impressions affichées): D3 5 erros (document, 11/11) = 1 ; D1 banco (document, 10/11) = aucun chiffre affiché (≈0) ; résumé exécutif (texte, 07/11) = 8 ; feedback (texte) = 16 ; Excel (texte) = 16 ; e-mail cliente = 34 ; ata = 147 ; ChatGPT 1 prompt = 37. CONSTAT: les 2 documents programmés font MOINS que les textes (0-1 vs 8-16). Hypothèse: posts programmés et/ou absence d'engagement 1re heure. À tester: publier le prochain document en direct (pas programmé) pour isoler l'effet.
+- Entrant: 0 commentaire sur nos posts, 0 message (seuls LinkedIn/InMail sponsorisé). Invitations reçues: seulement une invitation à une newsletter (Fernando Terra) -> ignorée. 81 abonnés.
+- INVITATIONS (15, sans note, aucun avertissement): analista financeiro IA (Raquel Perrini, Gabriel Leal, Yosaf Marques, Talita S.), gerente de projetos IA (Henrique Vidal, Paulo Henrique Rodrigues Sousa, Thamires Lacerda, Felipe José Feltrin), secretária executiva IA (Emilia Teixeira, Esmeralda L. Neves, Vânia de Oliveira, Denise Fattore), estudante de contabilidade IA (Isabel C, Renato Vinotti), consultor de RH ChatGPT (Edileide Carvalho).
+- COMMENTAIRE (1): Leo Candido (Executive Top Voice, post Gemini 4 Hydrogen <7 h): méthode non-dev pour comparer 2 modèles (10 tâches réelles, 3 colonnes acertou/tempo/correção, répéter 2-3 fois). Publié, pas de toast de limite.
+- Mots-clés utilisés: + analista financeiro IA; gerente de projetos IA; secretária executiva IA; estudante de contabilidade IA; consultor de RH ChatGPT. Prochaine fois: analista de marketing IA, coordenador comercial, gerente de loja, analista de dados júnior, professor de ensino médio IA.
+- Astuce NOUVELLE: le paste ClipboardEvent ne marche plus dans le composer -> utiliser l'API tiptap: `el=document.querySelector('.tiptap.ProseMirror'); el.editor.commands.setContent({type:'doc',content:[{type:'paragraph',content:[texte, {type:'hardBreak'}, ...]}]}, true)` (schéma = paragraph + hardBreak seulement ; plusieurs <p> sont fusionnés). Idem pour les commentaires.
+- Popup « Premium » à fermer à l'ouverture du fil (X en haut à droite).
