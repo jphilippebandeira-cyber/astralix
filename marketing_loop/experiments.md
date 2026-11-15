@@ -88,3 +88,14 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 - Test : TikTok 14/11 12h30 (id 427578799), IG REEL 19h (id 427578820).
 - À mesurer à +48 h (16/11) : vues vs plafond ~730 et vs E6 ; favoris/partages (>2 = signal) ; plays IG.
 - Décision : si E7 > 1 000 vues ou ≥ 3 favoris -> 1 tutoriel gratuit/semaine (veille vidIQ pour les sujets) ; sinon on revient au POV et on teste la durée (12-15 s).
+
+## Diagnostic 15/11 — le fond jaune statique a CASSÉ TikTok (2 échecs)
+- Hypothèse E6/E7 : hook statique jaune lisible à l'image 0 -> passer le 1er lot. Résultat : E6 257 vues à +54 h, E7 255 à +30 h (vs 707-755 pour les 7 vidéos fond foncé), 0 interaction.
+- Conclusion : la miniature/1re image jaune vide n'aide pas sur TikTok (elle aide un peu sur IG : E6 86 plays). Abandonné sur TikTok (2 échecs). Le format tutoriel (E7) n'est pas jugeable (confondu avec le jaune).
+- Contrainte nouvelle : Metricool gratuit = 20 posts/mois, 16 utilisés -> 4 restants jusqu'au 01/12 ; TikTok prioritaire, 1 vidéo tous les 3-4 jours, chaque vidéo = une vraie expérience.
+
+## E8 (16/11) — Hook « faz essa conta comigo » (calcul de perte), style foncé d'origine
+- Source : outliers BR polvoapp 156K / nuncacai 172K (comptes de 1-6K abonnés, explainers animés sans visage).
+- Variable testée : le TYPE de hook (calcul concret en R$, chiffre exemple affiché comme exemple) ; style visuel = contrôle (fond foncé motion, plancher ~710 vues).
+- Test : TikTok 16/11 12h30 (id 429174389). Pas d'IG (quota).
+- À mesurer à +48 h (18/11) : > 1 000 vues ou ≥ 3 favoris -> série « a conta » (salão, clínica, estética) ; ≤ 750 -> le hook n'est pas le levier, prochaine variable = durée 12-15 s.
