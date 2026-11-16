@@ -292,3 +292,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Veille vidIQ outliers BR (01-15/11) : explainers animés SANS VISAGE de SaaS PME : polvoapp « Dono de lava-jato, faz essa conta comigo 🧮 » 156K (1,3K abonnés !), nuncacai « O fiado tá falindo a loja? » 172K, eupauloleme barbearia Google 278K, alvespatrick_ lembrete 97K. Point commun : hook « a conta » (calcul de perte) + motion graphics + logiciel en fin.
 - ACTIONS : 2 commentaires utiles @astralix_servicos : nuncacai fiado (lembrete 1 jour avant = rappel, pas cobrança) ; polvoapp lava-jato (liste « não volta há 45 dias » pour barbearia/salão). revistapegn « reuniões » : déjà commenté par une autre session -> doublon évité.
 - PROGRAMMÉ E8 (Metricool, TikTok seul) : lun. 16/11 12h30 BRT (id 429174389). « Dono de barbearia, faz essa conta comigo 🧮 » : 3 clients/semaine × R$50 = R$600/mois (EXEMPLE affiché), fond foncé motion (retour au style des 700+), 26 s voix Matilda, carte astralixai.com + R$299,90/mês. ≈57 crédits vidIQ.
+
+## 2026-11-16 ~17h40 UTC — Passage LinkedIn + Gmail
+- LinkedIn: D4 RH/recrutamento programmé mar. 17/11 08:00 (18 et 20/11 déjà programmés) ; 15 invitations sans note (recherche Personnes encore limitée -> suggestions Réseau) ; 1 commentaire (Lívia Junquer, IA e transição de carreira) ; 0 entrant.
+- MESURE: doc LGPD 16/11 = 2 impressions (+6 h), D2 = 13, D3 = 5 vs textes 16-147 -> documents moins performants.
+- Gmail 48 h: 0 prospect/client/partenaire, 0 brouillon. Google Play: paiement Google One refusé (abonnement sera annulé si non mis à jour). Google Ads: +2,9 % « Local Ads Adjustment » Brésil au 01/01/2027. Mercado Pago: demande PIX R$19,90 à AREIAPLAY LTDA adressée à JP (commande test ?). Metricool 16/20 publications.

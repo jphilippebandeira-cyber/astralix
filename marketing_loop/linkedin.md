@@ -15,9 +15,9 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - D1_banco_7_prompts — PROGRAMMÉ mar. 10/11 08:00
 - D3_5_erros_prompt — PROGRAMMÉ mer. 11/11 08:00
 - D2_primeiro_emprego — PROGRAMMÉ ven. 13/11 08:00 (programmé le 13/11 ~02h UTC)
-- D4_rh_recrutamento (10 pages, créé 13/11) — EN FILE, non programmé (créneau lun. 16/11 déjà pris).
+- D4_rh_recrutamento (10 pages) — PROGRAMMÉ mar. 17/11 08:00 (titre « RH e recrutamento: 6 prompts prontos para copiar »).
 - PROGRAMMÉS PAR UNE AUTRE SESSION (vus 13/11, ne pas répéter) : lun. 16/11 08:30 « 5 regras de LGPD para usar ChatGPT na empresa » (doc 7 p.) ; mer. 18/11 08:30 « Treinar a equipe em IA: faça a conta » (doc) ; ven. 20/11 08:30 « Trainee 2027: 3 prompts » (lien are-ia.com).
-- Prochain créneau libre : mar. 17/11 ou jeu. 19/11 08:00 -> D4.
+- Prochain créneau libre : jeu. 19/11 08:00 -> créer D5 (sujet non fait ci-dessous).
 - Prochains sujets (non faits) : vendas/comercial, atendimento ao cliente, gestor de equipe 1:1, estudante TCC/estudos, analista financeiro.
 
 ## Astuces techniques
@@ -88,3 +88,10 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - ⚠️ BANDEAU « Vous avez atteint votre limite de recherches mensuelles » (recherche Personnes) apparu après la 6e recherche : les résultats restent visibles en partie (profils « Utilisateur LinkedIn » masqués). Prochains passages: alternative = onglet « Réseau » > suggestions (Personnes que vous pourriez connaître) filtrées sur titres brésiliens pertinents.
 - COMMENTAIRE (1): Ronie Oliveira Reyes (post Reuters/Fed sur l'impact IA sur juniors, 7 h): IA fait le 1er rascunho, le júnior confère/corrige/explique ; feedback du sênior. Publié sans toast de limite (~21 h après le précédent).
 - Mots-clés utilisés: + analista de marketing IA; coordenador comercial IA; gerente de loja IA; analista de dados júnior IA; professor ensino médio IA; analista de atendimento IA.
+
+## 2026-11-16 (passage planifié, ~17h40 UTC = 14h40 BRT)
+- POST: « Programmé (2) » = mer. 18/11 + ven. 20/11 08:30 -> D4_rh_recrutamento PROGRAMMÉ mar. 17/11 08:00 (toast « Post programmé »). Légende: accroche + 6 prompts + cuidado LGPD (currículo = dado pessoal) + question + #RH #Recrutamento #InteligenciaArtificial #LGPD, sans lien.
+- MESURE (page Activité): « 5 regras LGPD » (document programmé lun. 16/11 08:30) = 2 à +6 h ; D2 primeiro emprego (document) = 13 ; D3 5 erros (document) = 5 ; « Quem trabalha em agência » (D1 banco ?) = 8 ; textes: feedback 16, Excel 17, e-mail cliente 34, ata 147. CONSTAT: documents 2-13 vs textes 16-147 -> les textes portent davantage ; à tester: un texte prompt pur (format ata) en direct.
+- Entrant: 0 commentaire, 0 message (seuls LinkedIn/InMail sponsorisé), aucune invitation personne reçue (newsletter Fernando Terra ignorée). Tatiane Roquetti + 11 autres ont accepté nos invitations.
+- INVITATIONS (15, sans note, aucun avertissement): recherche Personnes TOUJOURS bloquée (bandeau limite mensuelle, 1 seul résultat visible) -> Felipe Bernardo (supervisor retenção, « supervisor de atendimento IA ») ; puis onglet Réseau > Développer (suggestions, l'invitation part au clic, sans modale): Letícia Alcântara (R&S), Demétrio Pinho (RH), Rodrigo Augusto da Silva (professor), Camila Paes (dados/BI), Juliana Ferreira Nunes (R&S), Danilo Ferreira (coordenador), Meire Fiuza (instrutora RH), Sthefany Silva (RH T&D), Isabella Nadona Reis (finanças/adm), Thais F. (analista RH), Eduardo Teixeira (RH), Victor Simões (gerência/financeiro), Julio Corrêa (treinamento), Rodolfo Bernardino (gestor educacional).
+- COMMENTAIRE (1): Lívia Junquer (mentora de carreira, « IA e transição de carreira », <1 h): 3 entregas reais -> IA traduit pour la zone de destination, puis valider avec qqn du domaine (la IA enfeita). Publié sans toast de limite. Recherche de contenu (« inteligência artificial carreira », 24 h) fonctionne malgré la limite Personnes.
