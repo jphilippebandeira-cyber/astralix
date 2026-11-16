@@ -306,3 +306,11 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Gmail 48 h : 0 prospect/vente ; Hotmart : aucun e-mail de vente -> 0 vente. Mercado Pago PIX R$19,90 à AREIAPLAY (déjà noté).
 - ACTIONS : 2 commentaires utiles @astralix_servicos (sans lien) : nuncacai « Pix pelo WhatsApp » (Pix copia e cola avec valeur + nom du service) ; brunoluissmkt « lotar salão » 1,2M (date limite sur l'enveloppe + rappel WhatsApp 3 j avant). Veille vidIQ outliers BR 08-16/11 (voir experiments.md).
 - PAS de nouvelle vidéo : quota Metricool (3-4 restants jusqu'au 01/12) + E8 non mesurable avant +48 h. E9 préparé en hypothèse (durée longue), production au passage du 18/11.
+
+## 2026-11-16 ~20h30 UTC (17h30 BRT) — Passage PDG (court, +2,5 h après le précédent)
+- MESURE TikTok @nexoaiii (vidIQ) : E8 « faz essa conta comigo » = 245 vues / 1 like à +5 h (E6 253 à +8 h -> rythme légèrement plus rapide, verdict 18/11). E6 257, E7 255, anciennes 707-728-716. Vidéos GTA 6 (hors Metricool) : 168 vues/8 likes et 213/2.
+- Instagram @astralix_servicos (vidIQ) : E6 98 plays, E7 7 ; aucun nouveau Reel. Metricool : E8 PUBLISHED, 0 ERROR, file vide (quota 16/20).
+- DM @astralix_servicos : Primary rien de nouveau ; Pedidos = Pedro Fafá (INPI, toujours non répondu). Notifications : brunoluissmkt a « répondu » à notre commentaire (message type « acabei de te mandar… » = réponse automatique de son tunnel « comente AGENDA », pas un lead -> pas de réponse) ; helivane_sueli nouvel abonné.
+- Gmail 24 h : 0 prospect, 0 vente Hotmart (rien de nouveau depuis le passage LinkedIn).
+- ACTIONS : 2 commentaires utiles @astralix_servicos (sans lien), vérifiés après rechargement : nuncacai Dfza_KtsE-Y « loja depende de você / 5 perguntas » (premier commentaire : transformer les 5 réponses en respostas rápidas du WhatsApp Business, raccourci /) ; nuncacai Dfw2NAwMy-f « ponto de equilíbrio » 45K (meta do dia ÷ ticket médio = cadeiras à remplir). revistapegn DfFF6GUhg9t : déjà commenté par une autre session il y a 1 j -> doublon évité.
+- Pas de vidéo (quota Metricool + E8 en cours).

@@ -106,3 +106,7 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 - Conclusion : l'hypothèse « raccourcir à 12-15 s » est contredite par les données ; on la remplace.
 - Décision E9 (production 18/11, publication TikTok 19/11, veille du férié 20/11) : explainer animé 70-90 s, voix Matilda, fond foncé, contenu utile en étapes (« a conta da cadeira vazia » ou checklist feriado), Astralix seulement dans les 10 dernières secondes. Si E8 > 1 000 vues, on garde son hook « faz essa conta » ; sinon hook POV.
 - Alerte : 2 vidéos GTA 6 en anglais sont apparues sur @nexoaiii (hors Metricool) -> peuvent fausser la lecture de la niche par TikTok ; signalé à JP.
+
+## Point 16/11 17h30 BRT — E8 en cours, nouvelle micro-expérience « premier commentaire »
+- E8 = 245 vues à +5 h (E6 253 à +8 h) : légère avance, pas de conclusion avant 18/11.
+- Nouvelle variable (commentaires, pas vidéos) : commenter dans la 1re heure/premières heures d'un Reel FRAIS d'un compte PME à forte croissance (nuncacai, 2,1K plays, 0 commentaire) au lieu des gros Reels saturés -> hypothèse : le 1er commentaire reste en tête et rapporte plus de likes/visites de profil. À mesurer au prochain passage : likes sur le commentaire Dfza_KtsE-Y vs celui sur Dfw2NAwMy-f (Reel de 45K, 48 commentaires).
