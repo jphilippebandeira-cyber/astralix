@@ -99,3 +99,10 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 - Variable testée : le TYPE de hook (calcul concret en R$, chiffre exemple affiché comme exemple) ; style visuel = contrôle (fond foncé motion, plancher ~710 vues).
 - Test : TikTok 16/11 12h30 (id 429174389). Pas d'IG (quota).
 - À mesurer à +48 h (18/11) : > 1 000 vues ou ≥ 3 favoris -> série « a conta » (salão, clínica, estética) ; ≤ 750 -> le hook n'est pas le levier, prochaine variable = durée 12-15 s.
+
+## Point 16/11 — E8 trop jeune, nouvelle piste : la DURÉE (longue, pas courte)
+- E8 = 157 vues à +2,5 h : rien à conclure avant le 18/11.
+- Veille vidIQ 08-16/11 : les outliers PME BR sont LONGS et éducatifs : nuncacai (5,9K abonnés, explainers animés sans visage, 140-170 s, 2-3/jour) = 233K et 253K plays sur « capital de giro » / « giro de estoque » ; TikTok ronyrebels 178 s 42K, rodrigojanesbraga 176 s 164K. Nos vidéos font 24-29 s et plafonnent à ~730.
+- Conclusion : l'hypothèse « raccourcir à 12-15 s » est contredite par les données ; on la remplace.
+- Décision E9 (production 18/11, publication TikTok 19/11, veille du férié 20/11) : explainer animé 70-90 s, voix Matilda, fond foncé, contenu utile en étapes (« a conta da cadeira vazia » ou checklist feriado), Astralix seulement dans les 10 dernières secondes. Si E8 > 1 000 vues, on garde son hook « faz essa conta » ; sinon hook POV.
+- Alerte : 2 vidéos GTA 6 en anglais sont apparues sur @nexoaiii (hors Metricool) -> peuvent fausser la lecture de la niche par TikTok ; signalé à JP.

@@ -297,3 +297,12 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - LinkedIn: D4 RH/recrutamento programmé mar. 17/11 08:00 (18 et 20/11 déjà programmés) ; 15 invitations sans note (recherche Personnes encore limitée -> suggestions Réseau) ; 1 commentaire (Lívia Junquer, IA e transição de carreira) ; 0 entrant.
 - MESURE: doc LGPD 16/11 = 2 impressions (+6 h), D2 = 13, D3 = 5 vs textes 16-147 -> documents moins performants.
 - Gmail 48 h: 0 prospect/client/partenaire, 0 brouillon. Google Play: paiement Google One refusé (abonnement sera annulé si non mis à jour). Google Ads: +2,9 % « Local Ads Adjustment » Brésil au 01/01/2027. Mercado Pago: demande PIX R$19,90 à AREIAPLAY LTDA adressée à JP (commande test ?). Metricool 16/20 publications.
+
+## 2026-11-16 ~18h UTC (15h BRT) — Passage PDG
+- MESURE TikTok @nexoaiii (vidIQ) : E8 « faz essa conta comigo » (12h30 BRT) = 157 vues / 1 like à +2,5 h (verdict 18/11). E6 257, E7 255 (stables, 0 interaction). Anciennes 707-728-716.
+- ⚠️ ANOMALIE : 2 vidéos « GTA 6 » en ANGLAIS publiées aujourd'hui sur @nexoaiii (101 et 213 vues), PAS via Metricool ni via ce repo -> publiées par une autre source (JP ? autre outil ?). Elles brouillent la niche PME BR du compte Astralix. À vérifier par JP ; non supprimées (pas notre contenu).
+- Instagram @astralix_servicos (vidIQ) : E6 98 plays (record), E7 7, barbearia 7. Metricool : E8 PUBLISHED, 0 ERROR, file vide.
+- DM : ex-@areiacurso (« minhahoracomdeus.app ») Primary rien de nouveau (diffusions de créateurs), Pedidos vide. @astralix_servicos Primary/Pedidos : rien de nouveau. Notifications : 1 nouvel abonné (helivane_sueli) ; edileidesilva91 a répondu à notre commentaire sur nuncacai (fiado) « pro veaco é ofensa » (blague, pas un lead) ; likes famille sur E6/E7.
+- Gmail 48 h : 0 prospect/vente ; Hotmart : aucun e-mail de vente -> 0 vente. Mercado Pago PIX R$19,90 à AREIAPLAY (déjà noté).
+- ACTIONS : 2 commentaires utiles @astralix_servicos (sans lien) : nuncacai « Pix pelo WhatsApp » (Pix copia e cola avec valeur + nom du service) ; brunoluissmkt « lotar salão » 1,2M (date limite sur l'enveloppe + rappel WhatsApp 3 j avant). Veille vidIQ outliers BR 08-16/11 (voir experiments.md).
+- PAS de nouvelle vidéo : quota Metricool (3-4 restants jusqu'au 01/12) + E8 non mesurable avant +48 h. E9 préparé en hypothèse (durée longue), production au passage du 18/11.
