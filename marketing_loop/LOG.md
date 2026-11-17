@@ -314,3 +314,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Gmail 24 h : 0 prospect, 0 vente Hotmart (rien de nouveau depuis le passage LinkedIn).
 - ACTIONS : 2 commentaires utiles @astralix_servicos (sans lien), vérifiés après rechargement : nuncacai Dfza_KtsE-Y « loja depende de você / 5 perguntas » (premier commentaire : transformer les 5 réponses en respostas rápidas du WhatsApp Business, raccourci /) ; nuncacai Dfw2NAwMy-f « ponto de equilíbrio » 45K (meta do dia ÷ ticket médio = cadeiras à remplir). revistapegn DfFF6GUhg9t : déjà commenté par une autre session il y a 1 j -> doublon évité.
 - Pas de vidéo (quota Metricool + E8 en cours).
+
+## 2026-11-17 ~21h UTC — Passage LinkedIn + Gmail
+- LinkedIn: D5 vendas/comercial programmé jeu. 19/11 08:00 (18 et 20/11 déjà programmés à 08:30) ; 15 invitations sans note (recherche Personnes refonctionne) ; 1 commentaire (Tais Targa, Top Voice, IA e currículo) ; 0 entrant.
+- MESURE: D4 RH 17/11 = 10 impressions (+9 h), LGPD 16/11 = 8, D2 = 14 ; 30 impressions semaine.
+- Gmail 48 h: 0 prospect/client/partenaire/affilié, 0 brouillon, 0 vente Hotmart. À signaler: code de confirmation Instagram reçu 17/11 18h38 UTC ; création de compte Parimatch (confirmez l'e-mail) 17/11 00h46 UTC ; Google One/Gemini AI Plus paiement refusé ; Winamax virement rejeté par la banque (somme recréditée).

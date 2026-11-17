@@ -236,5 +236,68 @@
     "Amostra grátis em are-ia.com"
    ]
   }
+ ],
+ "D5_vendas_comercial": [
+  {
+   "t": "cover",
+   "num": "6",
+   "title": "prompts para quem trabalha com vendas",
+   "sub": "Prospecção, objeção, proposta e pós-venda. Salve e teste no próximo cliente."
+  },
+  {
+   "k": "Antes de tudo",
+   "title": "Dado de cliente não vai para IA pública",
+   "p": [
+    "Não cole nome, CPF/CNPJ, telefone, e-mail ou histórico de compras do cliente em ferramenta pública de IA.",
+    "Descreva o perfil (“varejo, 20 funcionários, interior de SP”) ou use a ferramenta aprovada pela empresa (LGPD)."
+   ]
+  },
+  {
+   "k": "1 · Preparar a reunião",
+   "title": "Chegar sabendo o que perguntar",
+   "box": "Vou falar com um(a) <b>[cargo]</b> de uma empresa de <b>[setor, porte]</b>. Liste 5 dores prováveis desse perfil, 6 perguntas abertas para confirmar cada dor e 2 sinais de que não é o momento de comprar.",
+   "tip": "As dores são hipóteses: confirme na conversa, não afirme."
+  },
+  {
+   "k": "2 · Objeções",
+   "title": "“Está caro” não é o fim da conversa",
+   "box": "Meu cliente disse: <b>“[objeção exata]”</b>. Dê 3 perguntas para entender o que está por trás, 2 respostas possíveis em tom consultivo e o que eu NÃO devo dizer. Produto: <b>[descrição curta]</b>."
+  },
+  {
+   "k": "3 · Proposta",
+   "title": "Uma página que o decisor lê",
+   "box": "Transforme estas anotações da reunião em uma proposta de 1 página: problema do cliente nas palavras dele, solução, 3 entregas, prazo e próximo passo. Marque com <b>[CONFIRMAR]</b> todo preço, prazo ou condição que eu ainda não validei."
+  },
+  {
+   "k": "4 · Follow-up",
+   "title": "Retomar sem parecer cobrança",
+   "box": "Escreva uma mensagem de follow-up para um cliente que pediu para pensar há <b>[X dias]</b>. Traga 1 informação útil nova, uma pergunta simples de sim/não e no máximo 5 linhas. Sem “só passando para saber”."
+  },
+  {
+   "k": "5 · Pós-reunião",
+   "title": "CRM atualizado em 2 minutos",
+   "box": "Resuma estas anotações em: necessidade, decisor e influenciadores, orçamento mencionado, objeções, próximo passo com data. Se algo não foi dito, escreva <b>[NÃO DISCUTIDO]</b> em vez de supor."
+  },
+  {
+   "k": "6 · Análise de perdas",
+   "title": "Aprender com o “não”",
+   "box": "Aqui estão os motivos de perda dos últimos negócios (sem nomes de clientes). Agrupe em até 5 padrões, diga qual aparece mais e sugira 1 pergunta de qualificação que teria evitado cada um."
+  },
+  {
+   "k": "Cuidado",
+   "title": "IA escreve, você responde por cada promessa",
+   "p": [
+    "Nunca envie desconto, prazo ou condição que a IA sugeriu sem validar com a empresa.",
+    "Leia a mensagem final em voz alta: se não parece você, reescreva."
+   ]
+  },
+  {
+   "t": "end",
+   "title": "Vendedor que pede bem à IA passa mais tempo com o cliente.",
+   "p": [
+    "Guia completo com prompts por situação de trabalho.",
+    "Amostra grátis em are-ia.com"
+   ]
+  }
  ]
 }
