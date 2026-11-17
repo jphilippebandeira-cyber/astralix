@@ -110,3 +110,14 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 ## Point 16/11 17h30 BRT — E8 en cours, nouvelle micro-expérience « premier commentaire »
 - E8 = 245 vues à +5 h (E6 253 à +8 h) : légère avance, pas de conclusion avant 18/11.
 - Nouvelle variable (commentaires, pas vidéos) : commenter dans la 1re heure/premières heures d'un Reel FRAIS d'un compte PME à forte croissance (nuncacai, 2,1K plays, 0 commentaire) au lieu des gros Reels saturés -> hypothèse : le 1er commentaire reste en tête et rapporte plus de likes/visites de profil. À mesurer au prochain passage : likes sur le commentaire Dfza_KtsE-Y vs celui sur Dfw2NAwMy-f (Reel de 45K, 48 commentaires).
+
+## Diagnostic 17/11 — E8 échoue ; le plafond ~250 est un effet COMPTE, pas créatif
+- Hypothèse E8 : hook « faz essa conta » (calcul) > POV. Résultat : 246 vues à +32 h, 1 like (≤ 750 -> échec).
+- Relecture : depuis le 13/11, TOUTES les vidéos plafonnent à 180-257 (jaune E6/E7, foncé E8, et même les GTA 6 d'une autre source) alors que les 7 vidéos du 06-10/11 ont atteint 707-755. Le style jaune n'était donc probablement pas la cause (conclusion du 15/11 corrigée) : la distribution du compte a baissé (0 interaction cumulée, contenu GTA hors niche mêlé).
+- Décision : garder E9 (durée longue 69 s, contenu utile « salvável ») comme dernière variable créative ; si E9 reste ~250 à +48 h (21/11), le levier n'est plus la vidéo mais le compte : demander à JP d'arrêter/séparer les GTA 6, bio PT + lien, et tester la publication native TikTok Studio (sans quota Metricool) à une autre heure (19h).
+- Commentaires : le « 1er commentaire sur Reel frais » = 0 like -> abandonné ; on garde 2 commentaires/passage sur gros Reels uniquement quand le compte Instagram actif est confirmé.
+
+## E9 (19/11) — Explainer LONG 69 s, 5 réglages gratuits WhatsApp Business (Astralix)
+- Variable : durée/format (long éducatif en 5 étapes, cf. outliers nuncacai 140-170 s) ; hook POV (seul hook > 700 historique), fond foncé.
+- Test : TikTok 19/11 12h30 BRT (id 432026713).
+- Mesure +48 h (21/11) : vues, favoris (signal clé d'un contenu « à sauvegarder »), temps de visionnage si dispo. > 1 000 vues ou ≥ 3 favoris -> série « X configurações grátis » (barbearia, clínica, estética). Sinon -> problème compte (voir diagnostic).
