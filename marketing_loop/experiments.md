@@ -121,3 +121,9 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 - Variable : durée/format (long éducatif en 5 étapes, cf. outliers nuncacai 140-170 s) ; hook POV (seul hook > 700 historique), fond foncé.
 - Test : TikTok 19/11 12h30 BRT (id 432026713).
 - Mesure +48 h (21/11) : vues, favoris (signal clé d'un contenu « à sauvegarder »), temps de visionnage si dispo. > 1 000 vues ou ≥ 3 favoris -> série « X configurações grátis » (barbearia, clínica, estética). Sinon -> problème compte (voir diagnostic).
+
+## Point 18/11 — E9 en attente ; prochaine variable = hook « Se eu tivesse um(a)… »
+- E8 confirmé échec (247 à +56 h). Le plafond ~250 touche toutes les vidéos depuis le 13/11 -> l'hypothèse « effet compte » tient.
+- Veille : joaorenatomkt (244 abonnés) = 22K vues avec un explainer animé sans visage, hook conditionnel « Se eu tivesse uma clínica de estética… » + étapes numérotées. Preuve qu'un petit compte peut percer avec ce format -> contredit en partie « effet compte » ; le levier serait le hook « stratégie à la 1re personne ».
+- Commentaires : ceux de la niche OAB (autre session) = 8 likes + réponse de la créatrice, nos commentaires PME = 0-2 likes. Hypothèse : répondre à une controverse/actualité du post > astuce générique.
+- Décision : mesurer E9 le 21/11. Si ≤ 750 vues -> E10 (TikTok, 1 variable : le hook) « Se eu tivesse uma barbearia, faria isso no WhatsApp » (3 étapes gratuites + Astralix 8 s en fin), même style foncé/voix Matilda que E9.
