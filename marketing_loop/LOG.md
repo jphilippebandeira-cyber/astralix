@@ -336,3 +336,7 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - Veille vidIQ outliers BR (10-18/11) : joaorenatomkt « Se eu tivesse uma clínica de estética » = 22K vues avec 244 abonnés (82x médiane), explainer motion graphics animé sans visage ; alvespatrick_ « lembrete de horário pelo WhatsApp » (Evento) 99K ; nuncacai fiado 206K ; diegocarielo Pronampe 1,3M (actualité).
 - ACTION : 1 commentaire utile @astralix_servicos (sans lien) sur alvespatrick_ Dfpjwh4OUI9 (confirmation la veille « responde 1 » + liste d'attente), vérifié publié. diegocarielo (18K commentaires) et joaorenatomkt (357 « AGENDA ») écartés : commentaire noyé.
 - Pas de nouvelle vidéo : E9 publie demain, quota Metricool 17/20.
+## 2026-11-18 ~21h UTC — Passage LinkedIn + Gmail
+- LinkedIn: rien créé (19/11 08:00 D5 vendas et 20/11 08:30 déjà programmés) ; réponse à Tais Targa (Top Voice, a répondu à notre commentaire) ; 15 invitations sans note ; 1 commentaire (Ítalo Teotônio, currículo 2027) ; 0 message entrant.
+- MESURE: « Treinar a equipe » (doc 18/11) = 2 impressions à +4 h, D4 RH = 20, D3 = 5.
+- Gmail 24 h: 0 prospect/client/partenaire/affilié, 0 vente Hotmart, 0 brouillon. 10 e-mails « simulei o atendimento de vocês no WhatsApp » envoyés à des cabinets comptables/avocats le 18/11 06h40 UTC depuis la boîte (hors de cette tâche, Astralix) : aucune réponse reçue. À signaler: connexion Google -> Spotify 18/11 01h15 ; Poupatempo DETRAN Santo Amaro 18/11 10h45 annulé ; Letzplay inscription InterCalçadão (rappel puis paiement identifié).
