@@ -299,5 +299,68 @@
     "Amostra grátis em are-ia.com"
    ]
   }
+ ],
+ "D6_atendimento_cliente": [
+  {
+   "t": "cover",
+   "num": "6",
+   "title": "prompts para quem trabalha com atendimento",
+   "sub": "Reclamação, resposta padrão, chamado e base de conhecimento. Salve e teste no próximo atendimento."
+  },
+  {
+   "k": "Antes de tudo",
+   "title": "Dado do cliente fica fora da IA pública",
+   "p": [
+    "Não cole nome, CPF, telefone, endereço, número de pedido ou protocolo em ferramenta pública de IA.",
+    "Troque por [CLIENTE] e [PEDIDO], ou use a ferramenta aprovada pela empresa (LGPD)."
+   ]
+  },
+  {
+   "k": "1 · Reclamação",
+   "title": "Responder sem esquentar a conversa",
+   "box": "Um cliente escreveu: <b>“[mensagem, sem dados pessoais]”</b>. Separe o que ele pede de fato, o que é desabafo e o que depende de outra área. Depois escreva uma resposta curta, empática e sem prometer prazo. Marque <b>[CONFIRMAR]</b> onde eu preciso checar algo.",
+   "tip": "Empatia não é concordar com tudo: é mostrar que entendeu."
+  },
+  {
+   "k": "2 · Resposta padrão",
+   "title": "Um modelo que não parece robô",
+   "box": "Crie 3 versões de resposta para a dúvida <b>“[dúvida frequente]”</b>: uma formal, uma próxima e uma para WhatsApp (até 4 linhas). Use a política abaixo e não invente regra que não está nela: <b>[política]</b>."
+  },
+  {
+   "k": "3 · Chamado interno",
+   "title": "Passar o caso sem perder informação",
+   "box": "Transforme este histórico de atendimento em um chamado para a área <b>[área]</b>: problema em 1 frase, o que já foi tentado, impacto para o cliente e o que preciso que eles respondam. Sem dados pessoais."
+  },
+  {
+   "k": "4 · Notícia ruim",
+   "title": "Dizer “não” e manter o cliente",
+   "box": "Preciso informar ao cliente que <b>[o que não é possível]</b>. Escreva a mensagem em 3 partes: o que aconteceu, o que posso oferecer de concreto (<b>[alternativas reais]</b>) e o próximo passo. Nada de “infelizmente” no começo."
+  },
+  {
+   "k": "5 · Base de conhecimento",
+   "title": "Da dúvida repetida ao artigo",
+   "box": "Aqui estão 10 perguntas que recebi esta semana (sem nomes). Agrupe por tema, diga quais 3 merecem um artigo de ajuda e escreva o primeiro em passos numerados, com linguagem simples."
+  },
+  {
+   "k": "6 · Revisão",
+   "title": "Antes de enviar, peça uma segunda leitura",
+   "box": "Revise esta resposta como um supervisor de atendimento: tom, clareza, promessa que não posso cumprir e informação faltando. Liste os problemas e depois mostre a versão corrigida. <b>[resposta]</b>"
+  },
+  {
+   "k": "Cuidado",
+   "title": "A IA sugere, você responde pela empresa",
+   "p": [
+    "Prazo, reembolso e exceção só com validação da política ou do gestor.",
+    "Leia a resposta como se fosse o cliente: se você ficaria irritado, reescreva."
+   ]
+  },
+  {
+   "t": "end",
+   "title": "Atendente que pede bem à IA resolve mais e se desgasta menos.",
+   "p": [
+    "Guia completo com prompts por situação de trabalho.",
+    "Amostra grátis em are-ia.com"
+   ]
+  }
  ]
 }

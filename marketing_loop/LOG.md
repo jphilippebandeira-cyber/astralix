@@ -340,3 +340,8 @@ Générateur: `python3 gen.py specs.json` (Playwright + ffmpeg, 1080x1920, ~27 s
 - LinkedIn: rien créé (19/11 08:00 D5 vendas et 20/11 08:30 déjà programmés) ; réponse à Tais Targa (Top Voice, a répondu à notre commentaire) ; 15 invitations sans note ; 1 commentaire (Ítalo Teotônio, currículo 2027) ; 0 message entrant.
 - MESURE: « Treinar a equipe » (doc 18/11) = 2 impressions à +4 h, D4 RH = 20, D3 = 5.
 - Gmail 24 h: 0 prospect/client/partenaire/affilié, 0 vente Hotmart, 0 brouillon. 10 e-mails « simulei o atendimento de vocês no WhatsApp » envoyés à des cabinets comptables/avocats le 18/11 06h40 UTC depuis la boîte (hors de cette tâche, Astralix) : aucune réponse reçue. À signaler: connexion Google -> Spotify 18/11 01h15 ; Poupatempo DETRAN Santo Amaro 18/11 10h45 annulé ; Letzplay inscription InterCalçadão (rappel puis paiement identifié).
+
+## 2026-11-21 ~04h UTC — Passage LinkedIn + Gmail (créneau 20/11 en retard)
+- LinkedIn: D6 atendimento ao cliente (doc 10 p.) programmé lun. 23/11 08:00 ; 15 invitations sans note ; 0 commentaire (Chrome partagé) ; 0 entrant humain.
+- MESURE: Trainee 2027 = 7, D5 vendas = aucun chiffre, Treinar equipe = 7, D4 RH = 22.
+- Gmail depuis 18/11: 0 prospect/client/partenaire/affilié, 0 vente Hotmart, 0 réponse aux e-mails « simulei », 0 brouillon. Alertes compte/paiement signalées à JP dans le rapport du passage.

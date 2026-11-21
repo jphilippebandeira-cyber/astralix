@@ -18,8 +18,9 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - D4_rh_recrutamento (10 pages) — PROGRAMMÉ mar. 17/11 08:00 (titre « RH e recrutamento: 6 prompts prontos para copiar »).
 - PROGRAMMÉS PAR UNE AUTRE SESSION (vus 13/11, ne pas répéter) : lun. 16/11 08:30 « 5 regras de LGPD para usar ChatGPT na empresa » (doc 7 p.) ; mer. 18/11 08:30 « Treinar a equipe em IA: faça a conta » (doc) ; ven. 20/11 08:30 « Trainee 2027: 3 prompts » (lien are-ia.com).
 - D5_vendas_comercial (10 pages) — PROGRAMMÉ jeu. 19/11 08:00 (titre « Vendas: 6 prompts prontos para copiar »).
-- Prochain créneau libre : lun. 23/11 08:00 (ven. 20/11 = feriado Consciência Negra, déjà pris par « Trainee 2027 » 08:30).
-- Prochains sujets (non faits) : atendimento ao cliente, gestor de equipe 1:1, estudante TCC/estudos, analista financeiro.
+- D6_atendimento_cliente (10 pages) — PROGRAMMÉ lun. 23/11 08:00 (titre « Atendimento: 6 prompts prontos para copiar »).
+- Prochain créneau libre : mar. 24/11 08:00.
+- Prochains sujets (non faits) : gestor de equipe 1:1, estudante TCC/estudos, analista financeiro.
 
 ## Astuces techniques
 - DOCUMENT : composer > « + » > Document. L'input file n'existe pas dans le DOM : surcharger HTMLInputElement.prototype.click (capturer l'input type=file, l'attacher au body avec aria-label « captured file input », ne pas ouvrir le sélecteur), cliquer « Choisir un fichier » via JS, find « captured file input », puis file_upload depuis /mnt/user-data/outputs/. Titre (≤58 car.) > Terminé > coller la légende.
@@ -114,3 +115,12 @@ Règles: 1 post PT-BR/jour (lien are-ia.com une fois sur deux, en fin de post), 
 - COMMENTAIRE (1 + la réponse à Tais): Prof. Ítalo Teotônio (« O currículo de 2027: não vai bastar dizer que sabe IA », 5 h): remplacer « conhecimento em ChatGPT » par 1 entrega en 3 parties (ce que l'IA a fait / ce que j'ai vérifié / résultat réel) + s'entraîner au test « sem IA » en écrivant le squelette du raisonnement avant d'ouvrir l'outil. Publié sans toast de limite (2 interactions écrites dans la journée passent).
 - Astuce: la frappe `type` fonctionne de nouveau dans les champs de commentaire/réponse (clic dans le champ puis type).
 - Mots-clés utilisés: + gerente de atendimento IA; analista de customer success IA; gerente financeiro inteligência artificial; supervisor de call center IA. Prochaine fois: estudante de marketing IA, analista de RH júnior, gerente de banco varejo, coordenador de T&D, analista administrativo ChatGPT.
+
+## 2026-11-21 (passage planifié, ~04h UTC = 01h BRT sam.; créneau du 20/11 déclenché en retard)
+- POST: « Programmé (0) » -> D6_atendimento_cliente créé (10 p., planche contrôlée) et PROGRAMMÉ lun. 23/11 08:00 (toast « Post programmé »). Légende: accroche + 6 prompts + cuidado LGPD ([CLIENTE]/[PEDIDO]) + question + #Atendimento #CustomerSuccess #InteligenciaArtificial #LGPD, sans lien.
+- MESURE (page Activité): « Trainee 2027 » (texte + lien, 20/11) = 7 ; D5 vendas (doc 19/11) = aucun chiffre affiché (≈0, comme D1) ; « Treinar a equipe » (doc 18/11) = 7 ; D4 RH (doc) = 22 ; LGPD (doc) = 11 ; D2 = 14 ; textes anciens : resumo 8, feedback 16, Excel 17, e-mail cliente 34, ata 147. 159 abonnés. CONSTAT: doc vs texte à égalité basse ; 2 docs sur 7 sans impression (D1, D5) -> vérifier leur visibilité.
+- ENTRANT: Tais Targa a de nouveau répondu à notre réponse -> fil clos, pas de relance. Letícia Castro a aimé notre commentaire. 0 message humain, 0 invitation personne.
+- INVITATIONS (15, sans note, aucun avertissement, « En attente » vérifié): analista de RH júnior IA (4), gerente de banco varejo IA (4), coordenador de T&D inteligência artificial (4), analista administrativo ChatGPT (3).
+- COMMENTAIRE: 0 — recherche de contenu 24 h sans créateur BR pertinent, puis groupe d'onglets Chrome fermé 3 fois (Chrome partagé avec une autre session) -> arrêt du navigateur.
+- Mots-clés utilisés: + analista de RH júnior IA; gerente de banco varejo IA; coordenador de T&D IA; analista administrativo ChatGPT. Prochaine fois: estudante de marketing IA, gerente de relacionamento PJ, analista de folha de pagamento IA, coordenador de atendimento, professor de cursinho IA.
+- Astuce: après « Terminé » du document, l'éditeur tiptap met ~2 s à réapparaître ; refaire setContent si « no editor ».
