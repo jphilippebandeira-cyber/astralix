@@ -127,3 +127,10 @@ Format : hypothèse -> test -> résultat mesuré -> conclusion -> décision
 - Veille : joaorenatomkt (244 abonnés) = 22K vues avec un explainer animé sans visage, hook conditionnel « Se eu tivesse uma clínica de estética… » + étapes numérotées. Preuve qu'un petit compte peut percer avec ce format -> contredit en partie « effet compte » ; le levier serait le hook « stratégie à la 1re personne ».
 - Commentaires : ceux de la niche OAB (autre session) = 8 likes + réponse de la créatrice, nos commentaires PME = 0-2 likes. Hypothèse : répondre à une controverse/actualité du post > astuce générique.
 - Décision : mesurer E9 le 21/11. Si ≤ 750 vues -> E10 (TikTok, 1 variable : le hook) « Se eu tivesse uma barbearia, faria isso no WhatsApp » (3 étapes gratuites + Astralix 8 s en fin), même style foncé/voix Matilda que E9.
+
+## Diagnostic 21/11 — E9 (long 69 s) : gain partiel, plafond compte entamé
+- Hypothèse E9 : format long éducatif « salvável » > 25 s. Résultat : 430 vues à +37 h (vs 246-257 pour E6-E8 au même âge), 1 like, 0 favori.
+- Conclusion : la durée longue fait monter la distribution (+70 %) mais ne déclenche pas la sauvegarde (0 favori) -> le contenu est regardé, pas jugé « à garder ». Le plancher 700+ des 06-10/11 n'est pas retrouvé ; le compte est en plus pollué par EN (GTA 6) et FR (brainrot) d'une autre source.
+- Décision : GARDER le long (~55-70 s) ; changer UNE variable = le hook -> E10 « Se eu tivesse uma barbearia… » (validé par 2 outliers BR sans visage : codigodolucroteam 311K/3,8K abonnés, joaorenatomkt 22K/244 abonnés).
+- Mesure E10 à +48 h (25/11) : > 750 vues ou ≥ 2 favoris -> série « Se eu tivesse um(a) [salão/clínica/estética] » ; sinon, prochaine variable = musique de fond + SFX (seul élément de production présent chez tous les outliers et absent chez nous). 2 posts Metricool restants jusqu'au 01/12.
+- Bloquant pour JP (non urgent) : arrêter ou déplacer les vidéos GTA 6 / brainrot FR de @nexoaiii vers un autre compte.
